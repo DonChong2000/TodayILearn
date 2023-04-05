@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "e6ae380d5728350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ffd094e16734d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "548053c2cb846723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The First Sync.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0077775bdd321dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f2c2f94f1a991f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed970ec0ea68fbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23ed05f803672778",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab21448701fd5861",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ada07d4c2cecc90c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45839d4a4b34934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68488904c0698c76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The First Sync.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37a10d86c803341f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The First Sync.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7840d2eed2544da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b773868ca7e7c16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The First Sync.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "548053c2cb846723",
+  "lastOpenFiles": [
+    "The First Sync.md"
+  ]
+}
