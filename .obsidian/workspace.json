@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "548053c2cb846723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The First Sync.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6f1d92c46a5e191",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,13 +128,21 @@
                 "file": "The second Sync.md"
               }
             }
+          },
+          {
+            "id": "1d6cec4c8e335adf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
