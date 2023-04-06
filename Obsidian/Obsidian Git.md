@@ -7,6 +7,6 @@ U need switch to SSH and add pub key
 
 
 # How to push image to github?
+![](../Pasted%20image%2020230406120718.png)
 
-![](../Pasted%20image%2020230406120630.png)
-
+Make sure you are using 
