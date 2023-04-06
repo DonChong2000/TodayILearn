@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -161,6 +162,7 @@
   },
   "active": "766d79cefab34ace",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230406125005.png",
     "Living Skills/剪頭髮.md",
     "Cook/番茄炒蛋.md",
     "z.Images/Pasted image 20230403163625.png",
