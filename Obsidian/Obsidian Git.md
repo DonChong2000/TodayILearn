@@ -8,5 +8,5 @@ U need switch to SSH and add pub key
 
 # How to push image to github?
 
-![[../Pasted image 20230406120544.png]]
+![](../Pasted%20image%2020230406120630.png)
 
