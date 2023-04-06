@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian Git.md",
+                "file": "Living Skills/剪頭髮.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c0530d7d6f3a8f77",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "z.Images/Pasted image 20230406120434.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian Git.md",
+                "file": "Living Skills/剪頭髮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian Git.md",
+                "file": "Living Skills/剪頭髮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian Git.md"
+                "file": "Living Skills/剪頭髮.md"
               }
             }
           }
@@ -148,21 +158,21 @@
   },
   "active": "d7a166a292ae5a02",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20230406121108.png",
+    "z.Images/Pasted image 20230406121559.png",
+    "z.Images/Pasted image 20230406120434.png",
     "Living Skills/剪頭髮.md",
+    "Obsidian/Obsidian Git.md",
+    "z.Images/Pasted image 20230406121108.png",
     "z.Images/Pasted image 20230403131218.png",
     "z.Images/Pasted image 20230406115731.png",
-    "Obsidian/Obsidian Git.md",
     "z.Images/Pasted image 20230406120718.png",
     "z.Images/Pasted image 20230406120659.png",
     "z.Images/Pasted image 20230406120630.png",
     "z.Images/Pasted image 20230406120544.png",
-    "z.Images/Pasted image 20230406120434.png",
     "z.Images",
     "Obsidian",
     "z.Images/Pasted image 20230404131929.png",
     "z.Images/Pasted image 20230404131925.png",
-    "z.Images/Pasted image 20230404125211.png",
     "Obsidian/Cook/Pancake.md",
     "Psychologic/MBTI",
     "Psychologic",
