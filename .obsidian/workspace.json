@@ -11,8 +11,10 @@
             "id": "d7a166a292ae5a02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Living Skills/Pasted image 20230404131929.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Living Skills/Pasted image 20230404131929.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Living Skills/Pasted image 20230404131929.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Living Skills/Pasted image 20230404131929.png"
+              }
             }
           }
         ],
@@ -140,8 +146,19 @@
   },
   "active": "d7a166a292ae5a02",
   "lastOpenFiles": [
-    "Obsidian/Cook/Pancake.md",
+    "Living Skills/Pasted image 20230404131925.png",
+    "Living Skills/Pasted image 20230404125211.png",
+    "Living Skills/Pasted image 20230404123154.png",
+    "Living Skills/Pasted image 20230403164357.png",
+    "Living Skills/Pasted image 20230403163810.png",
+    "Living Skills/Pasted image 20230403163625.png",
+    "Living Skills/Pasted image 20230403163455.png",
+    "Living Skills/Pasted image 20230403131218.png",
+    "Living Skills/Pasted image 20230403163436.png",
+    "Living Skills/Pasted image 20230403163621.png",
+    "Living Skills/剪頭髮.md",
     "Obsidian Git.md",
+    "Obsidian/Cook/Pancake.md",
     "Psychologic/MBTI",
     "Psychologic",
     "Physiologic/Stress",
@@ -150,17 +167,7 @@
     "Physiologic",
     "Photography/How to use My Camera setup.md",
     "Photography",
-    "Living Skills/剪頭髮.md",
-    "Living Skills/Pasted image 20230404131925.png",
     "Living Skills/Pasted image 20230404131929.png",
-    "Living Skills/Pasted image 20230404125211.png",
-    "Living Skills/Pasted image 20230404125011.png",
-    "Living Skills/Pasted image 20230404123154.png",
-    "Living Skills/Pasted image 20230404123139.png",
-    "Living Skills/Pasted image 20230403164506.png",
-    "Living Skills/Pasted image 20230403164504.png",
-    "Living Skills/Pasted image 20230403164406.png",
-    "Living Skills/Pasted image 20230403164402.png",
     "Living Skills",
     "Cook/麥皮.md",
     "Cook/Recipe Tech Tree.md",
