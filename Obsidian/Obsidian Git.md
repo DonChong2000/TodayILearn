@@ -1,4 +1,4 @@
-# Windows
+# W[[剪頭髮]]indows
 U need restart computer 
 
 # Mac OS

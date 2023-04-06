@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian Git.md",
+                "file": "剪頭髮.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian Git.md",
+                "file": "剪頭髮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian Git.md",
+                "file": "剪頭髮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian Git.md"
+                "file": "剪頭髮.md"
               }
-            }
-          },
-          {
-            "id": "1d6cec4c8e335adf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "8b773868ca7e7c16",
   "lastOpenFiles": [
-    "Ob.md",
     "Obsidian/Obsidian Git.md",
+    "剪頭髮.md",
+    "Ob.md",
     "Obsidian",
     "The second Sync.md",
     "The First Sync.md",
