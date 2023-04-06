@@ -11,9 +11,11 @@
             "id": "d7a166a292ae5a02",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z.Images/Pasted image 20230403163625.png"
+                "file": "Living Skills/剪頭髮.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z.Images/Pasted image 20230403163625.png",
+                "file": "Living Skills/剪頭髮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z.Images/Pasted image 20230403163625.png",
+                "file": "Living Skills/剪頭髮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z.Images/Pasted image 20230403163625.png"
+                "file": "Living Skills/剪頭髮.md"
               }
             }
           }
@@ -156,6 +158,7 @@
   },
   "active": "d7a166a292ae5a02",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230403163625.png",
     "Living Skills/剪頭髮.md",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406120434.png",
