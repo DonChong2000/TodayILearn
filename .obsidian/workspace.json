@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "c0530d7d6f3a8f77",
+            "id": "766d79cefab34ace",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z.Images/Pasted image 20230406120434.png"
+                "file": "Cook/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/剪頭髮.md",
+                "file": "Cook/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/剪頭髮.md",
+                "file": "Cook/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/剪頭髮.md"
+                "file": "Cook/Untitled.md"
               }
             }
           }
@@ -157,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "766d79cefab34ace",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20230403163625.png",
     "Living Skills/剪頭髮.md",
+    "Cook/Untitled.md",
+    "z.Images/Pasted image 20230403163625.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406120434.png",
     "Obsidian/Obsidian Git.md",
@@ -173,7 +176,6 @@
     "z.Images/Pasted image 20230406120544.png",
     "z.Images",
     "Obsidian",
-    "z.Images/Pasted image 20230404131929.png",
     "Obsidian/Cook/Pancake.md",
     "Psychologic/MBTI",
     "Psychologic",
