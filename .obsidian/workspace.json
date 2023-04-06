@@ -11,9 +11,11 @@
             "id": "d7a166a292ae5a02",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Living Skills/Pasted image 20230404131929.png"
+                "file": "Living Skills/剪頭髮.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Pasted image 20230404131929.png",
+                "file": "Living Skills/剪頭髮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Pasted image 20230404131929.png",
+                "file": "Living Skills/剪頭髮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Pasted image 20230404131929.png"
+                "file": "Living Skills/剪頭髮.md"
               }
             }
           }
@@ -146,6 +148,8 @@
   },
   "active": "d7a166a292ae5a02",
   "lastOpenFiles": [
+    "Living Skills/Pasted image 20230403131218.png",
+    "Living Skills/Pasted image 20230404131929.png",
     "Living Skills/Pasted image 20230404131925.png",
     "Living Skills/Pasted image 20230404125211.png",
     "Living Skills/Pasted image 20230404123154.png",
@@ -153,7 +157,6 @@
     "Living Skills/Pasted image 20230403163810.png",
     "Living Skills/Pasted image 20230403163625.png",
     "Living Skills/Pasted image 20230403163455.png",
-    "Living Skills/Pasted image 20230403131218.png",
     "Living Skills/Pasted image 20230403163436.png",
     "Living Skills/Pasted image 20230403163621.png",
     "Living Skills/剪頭髮.md",
@@ -167,7 +170,6 @@
     "Physiologic",
     "Photography/How to use My Camera setup.md",
     "Photography",
-    "Living Skills/Pasted image 20230404131929.png",
     "Living Skills",
     "Cook/麥皮.md",
     "Cook/Recipe Tech Tree.md",
