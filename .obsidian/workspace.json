@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "185e8659061ed6f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/About Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eb7b204e73148ccb",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,11 +162,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "185e8659061ed6f6",
   "lastOpenFiles": [
+    "Question to answer.md",
+    "01.Productivity/Methodology/Time Management/Problem.md",
+    "01.Productivity/About Productivity.md",
+    "01.Productivity/Methodology/Time Management",
     "01.Productivity/Methodology",
     "Living Skills/Cook/麥皮.md",
-    "01.Productivity/About Productivity.md",
     "Living Skills/剪頭髮.md",
     "01.Productivity/Physiologic/Environment",
     "01.Productivity/Physiologic/Diet",
@@ -177,7 +193,6 @@
     "01.Productivity/Psychologic/MBTI",
     "01.Productivity/Psychologic",
     "01.Productivity/Physiologic/Stress",
-    "01.Productivity/Physiologic/Sleep",
     "Photography/How to use My Camera setup.md",
     "Living Skills/Cook/Recipe Tech Tree.md",
     "Living Skills/Cook/Pancake.md",
