@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -201,13 +202,13 @@
   "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
+    "01.Productivity/About Productivity.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "01.Productivity/Physiologic/Energy/Adolescent.md",
     "01.Productivity/Physiologic/Energy/Adenosine triphosphate (ATP).md",
     "01.Productivity/Physiologic/Diet/Caffeine.md",
     "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Energy",
-    "01.Productivity/About Productivity.md",
     "Photography/How to use My Camera setup.md",
     "Obsidian/Obsidian Git.md",
     "02.Programming/Things used by the industry/Index.md",

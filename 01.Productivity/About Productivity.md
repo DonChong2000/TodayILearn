@@ -5,6 +5,7 @@ This note aims to research how to maintain high productivity while maintaining h
 - Time Management
 - Todo list
 - Pomodoro
+- Multitasking
 
 # Physiologic
 - Sleep
