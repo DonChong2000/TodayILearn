@@ -18,4 +18,6 @@ Ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 
 
 First Recall:
-Caffeine
+- Caffeine, Alcohol, Marijana, will deliver incorrect signal to body, leading to unrestful sleep
+- Sleep cycle is important, waking up at end of sleep cycle make u feel better
+- Lack of sleep can be just a thought, You might wake up at sleep a few times, which makes you fell 
