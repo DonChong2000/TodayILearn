@@ -1,25 +1,29 @@
--   TDD
--   程式設計
--   flowchart standard
--   CI CD
--   Agile
--   redis
--   Jmeter
--   postman
-    -   variable
-    -   environment
-    -   prescript
--   Trello
--   
--   swagger
--   docker
--   restful
--   sublime merge
+ 
+- Methodology
+	- TDD
+	-  flowchart standard
+	-  CI CD
+	-  Agile
+	-  程式設計
+
+- restful
+- redis
+- Jmeter
+- postman
+    - variable
+    - environment
+    - prescript
+- Trello
+- swagger
+- docker
+
 
 - Git
 	- Source Tree
 	- tortoisegit
 	- Merge Tree
+	- winmerge
+	- sublime merge
 
 
 Terms

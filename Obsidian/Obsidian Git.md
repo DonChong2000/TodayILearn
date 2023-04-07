@@ -1,10 +1,3 @@
-# Windows
-U need restart computer 
-
-# Mac OS
-U need switch to SSH and add pub key
-
-
 # About using image with obsidian
 
 ## How to push image to github?
