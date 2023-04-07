@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/剪頭髮.md",
+                "file": "Living Skills/Cook/麥皮.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Outline.md",
+                "file": "Living Skills/Cook/麥皮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Outline.md",
+                "file": "Living Skills/Cook/麥皮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,16 +127,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +149,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "eb7b204e73148ccb",
+  "active": "68488904c0698c76",
   "lastOpenFiles": [
-    "Living Skills/剪頭髮.md",
     "01.Productivity/Outline.md",
+    "Living Skills/Cook/麥皮.md",
+    "Living Skills/剪頭髮.md",
     "01.Productivity/Physiologic/Environment",
     "01.Productivity/Physiologic/Diet",
     "01.Productivity/Untitled",
@@ -179,7 +179,6 @@
     "01.Productivity/Physiologic/Stress",
     "01.Productivity/Physiologic/Sleep",
     "Photography/How to use My Camera setup.md",
-    "Living Skills/Cook/麥皮.md",
     "Living Skills/Cook/Recipe Tech Tree.md",
     "Living Skills/Cook/Pancake.md",
     "Living Skills/Cook/DIY Sandwish price.md",
