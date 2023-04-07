@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cook/麥皮.md",
+                "file": "01.Productivity/About Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Outline.md",
+                "file": "01.Productivity/About Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cook/麥皮.md",
+                "file": "01.Productivity/About Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cook/麥皮.md",
+                "file": "01.Productivity/About Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,14 +149,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "68488904c0698c76",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "01.Productivity/Outline.md",
+    "01.Productivity/Methodology",
     "Living Skills/Cook/麥皮.md",
+    "01.Productivity/About Productivity.md",
     "Living Skills/剪頭髮.md",
     "01.Productivity/Physiologic/Environment",
     "01.Productivity/Physiologic/Diet",
-    "01.Productivity/Untitled",
     "conflict-files-obsidian-git.md",
     "01.Productivity",
     "Living Skills/Cook/番茄炒蛋.md",
