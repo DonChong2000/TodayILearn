@@ -3,7 +3,7 @@ This video aims to tackle "Sleep Anxiety" problem, being worried about your slee
 
 # Incorrect myths: 
 1. It doesn't matter when you sleep as long as you sleep enough
-When we sleep is imoprtnat as Circadian rhythms
+When we sleep is imoprtnat as is [[Circadian rhythms]]
 3. Everyone needs eight hours of sleep
 4. We should wake up at the same timee everyday
 5. You should aviod blue light before sleep
