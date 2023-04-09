@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -147,7 +148,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0a1d8725cabf1248",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
