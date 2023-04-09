@@ -37,11 +37,15 @@ When we age, we move to a more morning chronotype
 
 ### 4. You should aviod blue light before sleep
 
-Prof: Harvard group let people
+Prof: Harvard group let people to look at a kindle on its brightest intensity for four hours just before bedtime on five consecutive nights. And it just statistically delayed sleep onset by 10 mins. it mayt be statistically significant, but it is biologically meaningless.
 
-
+NOTE: Looking to a smartphone is differ from looking to a kindle. More study is needed for using smartphone before bed. #todo 
 
 ### 5. Sleep apps help you sleep better
+
+Prof: Currently 
+
+
 ### 6. Melatonin helps us sleep better
 ### 7. Polyphasic sleep us good for you productivity
 
