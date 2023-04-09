@@ -30,7 +30,9 @@ These questions help you to know if you have a good sleep:
 
 ### 3. We should wake up at the same timee everyday
 
-Prof: Wake up at the same time, earrinf at time same time, getting light exposure at time same time,all acts to stabilise Circadian rhythms. But there's gonna be an occa
+Prof: Wake up at the same time, earrinf at time same time, getting light exposure at time same time,all acts to stabilise Circadian rhythms. But there's gonna be an occasion were we don't, and sleep is dynamic
+
+When we age, we move to a more morning chronotype
 
 
 ### 4. You should aviod blue light before sleep
