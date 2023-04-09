@@ -20,7 +20,7 @@ We can figure out what our chronotype is by [this questionnarie]([AutoMEQ (chron
 
 ### 2. Everyone needs 8 hours of sleep
 
-tldr: 8 is just average, 
+tldr: 8 is just average, it depends on people, and their situration. It can be 6 to 11 hr of sleep.
 
 Prof: 8 Hours of sleep is average value, not a optimum value! A healthy sleep can range from 6 hours (or a bit less) to 10,11 hours.
 
@@ -32,11 +32,13 @@ These questions help you to know if you have a good sleep:
 - Is your behaviour strange and erratic, like doing stupid things, being mean and unempathetic
 	- If so, you did't get engouh sleep
 
-### 3. We should wake up at the same timee everyday
+### 3. We should wake up at the same time everyday
 
-Prof: Wake up at the same time, earrinf at time same time, getting light exposure at time same time,all acts to stabilise Circadian rhythms. But there's gonna be an occasion were we don't, and sleep is dynamic
+tldr: it would be good, as it stablize circadian rhythm, yet it is not a hard rule to follow, our sleep can adapt to it quickly. And our chronotype differ when we age.
 
-When we age, we move to a more morning chronotype
+Prof: Wake up at the same time, eatting at time same time, getting light exposure at time same time,all acts to stabilise Circadian rhythms. But there's gonna be an occasion were we don't, and sleep is dynamic
+
+When we age, we move to a more morning chronotype. Teenager tend to have a more evening chronotype
 
 
 ### 4. You should aviod blue light before sleep
@@ -49,8 +51,15 @@ NOTE: Looking to a smartphone is differ from looking to a kindle. More study is 
 
 Prof: Currently no sleep app are endorsed by any of the sleep federations or FDA approved.
 
+#todo 
+Research if sleep with android have research paper to support.
 
 ### 6. Melatonin helps us sleep better
+
+Prof: The best study ever undersaken show taking melatonin before bed, can reduct 30 mins bed time.  Many study showed no effect whatsoever.
+
+
+
 ### 7. Polyphasic sleep us good for you productivity
 
 
