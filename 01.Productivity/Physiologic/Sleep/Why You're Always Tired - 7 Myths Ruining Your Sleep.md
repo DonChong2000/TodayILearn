@@ -1,9 +1,11 @@
 ref: [Why You're Always Tired - 7 Myths Ruining Your Sleep](https://youtu.be/qlf9-573MhI)
 This video aims to tackle "Sleep Anxiety" problem, being worried about your sleep, makes you harder to sleep, "feel" not enough sleep. This video list the 7 myth debunked by Professor Foster.
 
-# Incorrect myths: 
+# myths: 
 
 ### 1. It doesn't matter when you sleep as long as you sleep enough
+
+tldr: It matter cause circadian rhythms, which is controlled by light.
 
 When we sleep is imoprtnat as is [Circadian rhythms](Keywords/Circadian%20rhythms.md).
 Our eye has light detection mechanism, which tells our brain what time of the day it is, and helps regulate our interal clock.
@@ -17,6 +19,8 @@ e.g: someone gets up early and find the morning be the most productive is likely
 We can figure out what our chronotype is by [this questionnarie]([AutoMEQ (chronotype-self-test.info)](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)). We can arrage our activities around to fit our chronotype
 
 ### 2. Everyone needs 8 hours of sleep
+
+tldr: 8 is just average, 
 
 Prof: 8 Hours of sleep is average value, not a optimum value! A healthy sleep can range from 6 hours (or a bit less) to 10,11 hours.
 
@@ -43,7 +47,7 @@ NOTE: Looking to a smartphone is differ from looking to a kindle. More study is 
 
 ### 5. Sleep apps help you sleep better
 
-Prof: Currently 
+Prof: Currently no sleep app are endorsed by any of the sleep federations or FDA approved.
 
 
 ### 6. Melatonin helps us sleep better
