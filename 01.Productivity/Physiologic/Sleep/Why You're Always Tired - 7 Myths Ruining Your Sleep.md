@@ -1,7 +1,9 @@
 ref: [Why You're Always Tired - 7 Myths Ruining Your Sleep](https://youtu.be/qlf9-573MhI)
-This video aims to tackle "Sleep Anxiety" problem, being worried about your sleep, makes you harder to sleep, "feel" not enough sleep. This video list the 7 myth debunked by Professor Foster.
 
-# myths: 
+# Summery:
+#todo
+
+# Myths: 
 
 ### 1. It doesn't matter when you sleep as long as you sleep enough
 
@@ -73,7 +75,7 @@ Polyphasic sleep means taking many short naps throughout the day instead of one 
 
 Prof: all of the data suggest that this is a really bad idea. Work of quality is generally lower as we tend to me more exhausted and therefore less productive and less creative in those hours.
 
-Paper show student who are on a polyphasic sleep 
+Paper show student who are on a polyphasic sleep: [Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm](Paper/Irregular%20Sleep%20Patterns%20Linked%20to%20Poor%20Academic%20Performance%20and%20Delayed%20Circadian%20Rhythm.pdf).
 
 
 AI Summerize

@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 436.5
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -149,6 +148,7 @@
   },
   "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
     "01.Productivity/Physiologic/Sleep/Paper/Melatonin treatment for sleep disorders in children with neurodevelopmental disabilities.pdf",
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Keywords/Melatonin.md",
