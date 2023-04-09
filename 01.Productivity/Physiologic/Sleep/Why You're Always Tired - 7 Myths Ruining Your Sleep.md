@@ -21,12 +21,18 @@ We can figure out what our chronotype is by [this questionnarie]([AutoMEQ (chron
 Prof: 8 Hours of sleep is average value, not a optimum value! A healthy sleep can range from 6 hours (or a bit less) to 10,11 hours.
 
 These questions help you to know if you have a good sleep: 
-1. Did you wake up naturally or did you need an alarm?
-	- Generally If you wake up naturally, you 
-
-
+- Did you wake up naturally or did you need an alarm?
+	- Generally If you wake up naturally, you got a pretty reasonable amount of sleep.
+- Did it take you a long to wake up, and did you feel the need for caffeine.
+	- If so, you didn't  get enough sleep
+- Is your behaviour strange and erratic, like doing stupid things, being mean and unempathetic
+	- If so, you did't get engouh sleep
 
 ### 3. We should wake up at the same timee everyday
+
+Prof: Wake up at the same time, earrinf at time same time, getting light exposure at time same time,all acts to stabilise Circadian rhythms. But there's gonna be an occa
+
+
 ### 4. You should aviod blue light before sleep
 ### 5. Sleep apps help you sleep better
 ### 6. Melatonin helps us sleep better
