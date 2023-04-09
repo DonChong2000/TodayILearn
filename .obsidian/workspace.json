@@ -11,8 +11,12 @@
             "id": "5f8eaf5c79b01774",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "5f8eaf5c79b01774",
   "lastOpenFiles": [
+    "02.Programming/Things used by the industry/Index.md",
+    "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
+    "Living Skills/Cook/番茄炒蛋.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
@@ -152,7 +163,6 @@
     "Living Skills/Cook/麥皮.md",
     "Todo.md",
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
-    "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
     "Obsidian/Obsidian Git.md",
     "Untitled",
     "conflict-files-obsidian-git.md",
@@ -160,7 +170,6 @@
     "01.Productivity/Physiologic/Energy/Adenosine triphosphate (ATP).md",
     "01.Productivity/Physiologic/Energy",
     "Photography/How to use My Camera setup.md",
-    "02.Programming/Things used by the industry/Index.md",
     "02.Programming/Things used by the industry",
     "02.Programming",
     "Question to answer.md",
@@ -171,7 +180,6 @@
     "01.Productivity/Physiologic/Environment",
     "01.Productivity/Physiologic/Diet",
     "01.Productivity",
-    "Living Skills/Cook/番茄炒蛋.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230403163625.png",
     "z.Images/Pasted image 20230406121559.png",
