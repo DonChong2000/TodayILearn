@@ -68,6 +68,13 @@ Another study show melatonin reduces your time to fall asleep for 7.06 mins.
 
 ### 7. Polyphasic sleep us good for you productivity
 
+What is polyphasic sleep (by ChatGPT)
+Polyphasic sleep means taking many short naps throughout the day instead of one long sleep at night.
+
+Prof: all of the data suggest that this is a really bad idea. Work of quality is generally lower as we tend to me more exhausted and therefore less productive and less creative in those hours.
+
+Paper show student who are on a polyphasic sleep 
+
 
 AI Summerize
 ---
