@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ccbe7e61df84441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Sleep/Keywords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+                "file": "01.Productivity/Physiologic/Sleep/Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+                "file": "01.Productivity/Physiologic/Sleep/Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md"
+                "file": "01.Productivity/Physiologic/Sleep/Keywords.md"
               }
             }
           }
@@ -148,14 +160,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "0ccbe7e61df84441",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+    "01.Productivity/Physiologic/Sleep/Keywords.md",
+    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
+    "01.Productivity/Physiologic/Sleep/Untitled",
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
     "Obsidian/Obsidian Git.md",
     "Living Skills/Cook/麥皮.md",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "Untitled",
     "conflict-files-obsidian-git.md",
     "01.Productivity/About Productivity.md",
@@ -187,14 +201,12 @@
     "z.Images/Pasted image 20230406120718.png",
     "z.Images/Pasted image 20230406120659.png",
     "z.Images/Pasted image 20230406120630.png",
-    "z.Images",
     "Obsidian/Cook/Pancake.md",
     "Living Skills/Cook/Recipe Tech Tree.md",
     "Living Skills/Cook/Pancake.md",
     "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Cook/Carbonara.md",
     "Obsidian/Cook/Carbonara.md",
-    "Obsidian/Living Skills/剪頭髮.md",
-    "剪頭髮.md"
+    "Obsidian/Living Skills/剪頭髮.md"
   ]
 }
