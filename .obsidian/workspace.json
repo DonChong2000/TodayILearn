@@ -4,32 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "969b4dc0dfc77517",
+        "id": "7ca424a82c3d0631",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfb4b22b7b81d63",
+            "id": "5f8eaf5c79b01774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29d44542ce7fe810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1cfb4b22b7b81d63",
+  "active": "5f8eaf5c79b01774",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
