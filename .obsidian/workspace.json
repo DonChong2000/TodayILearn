@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 577.5
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -146,15 +146,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5f8eaf5c79b01774",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "01.Productivity/Physiologic/Sleep/Unrestricted evening use of light-emitting tablet computers delays self-selected bedtime and disrupts circadian timing and alertness.pdf",
-    "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
-    "01.Productivity/Physiologic/Sleep/Untitled",
+    "01.Productivity/Physiologic/Sleep/Paper/Melatonin treatment for sleep disorders in children with neurodevelopmental disabilities.pdf",
+    "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Keywords/Melatonin.md",
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+    "01.Productivity/Physiologic/Sleep/Paper",
+    "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
+    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
+    "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
     "02.Programming/Things used by the industry/Index.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
     "Living Skills/Cook/番茄炒蛋.md",
@@ -180,7 +181,6 @@
     "01.Productivity/Methodology/Time Management",
     "01.Productivity/Methodology",
     "Living Skills/剪頭髮.md",
-    "01.Productivity/Physiologic/Environment",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230403163625.png",
     "z.Images/Pasted image 20230406121559.png",

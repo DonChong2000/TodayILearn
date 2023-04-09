@@ -45,6 +45,8 @@ When we age, we move to a more morning chronotype. Teenager tend to have a more 
 
 Prof: Harvard group let people to look at a kindle on its brightest intensity for four hours just before bedtime on five consecutive nights. And it just statistically delayed sleep onset by 10 mins. it mayt be statistically significant, but it is biologically meaningless.
 
+The paper prof memtion: [Unrestricted evening use of light-emitting tablet computers delays self-selected bedtime and disrupts circadian timing and alertness](Paper/Effects%20of%20Evening%20Tablet%20Use%20on%20Sleep%20and%20Alertness.pdf)
+
 NOTE: Looking to a smartphone is differ from looking to a kindle. More study is needed for using smartphone before bed. #todo 
 
 ### 5. Sleep apps help you sleep better
@@ -54,11 +56,15 @@ Prof: Currently no sleep app are endorsed by any of the sleep federations or FDA
 #todo 
 Research if sleep with android have research paper to support.
 
-### 6. Melatonin helps us sleep better
+### 6. [Melatonin](Keywords/Melatonin.md) helps us sleep better
 
-Prof: The best study ever undersaken show taking melatonin before bed, can reduct 30 mins bed time.  Many study showed no effect whatsoever.
+tldr: melatonin does reduct time to fall as sleep, but it is not significant.
 
+Prof: The best study ever undersaken show taking melatonin before bed, reduce the time it take to sleep by 30mins. Many study showed no effect whatsoever.
 
+The research prof mention: [A randomized, placebo-controlled trial of controlled release melatonin treatment of delayed sleep phase syndrome and impaired sleep maintenance in children with neurodevelopmental disabilities](Paper/Melatonin%20treatment%20for%20sleep%20disorders%20in%20children%20with%20neurodevelopmental%20disabilities.pdf)
+
+Another study show melatonin reduces your time to fall asleep for 7.06 mins.
 
 ### 7. Polyphasic sleep us good for you productivity
 
