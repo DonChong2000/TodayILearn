@@ -1,13 +1,15 @@
 ref: [Why You're Always Tired - 7 Myths Ruining Your Sleep](https://youtu.be/qlf9-573MhI)
 This video aims to tackle "Sleep Anxiety" problem, being worried about your sleep, makes you harder to sleep, "feel" not enough sleep. This video list the 7 myth debunked by Professor Foster.
 
+# Incorrect myths: 
 1. It doesn't matter when you sleep as long as you sleep enough
-2. Everyone needs eight hours of sleep
-3. We should wake up at the same timee everyday
-4. You should aviod blue light before sleep
-5. Sleep apps help you sleep better
-6. Melatonin helps us sleep better
-7. Polyphasic sleep us good for you productivity
+When we sleep is imoprtnat as Circadian rhythms
+3. Everyone needs eight hours of sleep
+4. We should wake up at the same timee everyday
+5. You should aviod blue light before sleep
+6. Sleep apps help you sleep better
+7. Melatonin helps us sleep better
+8. Polyphasic sleep us good for you productivity
 
 
 AI Summerize
