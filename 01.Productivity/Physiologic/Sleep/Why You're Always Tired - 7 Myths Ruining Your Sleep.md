@@ -9,7 +9,12 @@ When we sleep is imoprtnat as is [Circadian rhythms](Keywords/Circadian%20rhythm
 Our eye has light detection mechanism, which tells our brain what time of the day it is, and helps regulate our interal clock.
 Distrupted circadian rhythms might lead to inscrease of stress hormones, risk of heart disease, rate of illness, and more prone to emotional and congnitive problems. 
 
-prof: 97% of worker do not adapt to the demands of worki
+prof: 97% of worker do not adapt to the demands of working at night
+
+BUT: everyone's circadian rhythms is different, e.g morning person and night owl, which are called [Chronotype](Keywords/Chronotype.md)
+e.g: someone gets up early and find the morning be the most productive is likely a Morning Chronotype.
+
+We can figure out what our chronotype is by [this ]
 
 ### 2. Everyone needs eight hours of sleep
 ### 3. We should wake up at the same timee everyday
