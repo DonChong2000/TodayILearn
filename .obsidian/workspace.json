@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "122943b993b6f808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Energy/Adenosine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +141,14 @@
                 "file": "01.Productivity/Physiologic/Energy/Adenosine.md"
               }
             }
+          },
+          {
+            "id": "c3cf7d8024332991",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
         ]
       }
@@ -147,13 +168,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0a1d8725cabf1248",
+  "active": "122943b993b6f808",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Diet/Caffeine.md",
+    "Todo.md",
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "01.Productivity/Physiologic/Energy/Adenosine.md",
+    "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Sleep/Keywords.md",
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "01.Productivity/Physiologic/Sleep/Untitled",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
@@ -163,7 +186,6 @@
     "conflict-files-obsidian-git.md",
     "01.Productivity/About Productivity.md",
     "01.Productivity/Physiologic/Energy/Adenosine triphosphate (ATP).md",
-    "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Energy",
     "Photography/How to use My Camera setup.md",
     "02.Programming/Things used by the industry/Index.md",
@@ -193,7 +215,6 @@
     "Living Skills/Cook/Pancake.md",
     "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Cook/Carbonara.md",
-    "Obsidian/Cook/Carbonara.md",
-    "Obsidian/Living Skills/剪頭髮.md"
+    "Obsidian/Cook/Carbonara.md"
   ]
 }
