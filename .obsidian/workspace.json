@@ -138,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,7 +147,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f6f1d92c46a5e191",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "Todo.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
