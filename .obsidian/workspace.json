@@ -138,12 +138,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e5e1ddee36be1f11",
+  "active": "68488904c0698c76",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
