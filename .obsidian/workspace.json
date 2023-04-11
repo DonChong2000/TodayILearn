@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69622a569ee8bf62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -158,13 +169,14 @@
   },
   "active": "1f16a57a8a2c0f05",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
+    "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
+    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Dopamine and light - dissecting effects on mood and motivational states in women with subsyndromal seasonal affective disorder.pdf",
     "01.Productivity/Physiologic/Dopamine-Mediated Circadian and Light Dark-Adaptive Modulation of Chemical and Electrical Synapses in the Outer Retina.pdf",
     "01.Productivity/Physiologic/Sunshine-exposure variation of human striatal dopamine D2 D3 receptor availability.pdf",
     "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
-    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/neurochemicals/Untitled.md",
     "01.Productivity/Physiologic/neurochemicals/paper",
     "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
     "z.Images/Pasted image 20230411124459.png",
@@ -173,8 +185,6 @@
     "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350 1.epub",
     "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350.epub",
     "01.Productivity/Physiologic/未確認 487363.crdownload",
-    "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
-    "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
     "01.Productivity/About Productivity.md",
     "Todo.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
