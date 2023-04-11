@@ -156,41 +156,6 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "floating": {
-    "id": "8346df91c974edf8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96c775e0c7352195",
-        "type": "window",
-        "children": [
-          {
-            "id": "32ad77852f851027",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a6109f34b5d1ce1b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 766,
-        "y": 40,
-        "width": 1029,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1f16a57a8a2c0f05",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
