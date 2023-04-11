@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -156,12 +155,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "e5e1ddee36be1f11",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
+    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/未確認 487363.crdownload",
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
-    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
     "01.Productivity/About Productivity.md",
     "Todo.md",
@@ -191,7 +190,6 @@
     "01.Productivity/Physiologic/Energy/Adenosine triphosphate (ATP).md",
     "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Diet/Caffeine.md",
-    "01.Productivity/Physiologic/Sleep",
     "The First Sync.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
