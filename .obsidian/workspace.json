@@ -11,11 +11,9 @@
             "id": "1f16a57a8a2c0f05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
-                "mode": "source",
-                "source": false
+                "file": "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
+                "file": "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
+                "file": "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/你为什么总是觉得无聊？.md"
+                "file": "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf"
               }
             }
           },
@@ -169,13 +167,13 @@
   },
   "active": "1f16a57a8a2c0f05",
   "lastOpenFiles": [
-    "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
-    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Dopamine and light - dissecting effects on mood and motivational states in women with subsyndromal seasonal affective disorder.pdf",
     "01.Productivity/Physiologic/Dopamine-Mediated Circadian and Light Dark-Adaptive Modulation of Chemical and Electrical Synapses in the Outer Retina.pdf",
+    "01.Productivity/Physiologic/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
     "01.Productivity/Physiologic/Sunshine-exposure variation of human striatal dopamine D2 D3 receptor availability.pdf",
     "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
+    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
+    "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
     "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
     "01.Productivity/Physiologic/neurochemicals/paper",
     "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
