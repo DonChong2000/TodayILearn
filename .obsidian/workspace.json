@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -155,17 +156,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1f16a57a8a2c0f05",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Dopamine-Mediated Circadian and Light Dark-Adaptive Modulation of Chemical and Electrical Synapses in the Outer Retina.pdf",
-    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
+    "01.Productivity/Physiologic/Sunshine-exposure variation of human striatal dopamine D2 D3 receptor availability.pdf",
     "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
+    "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
     "01.Productivity/Physiologic/neurochemicals/Untitled.md",
     "01.Productivity/Physiologic/neurochemicals/paper",
     "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
     "z.Images/Pasted image 20230411124459.png",
-    "01.Productivity/Physiologic/Sunshine-exposure variation of human striatal dopamine D2 D3 receptor availability.pdf",
     "z.Images/Pasted image 20230411121811.png",
     "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350 2.epub",
     "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350 1.epub",
