@@ -1,5 +1,5 @@
 # Principle
-This note aims to research how to maintain high productivity while maintaining healthy lifestyle in order to sustain high productivity levels.
+This note aims to research how to maintain high productivity while maintaining healthy lifestyle in order to sustain high productivity levels.3
 
 # Methodology
 - Time Management
