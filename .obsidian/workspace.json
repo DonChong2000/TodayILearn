@@ -190,43 +190,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "floating": {
-    "id": "8346df91c974edf8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fe44f2bcca0bcbe0",
-        "type": "window",
-        "children": [
-          {
-            "id": "4a4dbdca037f7727",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1709e9c3e2d59048",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Melatonin reduces dopamine content in the neurointermediate lobe of male Syrian hamsters.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 871,
-        "y": 57,
-        "width": 600,
-        "height": 945,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
   "active": "987dc8c20461b1d8",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Energy",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Bored",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？",
