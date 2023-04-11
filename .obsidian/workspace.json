@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffd094e16734d27",
+        "id": "ab108f229af73146",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e1ddee36be1f11",
+            "id": "1f16a57a8a2c0f05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -155,10 +156,48 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e5e1ddee36be1f11",
+  "floating": {
+    "id": "8346df91c974edf8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "96c775e0c7352195",
+        "type": "window",
+        "children": [
+          {
+            "id": "32ad77852f851027",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6109f34b5d1ce1b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 766,
+        "y": 40,
+        "width": 1029,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1f16a57a8a2c0f05",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
     "01.Productivity/Physiologic/你为什么总是觉得无聊？.md",
+    "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350 2.epub",
+    "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350 1.epub",
+    "Living Skills/Cook/gordon-ramsay-quick-and-delicious-100-recipes-to--annas-archive--libgenrs-nf-2692350.epub",
     "01.Productivity/Physiologic/未確認 487363.crdownload",
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
@@ -180,10 +219,7 @@
     "Living Skills/Cook/Pancake.md",
     "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Cook/Carbonara.md",
-    "Living Skills/Cook",
     "02.Programming/Things used by the industry/Index.md",
-    "02.Programming/Things used by the industry",
-    "02.Programming",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
     "01.Productivity/Physiologic/Energy/Adolescent.md",
