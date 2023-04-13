@@ -35,5 +35,6 @@ First Recall From Memorie:
 3. c
 4. d
 5. Food
-	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch.
-	2. Pre-emphasis lunch
+	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
+	2. Pre-emphasis lunch. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
+	3. 6-7pm, Eat whatever you want. You gonna be famished because of calories deficit. High GI will make you pass the fuck out.
