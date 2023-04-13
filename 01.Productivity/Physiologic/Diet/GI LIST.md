@@ -1,24 +1,23 @@
 ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews.com)](https://universityhealthnews.com/daily/nutrition/glycemic-index-chart/)
 
-[[]]
-Mid GI
-High GI (Eat Less)
+- [Low GI](GI%20LIST.md#Low%20GI)
+- [Mid GI](GI%20LIST.md#Mid%20GI)
+- [HIGH GI](#HIGH%20GI)
 
 # Low GI
 
 | LOW GLYCEMIC INDEX (55 or less)                                                                                                                                                                                                     |    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-|                                                                                                                                                                                                                                     |    |
 | Fruits                                                                                                                                                                                                                              |    |
-| [](https://universityhealthnews.com/daily/nutrition/health-benefits-of-apples/)[Apples](https://universityhealthnews.com/daily/nutrition/health-benefits-of-apples/) (120g)                                                         | 40 |
-| Apple juice (250g)                                                                                                                                                                                                                  | 39 |
+| ==[Apples](https://universityhealthnews.com/daily/nutrition/health-benefits-of-apples/) (120g)==                                                         | 40 |
+| ==Apple juice (250g)==                                                                                                                                                                                                                 | 39 |
 | Apricots, dried (60g)                                                                                                                                                                                                               | 32 |
-| Bananas (120g)                                                                                                                                                                                                                      | 47 |
+| ==Bananas (120g)==                                                                                                                                                                                                                      | 47 |
 | Fruit cocktail (120g)                                                                                                                                                                                                               | 55 |
 | Grapefruit (120g)                                                                                                                                                                                                                   | 25 |
 | Grapes (120g)                                                                                                                                                                                                                       | 43 |
 | Mangoes (120g)                                                                                                                                                                                                                      | 51 |
-| Oranges, raw (120g)                                                                                                                                                                                                                 | 48 |
+| ==Oranges, raw (120g)==                                                                                                                                                                                                                 | 48 |
 | Peaches, canned in light syrup (120g)                                                                                                                                                                                               | 52 |
 | Pineapple (120g)                                                                                                                                                                                                                    | 51 |
 | Plums (120g)                                                                                                                                                                                                                        | 53 |
@@ -30,28 +29,28 @@ High GI (Eat Less)
 | Corn, sweet (80g)                                                                                                                                                                                                                   | 55 |
 | Lima beans, baby, frozen (150g)                                                                                                                                                                                                     | 32 |
 | Parsnips, peeled boiled (80g)                                                                                                                                                                                                       | 52 |
-| Potato, white, boiled (150g)                                                                                                                                                                                                        | 54 |
-| Tomato soup (250 g)                                                                                                                                                                                                                 | 38 |
+| ==Potato, white, boiled (150g)==                                                                                                                                                                                                        | 54 |
+| ==Tomato soup (250 g)==                                                                                                                                                                                                                 | 38 |
 |                                                                                                                                                                                                                                     |    |
-| Grains, Breads & Cereals                                                                                                                                                                                                            |    |
+| ==Grains, Breads & Cereals==                                                                                                                                                                                                            |    |
 | Barley (150g)                                                                                                                                                                                                                       | 22 |
 | Basmati rice (150g)                                                                                                                                                                                                                 | 52 |
 | Bran cereal (30g)                                                                                                                                                                                                                   | 43 |
 | Brown rice, steamed (50g)                                                                                                                                                                                                           | 50 |
 | Bulgur wheat, whole, cooked (150g)                                                                                                                                                                                                  | 46 |
 | Chickpeas (150g)                                                                                                                                                                                                                    | 36 |
-| Instant noodles (180g)                                                                                                                                                                                                              | 52 |
-| Instant oatmeal (25 g)                                                                                                                                                                                                              | 50 |
+| ==Instant noodles (180g==)==                                                                                                                                                                                                              | 52 |
+| ==Instant oatmeal (25 g)==                                                                                                                                                                                                              | 50 |
 | Mixed grain bread (30g)                                                                                                                                                                                                             | 52 |
 | Oat bran bread (30g)                                                                                                                                                                                                                | 44 |
 | Rye kernel bread (30 g)                                                                                                                                                                                                             | 41 |
 | Rye flour bread, 50% rye flour, 50% wheat flour (30g)                                                                                                                                                                               | 50 |
 | Water crackers, whole grain, sesame seeds (25g)                                                                                                                                                                                     | 53 |
-| White rice, boiled (150g)                                                                                                                                                                                                           | 47 |
+| ==White rice, boiled (150g)==                                                                                                                                                                                                           | 47 |
 |                                                                                                                                                                                                                                     |    |
 | Dairy and Dairy Alternatives                                                                                                                                                                                                        |    |
-| Skim milk (250g)                                                                                                                                                                                                                    | 32 |
-| [](https://universityhealthnews.com/daily/nutrition/soy-soy-milk-really-doom-gloom/)[Soy milk](https://universityhealthnews.com/daily/nutrition/soy-soy-milk-really-doom-gloom/) (250g)                                             | 43 |
+| ==Skim milk (250g)==                                                                                                                                                                                                                    | 32 |
+| ==[Soy milk](https://universityhealthnews.com/daily/nutrition/soy-soy-milk-really-doom-gloom/) (250g)==                                             | 43 |
 |                                                                                                                                                                                                                                     |    |
 | Nuts and Legumes                                                                                                                                                                                                                    |    |
 | Black beans (150g)                                                                                                                                                                                                                  | 30 |
@@ -73,7 +72,7 @@ High GI (Eat Less)
 | Snickers (60g)                                                                                                                                                                                                                      | 43 |
 | Sponge cake (63g)                                                                                                                                                                                                                   | 46 |
 | Strawberry jam (30g)                                                                                                                                                                                                                | 51 |
-| [](https://universityhealthnews.com/daily/nutrition/is-sushi-healthy/)[Sushi](https://universityhealthnews.com/daily/nutrition/is-sushi-healthy/) (100g)                                                                            | 55 |
+| ==[Sushi](https://universityhealthnews.com/daily/nutrition/is-sushi-healthy/) (100g)==                                                                            | 55 |
 
 # Mid GI
 
@@ -95,7 +94,7 @@ High GI (Eat Less)
 | Vegetables                                                                                                                                                                                                                                                  |    |
 | Beetroot                                                                                                                                                                                                                                                    | 64 |
 | [](https://universityhealthnews.com/daily/nutrition/pumpkin-power-this-fall-favorite-offers-a-host-of-health-benefits/)[Pumpkin](https://universityhealthnews.com/daily/nutrition/pumpkin-power-this-fall-favorite-offers-a-host-of-health-benefits/) (80g) | 66 |
-| Sweet potato, boiled, (150g)                                                                                                                                                                                                                                | 61 |
+| ==Sweet potato, boiled, (150g)==                                                                                                                                                                                                                                | 61 |
 |                                                                                                                                                                                                                                                             |    |
 | Grains, Breads & Cereals                                                                                                                                                                                                                                    |    |
 | All-Bran (30 g)                                                                                                                                                                                                                                             | 60 |
