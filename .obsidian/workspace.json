@@ -4,22 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffd094e16734d27",
+        "id": "ab108f229af73146",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f1d92c46a5e191",
+            "id": "1f16a57a8a2c0f05",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf"
+              }
+            }
+          },
+          {
+            "id": "69622a569ee8bf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b00e9830404641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/Tyrosine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "987dc8c20461b1d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/About Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56f98d02b89a2040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b262dbacfa088ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md"
               }
             }
           },
@@ -137,8 +196,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,56 +210,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f6f1d92c46a5e191",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20230411134558.png",
-    "z.Images/Pasted image 20230411133709.png",
-    "z.Images/Pasted image 20230411124459.png",
-    "z.Images/Pasted image 20230411121811.png",
+    "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
+    "01.Productivity/Physiologic/Diet/GI LIST.md",
+    "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Investment/Crypto/Things I notice.md",
+    "01.Productivity/About Productivity.md",
     "Living Skills/Investment/Crypto",
+    "Living Skills/Investment/IBKRCampus",
     "Living Skills/Investment",
-    "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
-    "01.Productivity/Physiologic/neurochemicals",
+    "01.Productivity/Physiologic/Energy",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+    "01.Productivity/Physiologic/Bored",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
+    "01.Productivity/Physiologic/The state of boredom Frustrating or depressing",
     "01.Productivity/Physiologic/Diet/Vitamin B.md",
     "01.Productivity/Physiologic/Diet/Tyrosine.md",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Sunshine-exposure variation of human striatal dopamine D2 D3 receptor availability.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Sleep deprivation differentially affects dopamine receptor subtypes in mouse striatum.pdf",
+    "z.Images/Pasted image 20230411134558.png",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Caffeine increases striatal dopamine D2 D3 receptor availability in the human brain.pdf",
+    "z.Images/Pasted image 20230411133709.png",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Melatonin reduces dopamine content in the neurointermediate lobe of male Syrian hamsters.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Dopamine-Mediated Circadian and Light Dark-Adaptive Modulation of Chemical and Electrical Synapses in the Outer Retina.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
+    "01.Productivity/Physiologic/Neurochemicals/Dopamine.md",
+    "01.Productivity/Physiologic/Neurochemicals/Adenosine.md",
+    "01.Productivity/Physiologic/Neurochemicals/Adenosine triphosphate (ATP).md",
+    "z.Images/Pasted image 20230411124459.png",
+    "z.Images/Pasted image 20230411121811.png",
     "Todo.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Melatonin.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
-    "01.Productivity/Physiologic/Energy/Adenosine.md",
     "Question to answer.md",
     "Living Skills/Cook/麥皮.md",
     "Living Skills/Cook/番茄炒蛋.md",
     "Living Skills/Cook/Recipe Tech Tree.md",
     "Living Skills/Cook/Pancake.md",
-    "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Cook/Carbonara.md",
     "02.Programming/Things used by the industry/Index.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "01.Productivity/Physiologic/Sleep/Melatonin.md",
-    "01.Productivity/Physiologic/Energy/Adolescent.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
     "z.Images/Pasted image 20230406120718.png",
     "z.Images/Pasted image 20230406120659.png",
-    "z.Images/Pasted image 20230406120630.png",
-    "z.Images/Pasted image 20230406120544.png"
+    "z.Images/Pasted image 20230406120630.png"
   ]
 }
