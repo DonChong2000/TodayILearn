@@ -1,8 +1,8 @@
 ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews.com)](https://universityhealthnews.com/daily/nutrition/glycemic-index-chart/)
 
-- [Low GI](GI%20LIST.md#Low%20GI)
-- [Mid GI](GI%20LIST.md#Mid%20GI)
-- [HIGH GI](#HIGH%20GI)
+- [Low GI GI<55](GI%20LIST.md#Low%20GI)
+- [Mid GI 56<GI<69](GI%20LIST.md#Mid%20GI)
+- [HIGH GI GI>70](#HIGH%20GI)
 
 # Low GI
 
@@ -99,11 +99,11 @@ ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews
 | Grains, Breads & Cereals                                                                                                                                                                                                                                    |    |
 | All-Bran (30 g)                                                                                                                                                                                                                                             | 60 |
 | Bagel, white (70 g)                                                                                                                                                                                                                                         | 69 |
-| Bran Buds cereal (30g)                                                                                                                                                                                                                                      | 58 |
+| ==Bran Buds cereal (30g)==                                                                                                                                                                                                                                      | 58 |
 | Bran Chex cereal (30g)                                                                                                                                                                                                                                      | 58 |
 | Gnocchi (180g)                                                                                                                                                                                                                                              | 68 |  |
 | Couscous (150g)                                                                                                                                                                                                                                             | 65 |
-| Hamburger bun (30g)                                                                                                                                                                                                                                         | 61 |
+| ==Hamburger bun (30g)==                                                                                                                                                                                                                                         | 61 |
 | Life cereal (30g)                                                                                                                                                                                                                                           | 66 |
 | Linguine, fresh, boiled (180g)                                                                                                                                                                                                                              | 61 |
 | Macaroni and cheese, boxed (180g)                                                                                                                                                                                                                           | 64 |
@@ -117,12 +117,13 @@ ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews
 | Special K cereal (30g)                                                                                                                                                                                                                                      | 69 |
 | Taco shells (20g)                                                                                                                                                                                                                                           | 68 |
 | Wild rice (150g)                                                                                                                                                                                                                                            | 57 |
+| Wild rice (150g)                                                                                                                                                                                                                                            | 57 |
 |                                                                                                                                                                                                                                                             |    |
 | Snacks & Sweets                                                                                                                                                                                                                                             |    |
 | Bran muffin (57g)                                                                                                                                                                                                                                           | 60 |
 | Cake, angel food (50g)                                                                                                                                                                                                                                      | 67 |
-| Croissant (57g)                                                                                                                                                                                                                                             | 67 |
-| [](https://universityhealthnews.com/daily/nutrition/benefits-honey-can-heal-inside/)[Honey](https://universityhealthnews.com/daily/nutrition/benefits-honey-can-heal-inside/), pure (25g)                                                                   | 58 |
+| ==Croissant (57g)==                                                                                                                                                                                                                                             | 67 |
+| ==[Honey](https://universityhealthnews.com/daily/nutrition/benefits-honey-can-heal-inside/), pure (25g)==                                                                   | 58 |
 | Nutri-Grain bar (30g)                                                                                                                                                                                                                                       | 66 |
 | Pastry (57g)                                                                                                                                                                                                                                                | 59 |
 | Shortbread cookies                                                                                                                                                                                                                                          | 64 |
@@ -141,15 +142,15 @@ ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews
 | Vegetables                                                                                                                                                                                                |     |
 | Rutabaga (15 g)                                                                                                                                                                                           | 72  |
 | Potato, instant, mashed, (150g)                                                                                                                                                                           | 88  |
-| Potato, mashed (150g)                                                                                                                                                                                     | 83  |
-| Potato, microwaved (150g)                                                                                                                                                                                 | 93  |
+| ==Potato, mashed (150g)==                                                                                                                                                                                     | 83  |
+| ==Potato, microwaved (150g)==                                                                                                                                                                                 | 93  |
 |                                                                                                                                                                                                           |     |
 | Grains, Breads & Cereals                                                                                                                                                                                  |     |
 | Barley flour bread, 50% wheat flour, 50% course barley flour (30g)                                                                                                                                        | 74  |
 | Bread stuffing (30g)                                                                                                                                                                                      | 74  |
 | Cheerios (30g)                                                                                                                                                                                            | 74  |
-| Corn Flakes (30g)                                                                                                                                                                                         | 79  |
-| French baguette (30g)                                                                                                                                                                                     | 95  |
+| ==Corn Flakes (30g)==                                                                                                                                                                                         | 79  |
+| ==French baguette (30g)==                                                                                                                                                                                     | 95  |
 | French bread, fermented with leaven (30g)                                                                                                                                                                 | 80  |
 | Gluten-free bread, multigrain (30g)                                                                                                                                                                       | 79  |
 | Golden Grahams cereal (30g)                                                                                                                                                                               | 71  |
@@ -163,7 +164,7 @@ ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews
 | Tapioca, boiled with milk (250g)                                                                                                                                                                          | 81  |
 | Total cereal (250g)                                                                                                                                                                                       | 76  |
 | Waffles (35g)                                                                                                                                                                                             | 76  |
-| White bread (30g)                                                                                                                                                                                         | 70  |
+| ==White bread (30g)==                                                                                                                                                                                         | 70  |
 |                                                                                                                                                                                                           |     |
 | Dairy and Dairy Alternatives                                                                                                                                                                              |     |
 | Tofu, frozen dessert, non-dairy (50g)                                                                                                                                                                     | 115 |
@@ -174,13 +175,13 @@ ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews
 | Snacks & Sweets                                                                                                                                                                                           |     |
 | Corn syrup, dark (30g)                                                                                                                                                                                    | 90  |
 | Doughnuts, cake (47g)                                                                                                                                                                                     | 76  |
-| French fries (150g)                                                                                                                                                                                       | 75  |
+| ==French fries (150g)==                                                                                                                                                                                       | 75  |
 | Gatorade (250g)                                                                                                                                                                                           | 78  |
 | Glucose (10g)                                                                                                                                                                                             | 96  |
 | Graham crackers (25g)                                                                                                                                                                                     | 74  |
 | Jelly beans (30g)                                                                                                                                                                                         | 80  |
 | Life Savers, peppermint (30g)                                                                                                                                                                             | 70  |
 | Maltose (50g)                                                                                                                                                                                             | 105 |
-| Pizza, cheese (100g)                                                                                                                                                                                      | 80  |
+| ==Pizza, cheese (100g)==                                                                                                                                                                                      | 80  |
 | Pretzels (30g)                                                                                                                                                                                            | 83  |
 | Vanilla wafers (25g)                                                                                                                                                                                      | 77  |

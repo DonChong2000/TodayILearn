@@ -76,9 +76,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2508c3ad8509d510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b2c5706b58824e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81329425669b22c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -128,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -214,7 +251,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "81329425669b22c3",
   "lastOpenFiles": [
     "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Diet/GI LIST.md",
