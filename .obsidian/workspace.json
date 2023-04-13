@@ -4,117 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab108f229af73146",
+        "id": "418ee6157e71a1bb",
         "type": "tabs",
         "children": [
           {
-            "id": "1f16a57a8a2c0f05",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf"
-              }
-            }
-          },
-          {
-            "id": "69622a569ee8bf62",
+            "id": "1bbaa78378fc3141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b00e9830404641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Diet/Tyrosine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "987dc8c20461b1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/About Productivity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56f98d02b89a2040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b262dbacfa088ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2508c3ad8509d510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2c5706b58824e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81329425669b22c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md",
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/GI LIST.md"
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md"
               }
             }
           },
@@ -251,24 +156,25 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "81329425669b22c3",
+  "active": "1bbaa78378fc3141",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+    "01.Productivity/Physiologic/Diet/Tyrosine.md",
+    "01.Productivity/About Productivity.md",
     "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Diet/GI LIST.md",
     "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Investment/Crypto/Things I notice.md",
-    "01.Productivity/About Productivity.md",
     "Living Skills/Investment/Crypto",
     "Living Skills/Investment/IBKRCampus",
     "Living Skills/Investment",
     "01.Productivity/Physiologic/Energy",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Bored",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
     "01.Productivity/Physiologic/The state of boredom Frustrating or depressing",
     "01.Productivity/Physiologic/Diet/Vitamin B.md",
-    "01.Productivity/Physiologic/Diet/Tyrosine.md",
     "z.Images/Pasted image 20230411134558.png",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Caffeine increases striatal dopamine D2 D3 receptor availability in the human brain.pdf",
     "z.Images/Pasted image 20230411133709.png",
@@ -292,7 +198,6 @@
     "Living Skills/Cook/Carbonara.md",
     "02.Programming/Things used by the industry/Index.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "01.Productivity/Physiologic/Sleep/Melatonin.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",

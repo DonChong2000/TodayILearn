@@ -8,7 +8,7 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 [17:37](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=1057s) - How does sleep work? 
 [52:38](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=3158s) - How illness impacts sleep
 [1:01:32](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=3692s) - Recap 
-[1:08:27](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=4107s) - Solutions 
+[1:08:27](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=4107s) - [Solutions](#Solutions)
 [1:27:39](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5259s) - Strategies for falling asleep 
 [1:30:05](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5405s) - Pitta Imbalance 
 [1:37:29](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5849s) - Vata Imbalance 
@@ -17,7 +17,7 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 ────────────
 
 
-First Recall:
+First Recall From Memorie:
 - Caffeine, Alcohol, Marijana, will deliver incorrect signal to body, leading to unrestful sleep
 - Sleep cycle is important, waking up at end of sleep cycle make u feel better
 - Lack of sleep can be just a thought, You might wake up at sleep a few times, which makes you feel you are lack of sleep, but inface you have enough sleep.
@@ -26,4 +26,14 @@ First Recall:
 	- avoid blue light, as it effect melatonin level, you can do the following before sleep:
 		- Listen to podcast
 		- Cleaning, wash dishese
-- 
+
+
+
+# Solutions
+1. a
+2. b
+3. c
+4. d
+5. Food
+	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch.
+	2. Pre-emphasis lunch
