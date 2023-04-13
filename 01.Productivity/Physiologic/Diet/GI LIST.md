@@ -4,6 +4,8 @@ ref: [Glycemic Index of Foods, GI Value (carbs-information.com)](http://carbs-in
 - [Mid GI 56<GI<69](GI%20LIST.md#Mid%20GI)
 - [HIGH GI GI>70](#HIGH%20GI)
 
+Exce;
+
 Note:
 Meat, poultry, and fish do not have a GI becuase they do not contain carbohydrate.
 ref: [The glycemic index (GI) - Diabetes Canada](https://diabetes.ca/resources/tools---resources/the-glycemic-index-(gi)#:~:text=%28Meat%2C%20poultry%2C%20and%20fish%20do%20not%20have,a%20GI%20becuase%20they%20do%20not%20contain%20carbohydrate.%29)
