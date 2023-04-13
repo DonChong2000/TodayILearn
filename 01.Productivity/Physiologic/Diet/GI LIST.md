@@ -121,7 +121,7 @@ ref: [The glycemic index (GI) - Diabetes Canada](https://diabetes.ca/resources/t
 | Special K cereal (30g)                                                                                                                                                                                                                                      | 69 |
 | Taco shells (20g)                                                                                                                                                                                                                                           | 68 |
 | Wild rice (150g)                                                                                                                                                                                                                                            | 57 |
-| ==Pancakes==| 67 |
+
 |                                                                                                                                                                                                                                                             |    |
 | Snacks & Sweets                                                                                                                                                                                                                                             |    |
 | Bran muffin (57g)                                                                                                                                                                                                                                           | 60 |
