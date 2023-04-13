@@ -4,7 +4,7 @@ ref: [Glycemic Index of Foods, GI Value (carbs-information.com)](http://carbs-in
 - [Mid GI 56<GI<69](GI%20LIST.md#Mid%20GI)
 - [HIGH GI GI>70](#HIGH%20GI)
 
-Exce;
+[Spreadsheet version](https://docs.google.com/spreadsheets/d/1YAq94zb7TH8iKq_hTZeRfnZBmT6y3CBYjmbZ4B_j2k8/edit?usp=sharing)
 
 Note:
 Meat, poultry, and fish do not have a GI becuase they do not contain carbohydrate.
