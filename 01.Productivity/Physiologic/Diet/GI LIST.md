@@ -1,8 +1,12 @@
 ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews.com)](https://universityhealthnews.com/daily/nutrition/glycemic-index-chart/)
-
+ref: [Glycemic Index of Foods, GI Value (carbs-information.com)](http://carbs-information.com/glycemic-index.htm)
 - [Low GI GI<55](GI%20LIST.md#Low%20GI)
 - [Mid GI 56<GI<69](GI%20LIST.md#Mid%20GI)
 - [HIGH GI GI>70](#HIGH%20GI)
+
+Note:
+Meat, poultry, and fish do not have a GI becuase they do not contain carbohydrate.
+
 
 # Low GI
 
@@ -117,7 +121,7 @@ ref: [Glycemic Index Chart | Free Glycemic Index Food List (universityhealthnews
 | Special K cereal (30g)                                                                                                                                                                                                                                      | 69 |
 | Taco shells (20g)                                                                                                                                                                                                                                           | 68 |
 | Wild rice (150g)                                                                                                                                                                                                                                            | 57 |
-| Wild rice (150g)                                                                                                                                                                                                                                            | 57 |
+| ==Pancakes==| 67 |
 |                                                                                                                                                                                                                                                             |    |
 | Snacks & Sweets                                                                                                                                                                                                                                             |    |
 | Bran muffin (57g)                                                                                                                                                                                                                                           | 60 |
