@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5181bb8e5f6c0b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mottos to life.md",
+                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mottos to life.md",
+                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mottos to life.md"
+                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md"
               }
             }
           },
@@ -180,10 +192,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bcf0a3e805b729ac",
+  "active": "5181bb8e5f6c0b69",
   "lastOpenFiles": [
-    "Todo.md",
     "mottos to life.md",
+    "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "Todo.md",
     "Question to answer.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Diet/Healthy Diet in Work place.md",
@@ -221,7 +234,6 @@
     "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
     "Living Skills/Cook/麥皮.md",
     "Living Skills/Cook/番茄炒蛋.md",
-    "Living Skills/Cook/Recipe Tech Tree.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
