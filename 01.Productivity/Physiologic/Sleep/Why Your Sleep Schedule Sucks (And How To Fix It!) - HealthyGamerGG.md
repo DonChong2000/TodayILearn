@@ -43,15 +43,19 @@ First Recall From Memorie:
 		- what stress you have that day?
 		- Dreams?
 3. Time outdoor
-	1. Nowadays people No Horizons, No sunlight, same stimulus all day long
-	2. [Circadian rhythms](Keywords/Circadian%20rhythms.md)
-	3. Go outside during the day and at dusk
-	4. gain Vitamin D, will decrease your depression
+	- Nowadays people No Horizons, No sunlight, same stimulus all day long
+	- ==[Circadian rhythms](Keywords/Circadian%20rhythms.md)==
+	- Go outside during the day and at dusk
+	- ==gain Vitamin D, will decrease your depression==
 4. Structured bed time routine
 	- 2 hour before bed, no screen
 	- No phones, tablet, laptop in bed
-	3. 
-5. Food
+	- ==Screens inhibit melatonin==
+	- Redeuce dopamine and stimulate level bedore bed. (Youtube, tiktok, etc are build to stimulate your dopamine)
+	- Instead you can do:
+		- Grocery shopping
+		- Clean-> 
+1. Food
 	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
 	2. Pre-emphasis lunch. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
 	3. 6-7pm, Eat whatever you want. You gonna 
