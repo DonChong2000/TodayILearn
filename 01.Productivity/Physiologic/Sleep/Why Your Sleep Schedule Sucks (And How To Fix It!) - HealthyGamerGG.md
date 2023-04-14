@@ -81,7 +81,7 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 	- Vita imbalance
 	- PTSD 
 	- Caffeine intake?
-	- technology use? (reduce technology used help sleep)
+	- technology use? (reduce technology used to help sleep)
 	- routine before bed / cool down period
 	- ==weighted blanket== -> this is op and scientific, it can help anxiety
 	- temperature control
@@ -94,7 +94,8 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 			- let the sun wakes you up
 			- Sunlight reduces melatonin production, Which wakes you up gradually
 		- Wake up early, go to bed early
-		- 
+		- Wake up early in end of sleep cycle before entering another one
+			- because of Circadian rhythms and sleep cycle
 	
 
 
