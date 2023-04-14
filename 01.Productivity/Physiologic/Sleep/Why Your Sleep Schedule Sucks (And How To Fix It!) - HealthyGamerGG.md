@@ -54,7 +54,16 @@ First Recall From Memorie:
 	- Redeuce dopamine and stimulate level bedore bed. (Youtube, tiktok, etc are build to stimulate your dopamine)
 	- Instead you can do:
 		- Grocery shopping
-		- Clean-> 
+		- ==Clean==
+			- Reduce stress and anxiety -> easier fall as sleep. 
+			- Bonus of clean place
+		- Sort Mail
+		- Yoga / Exerise / ==Meditation==
+		- ==Hot Bath==
+			- peripheral vasodilation
+			- Alterations in blood vessels
+			- These make you sleepy
+	- ==Aduio Book / Physical Books==
 1. Food
 	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
 	2. Pre-emphasis lunch. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
