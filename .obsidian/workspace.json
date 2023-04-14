@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generic skills/Research.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Research.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Research.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Research.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "ba1a7a090e48b375",
   "lastOpenFiles": [
+    "mottos to life.md",
+    "Generic skills/Research.md",
     "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
     "01.Productivity/Physiologic/Untitled.md",
     "01.Productivity/Physiologic/Focus",
@@ -165,14 +167,12 @@
     "z.Images/Pasted image 20230414140532.png",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Todo.md",
-    "mottos to life.md",
     "Generic skills/Problem solving SOP.md",
     "Generic skills/Planning.md",
     "Generic skills/Multitasking.md",
     "Generic skills/Innovating.md",
     "Generic skills/Communication.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-    "Generic skills/Research.md",
     "Generic skills/Time Management.md",
     "Generic skills/Teamwork.md",
     "Generic skills/Stress managing.md",
@@ -194,7 +194,6 @@
     "Living Skills/Investment/IBKRCampus",
     "Living Skills/Investment",
     "01.Productivity/Physiologic/Energy",
-    "01.Productivity/Physiologic/Bored",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
