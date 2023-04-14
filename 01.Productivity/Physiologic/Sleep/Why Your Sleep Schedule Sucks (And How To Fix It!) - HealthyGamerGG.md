@@ -80,7 +80,14 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 - Staying Asleep
 	- Vita imbalance
 	- PTSD 
+	- Caffeine intake?
+	- technology use? (reduce technology used help sleep)
+	- routine before bed / cool down period
+	- ==weighted blanket== -> this is op and scientific, it can help anxiety
+	- temperature control
 - Waking Up
+	- kapha imbalance
+	- Eat food that are light, dry, sour
 
 
 
