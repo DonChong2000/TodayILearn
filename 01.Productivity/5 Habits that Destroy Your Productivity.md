@@ -12,6 +12,9 @@ Investing your primary professional from level 5 to level 6 yield more than inve
 A possible way to side hustle is my transitioning your professional skills or resources to side hustle.
 
 # 4. Hustle Culture
-Hustle Culture means putting more effort and time in.
-# 5. Put your self first
+Hustle Culture is a mindset about "to be more productive and successful, you gotta put in more effort and time in". 
 
+But what science discover is happy, healthy, well rested, focused, appropriately challenged are the one yield the best performance.
+
+# 5. Put yourselves first
+If you only looking out only for yourselves, other people will stop looking out for you. Relationship matter in career development.
