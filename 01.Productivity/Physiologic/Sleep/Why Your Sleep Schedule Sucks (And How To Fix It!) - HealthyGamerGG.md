@@ -16,17 +16,8 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 [1:47:49](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=6469s) - Meditation for sleep 
 ────────────
 
-~~~~
-First Recall From Memorie:
-- Caffeine, Alcohol, Marijana, will deliver incorrect signal to body, leading to unrestful sleep
-- Sleep cycle is important, waking up at end of sleep cycle make u feel better
-- Lack of sleep can be just a thought, You might wake up at sleep a few times, which makes you feel you are lack of sleep, but inface you have enough sleep.
-- How to sleep easier and better:
-	- Eat a big meal dinner, which increase Glycemic index, casue you sleepy
-	- avoid blue light, as it effect melatonin level, you can do the following before sleep:
-		- Listen to podcast
-		- Cleaning, wash dishese
-~~~~
+
+# TLDR: Application
 
 
 # Solutions
@@ -88,3 +79,19 @@ First Recall From Memorie:
 			- protein, fiber, nutrient
 - Staying Asleep
 - Waking Up
+
+
+
+
+~~~~
+First Recall From Memorie:
+- Caffeine, Alcohol, Marijana, will deliver incorrect signal to body, leading to unrestful sleep
+- Sleep cycle is important, waking up at end of sleep cycle make u feel better
+- Lack of sleep can be just a thought, You might wake up at sleep a few times, which makes you feel you are lack of sleep, but inface you have enough sleep.
+- How to sleep easier and better:
+	- Eat a big meal dinner, which increase Glycemic index, casue you sleepy
+	- avoid blue light, as it effect melatonin level, you can do the following before sleep:
+		- Listen to podcast
+		- Cleaning, wash dishese
+~~~~
+
