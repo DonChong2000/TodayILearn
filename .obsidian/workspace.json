@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -194,8 +195,9 @@
   },
   "active": "5181bb8e5f6c0b69",
   "lastOpenFiles": [
-    "mottos to life.md",
+    "conflict-files-obsidian-git.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "mottos to life.md",
     "Todo.md",
     "Question to answer.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
@@ -233,7 +235,6 @@
     "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
     "Living Skills/Cook/麥皮.md",
-    "Living Skills/Cook/番茄炒蛋.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
