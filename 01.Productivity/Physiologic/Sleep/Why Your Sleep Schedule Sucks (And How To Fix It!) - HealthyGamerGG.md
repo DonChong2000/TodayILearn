@@ -31,11 +31,19 @@ First Recall From Memorie:
 
 # Solutions
 1. Medical Evaluation
-	1. If your sleep problem is pathology problem
-2. b
-3. c
-4. d
-5. Food
+	1. if there's actually some kind of pathology going on like if you can correct your thyroid level and like easy done finished
+2. Isolate sleeping problem
+	1. Sleep Diary, find out what is my sleeping problem? Hard to fall as sleep? Hard to stay in sleep? or Hard to wake up? Or I feel tired during the day. Answer the follow question for 1 month
+		- What time do you fall as sleep?
+		- What time do you wake up?
+		- how rested are you 1-10?
+		- what technology used before bed?
+		- what was your bed time routine?
+		- what is caffine, alchlor inake in that day?
+		- what stress you have that day?
+		- Dreams?
+ -
+1. Food
 	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
 	2. Pre-emphasis lunch. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
 	3. 6-7pm, Eat whatever you want. You gonna be famished because of calories deficit. High GI will make you pass the fuck out.
