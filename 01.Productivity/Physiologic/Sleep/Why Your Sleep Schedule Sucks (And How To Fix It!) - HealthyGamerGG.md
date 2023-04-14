@@ -9,7 +9,7 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 [52:38](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=3158s) - How illness impacts sleep
 [1:01:32](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=3692s) - Recap 
 [1:08:27](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=4107s) - [Solutions](#Solutions)
-[1:27:39](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5259s) - Strategies for falling asleep 
+[1:27:39](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5259s) - [Strategies for falling asleep](#Strategies%20for%20falling%20asleep)
 [1:30:05](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5405s) - Pitta Imbalance 
 [1:37:29](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=5849s) - Vata Imbalance 
 [1:41:09](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=6069s) - Kapha Imbalance 
@@ -65,7 +65,13 @@ First Recall From Memorie:
 			- These make you sleepy
 	- ==Aduio Book / Physical Books==
 1. Food
-	1. Start breakfest with Oatmeal (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
-	2. Pre-emphasis lunch. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
-	3. 6-7pm, Eat whatever you want. You gonna 
-	4. be famished because of calories deficit. High GI will make you pass the fuck out.
+	1. Start ==breakfest with Oatmeal== (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
+	2. ==Pre-emphasis lunch==. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
+	3. 6-7pm, ==Eat whatever you want for dinner==. You gonna be famished because of calories deficit. High GI will make you pass the fuck out.
+
+# Strategies for falling asleep 
+
+- Falling Asleep
+	- Pitta imbalance
+- Staying Asleep
+- Waking Up
