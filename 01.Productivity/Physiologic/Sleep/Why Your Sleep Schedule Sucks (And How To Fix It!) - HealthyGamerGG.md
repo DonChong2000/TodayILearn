@@ -82,21 +82,22 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 	- PTSD 
 	- Caffeine intake?
 	- technology use? (reduce technology used to help sleep)
-	- routine before bed / cool down period
-	- ==weighted blanket== -> this is op and scientific, it can help anxiety
+	- routine before bed / cool-down period
+	- ==weighted blanket== -> This is op and scientific, it can help anxiety
 	- temperature control
 - Waking Up
-	- kapha imbalance
-	- Eat food that are light, dry, sour (or not at all) before bed
+	- Kapha imbalance
+	- Eat foods that are light, dry, sour (or not at all) before bed
 		- Large meal before bed, lead to more blood sugar remaining when you wake up, which makes you tired![](../../../z.Images/Pasted%20image%2020230414140532.png)
-		- Light Meal makes you hungry and want to wake up![](../../../z.Images/Pasted%20image%2020230414140711.png)
+		- Light Meal makes you hungry and wants to wake up![](../../../z.Images/Pasted%20image%2020230414140711.png)
 		- No Blinds
 			- let the sun wakes you up
 			- Sunlight reduces melatonin production, Which wakes you up gradually
-		- Wake up early, go to bed early
-		- Wake up early in end of sleep cycle before entering another one
+		- Wake up early, go to bed early, and the problem will fix next day
+		- Wake up early at end of the sleep cycle before entering another one
 			- because of Circadian rhythms and sleep cycle
 	
+
 
 
 
