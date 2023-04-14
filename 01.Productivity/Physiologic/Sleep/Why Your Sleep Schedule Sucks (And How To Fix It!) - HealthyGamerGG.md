@@ -48,10 +48,10 @@ First Recall From Memorie:
 	- Go outside during the day and at dusk
 	- ==gain Vitamin D, will decrease your depression==
 4. Structured bed time routine
-	- 2 hour before bed, no screen
-	- No phones, tablet, laptop in bed
+	- 2 hours before bed, no screen
+	- No phone, tablet, laptop in bed
 	- ==Screens inhibit melatonin==
-	- Redeuce dopamine and stimulate level bedore bed. (Youtube, tiktok, etc are build to stimulate your dopamine)
+	- Reduce dopamine and stimulate levels before bed. (Youtube, tiktok, etc are build to stimulate your dopamine)
 	- Instead you can do:
 		- Grocery shopping
 		- ==Clean==
@@ -65,23 +65,26 @@ First Recall From Memorie:
 			- These make you sleepy
 	- ==Aduio Book / Physical Books==
 1. Food
-	1. Start ==breakfest with Oatmeal== (High Fiber, High satiety, low calorie), so that you wont have huge lunch. Like 08:00
-	2. ==Pre-emphasis lunch==. Eat lunch before you hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfest makes you crave unhealthy food.
-	3. 6-7pm, ==Eat whatever you want for dinner==. You gonna be famished because of calories deficit. High GI will make you pass the fuck out.
+	1. Start ==breakfast with Oatmeal== (High Fiber, High satiety, low calorie), so that you won't have huge lunch. Like 08:00
+	2. ==Pre-emphasis lunch==. Eat lunch before you are hungry, like 11:30, not too calorie dense, e.g a sandwich. Calorie deficit breakfast makes you crave unhealthy food.
+	3. 6-7pm, ==Eat whatever you want for dinner==. You gonna be famished because of the calorie deficit. High GI will make you pass the fuck out.
 
 # Strategies for falling asleep 
 
 - Falling Asleep
 	- Pitta imbalance
-		- Hold on a few thoughts, cause hard to fall as sleep
+		- Hold on to a few thoughts, cause hard to fall asleep
 	- Have I awake for 16 hours?
-		- Wake up eariler
+		- Wake up earlier
 	- Does your body know it is time to sleep?
 		- Light exposure
 		- Technologies used
 	- Stress / Anxiety (Hi cortisol -> RAF)
-		- threphist / coach
+		- therapist / coach
 		- introspect / process #todo 
 		- meditation rewind, yoga
+	- Diet
+		- Yogurt / fruit / drizzle of maple syrup
+			- protein, fiber, nutrient
 - Staying Asleep
 - Waking Up
