@@ -78,6 +78,8 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 		- Yogurt / fruit / drizzle of maple syrup
 			- protein, fiber, nutrient
 - Staying Asleep
+	- Vita imbalance
+	- PTSD 
 - Waking Up
 
 
