@@ -54,9 +54,117 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50722d3fc15011ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Problem solving SOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f383c916da0d38fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Stress managing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a789f493d35ee32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43762bd3d579b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Teamwork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce9323c64a05ad29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Innovating.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdb3c207983ebde5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aaa80ffb9871e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2a72861a090ce97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95d0820c10724df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Problem solving SOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -122,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md",
+                "file": "Generic skills/Problem solving SOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md",
+                "file": "Generic skills/Problem solving SOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md"
+                "file": "Generic skills/Problem solving SOP.md"
               }
             }
           },
@@ -192,10 +300,22 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5181bb8e5f6c0b69",
+  "active": "95d0820c10724df1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Generic skills/Multitasking.md",
+    "Generic skills/Communication.md",
+    "Generic skills/Research.md",
+    "Generic skills/Time Management.md",
+    "Generic skills/Innovating.md",
+    "Generic skills/Teamwork.md",
+    "Generic skills/Planning.md",
+    "Generic skills/Stress managing.md",
+    "Generic skills/Problem solving SOP.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "Generic skills",
+    "Untitled/generic skills",
+    "Untitled/Untitled",
+    "conflict-files-obsidian-git.md",
     "mottos to life.md",
     "Todo.md",
     "Question to answer.md",
@@ -217,23 +337,11 @@
     "01.Productivity/Physiologic/Energy",
     "01.Productivity/Physiologic/Bored",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
-    "01.Productivity/Physiologic/The state of boredom Frustrating or depressing",
     "01.Productivity/Physiologic/Diet/Vitamin B.md",
     "z.Images/Pasted image 20230411134558.png",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Caffeine increases striatal dopamine D2 D3 receptor availability in the human brain.pdf",
     "z.Images/Pasted image 20230411133709.png",
-    "01.Productivity/Physiologic/Neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine triphosphate (ATP).md",
     "z.Images/Pasted image 20230411124459.png",
     "z.Images/Pasted image 20230411121811.png",
-    "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "01.Productivity/Physiologic/Sleep/Keywords/Melatonin.md",
-    "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
-    "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
-    "Living Skills/Cook/麥皮.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
