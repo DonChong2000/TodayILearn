@@ -87,7 +87,15 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 	- temperature control
 - Waking Up
 	- kapha imbalance
-	- Eat food that are light, dry, sour
+	- Eat food that are light, dry, sour (or not at all) before bed
+		- Large meal before bed, lead to more blood sugar remaining when you wake up, which makes you tired![](../../../z.Images/Pasted%20image%2020230414140532.png)
+		- Light Meal makes you hungry and want to wake up![](../../../z.Images/Pasted%20image%2020230414140711.png)
+		- No Blinds
+			- let the sun wakes you up
+			- Sunlight reduces melatonin production, Which wakes you up gradually
+		- Wake up early, go to bed early
+		- 
+	
 
 
 
