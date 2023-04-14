@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcf0a3e805b729ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mottos to life.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "file": "mottos to life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "file": "mottos to life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md"
+                "file": "mottos to life.md"
               }
             }
           },
@@ -168,12 +180,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "882ebed9f7b5f7b3",
+  "active": "bcf0a3e805b729ac",
   "lastOpenFiles": [
+    "Todo.md",
+    "mottos to life.md",
+    "Question to answer.md",
+    "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Diet/Healthy Diet in Work place.md",
     "01.Productivity/Physiologic/Diet/Untitled.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Diet/Tyrosine.md",
@@ -199,17 +214,14 @@
     "01.Productivity/Physiologic/Neurochemicals/Adenosine triphosphate (ATP).md",
     "z.Images/Pasted image 20230411124459.png",
     "z.Images/Pasted image 20230411121811.png",
-    "Todo.md",
     "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Melatonin.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Circadian rhythms.md",
     "01.Productivity/Physiologic/Sleep/Keywords/Chronotype.md",
-    "Question to answer.md",
     "Living Skills/Cook/麥皮.md",
     "Living Skills/Cook/番茄炒蛋.md",
     "Living Skills/Cook/Recipe Tech Tree.md",
-    "Living Skills/Cook/Pancake.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
