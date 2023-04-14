@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
+                "file": "Generic skills/Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Generic skills/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Generic skills/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Generic skills/Research.md"
+              }
             }
           },
           {
@@ -151,11 +155,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "ba1a7a090e48b375",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
+    "01.Productivity/Physiologic/Untitled.md",
     "01.Productivity/Physiologic/Focus",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "01.Productivity/Physiologic/Untitled.md",
     "z.Images/Pasted image 20230414140711.png",
     "z.Images/Pasted image 20230414140532.png",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
@@ -190,7 +195,6 @@
     "Living Skills/Investment",
     "01.Productivity/Physiologic/Energy",
     "01.Productivity/Physiologic/Bored",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
