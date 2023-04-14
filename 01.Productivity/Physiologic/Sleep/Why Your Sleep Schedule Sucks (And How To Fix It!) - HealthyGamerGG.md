@@ -16,7 +16,7 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 [1:47:49](https://www.youtube.com/watch?v=1aogY1Tm2Lo&t=6469s) - Meditation for sleep 
 ────────────
 
-
+~~~~
 First Recall From Memorie:
 - Caffeine, Alcohol, Marijana, will deliver incorrect signal to body, leading to unrestful sleep
 - Sleep cycle is important, waking up at end of sleep cycle make u feel better
@@ -26,24 +26,24 @@ First Recall From Memorie:
 	- avoid blue light, as it effect melatonin level, you can do the following before sleep:
 		- Listen to podcast
 		- Cleaning, wash dishese
-
+~~~~
 
 
 # Solutions
 1. Medical Evaluation
-	1. if there's actually some kind of pathology going on like if you can correct your thyroid level and like easy done finished
+	1. if there's some kind of pathology going on like if you can correct your thyroid level. Then the problem is solved
 2. Isolate sleeping problem
-	1. Sleep Diary, find out what is my sleeping problem? Hard to fall as sleep? Hard to stay in sleep? or Hard to wake up? Or I feel tired during the day. Answer the follow question for 1 month
-		- What time do you fall as sleep?
+	1. Sleep Diary, find out what is my sleeping problem. Hard to fall asleep? Hard to stay asleep? or Hard to wake up? Or I feel tired during the day. Answer the following question for 1 month
+		- What time do you fall asleep?
 		- What time do you wake up?
 		- how rested are you 1-10?
-		- what technology used before bed?
-		- what was your bed time routine?
-		- what is caffine, alchlor inake in that day?
-		- what stress you have that day?
+		- what technology is used before bed?
+		- what was your bedtime routine?
+		- what is caffeine, alcohol intake on that day?
+		- what stress did you have that day?
 		- Dreams?
 3. Time outdoor
-	- Nowadays people No Horizons, No sunlight, same stimulus all day long
+	- Nowadays people have No Horizons, No sunlight, same stimulus all day long
 	- ==[Circadian rhythms](Keywords/Circadian%20rhythms.md)==
 	- Go outside during the day and at dusk
 	- ==gain Vitamin D, will decrease your depression==
@@ -51,8 +51,8 @@ First Recall From Memorie:
 	- 2 hours before bed, no screen
 	- No phone, tablet, laptop in bed
 	- ==Screens inhibit melatonin==
-	- Reduce dopamine and stimulate levels before bed. (Youtube, tiktok, etc are build to stimulate your dopamine)
-	- Instead you can do:
+	- Reduce dopamine and stimulate levels before bed. (Youtube, TikTok, etc are built to stimulate your dopamine)
+	- ###### Instead, you can do:
 		- Grocery shopping
 		- ==Clean==
 			- Reduce stress and anxiety -> easier fall as sleep. 
