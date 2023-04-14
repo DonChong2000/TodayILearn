@@ -73,5 +73,15 @@ First Recall From Memorie:
 
 - Falling Asleep
 	- Pitta imbalance
+		- Hold on a few thoughts, cause hard to fall as sleep
+	- Have I awake for 16 hours?
+		- Wake up eariler
+	- Does your body know it is time to sleep?
+		- Light exposure
+		- Technologies used
+	- Stress / Anxiety (Hi cortisol -> RAF)
+		- threphist / coach
+		- introspect / process #todo 
+		- meditation rewind, yoga
 - Staying Asleep
 - Waking Up
