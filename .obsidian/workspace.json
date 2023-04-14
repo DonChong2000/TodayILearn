@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,14 +151,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ba1a7a090e48b375",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Focus",
+    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
+    "01.Productivity/Physiologic/Untitled.md",
     "z.Images/Pasted image 20230414140711.png",
     "z.Images/Pasted image 20230414140532.png",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Todo.md",
     "mottos to life.md",
-    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "Generic skills/Problem solving SOP.md",
     "Generic skills/Planning.md",
     "Generic skills/Multitasking.md",
@@ -188,7 +185,6 @@
     "01.Productivity/About Productivity.md",
     "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Diet/GI LIST.md",
-    "Living Skills/Cook/DIY Sandwish price.md",
     "Living Skills/Investment/Crypto",
     "Living Skills/Investment/IBKRCampus",
     "Living Skills/Investment",
@@ -202,7 +198,6 @@
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
-    "z.Images/Pasted image 20230406120718.png",
-    "z.Images/Pasted image 20230406120659.png"
+    "z.Images/Pasted image 20230406120718.png"
   ]
 }
