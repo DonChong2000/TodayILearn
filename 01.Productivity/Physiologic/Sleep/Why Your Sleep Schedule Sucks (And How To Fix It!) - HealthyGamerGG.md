@@ -30,7 +30,8 @@ First Recall From Memorie:
 
 
 # Solutions
-1. a
+1. Medical Evaluation
+	1. If your sleep problem is pathology problem
 2. b
 3. c
 4. d

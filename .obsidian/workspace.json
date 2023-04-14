@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "418ee6157e71a1bb",
+        "id": "43961e9f335febd8",
         "type": "tabs",
         "children": [
           {
-            "id": "1bbaa78378fc3141",
+            "id": "ba1a7a090e48b375",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,153 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "882ebed9f7b5f7b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf0a3e805b729ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mottos to life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5181bb8e5f6c0b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Productivity/5 Habits that Destroy Your Productivity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50722d3fc15011ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Problem solving SOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f383c916da0d38fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Stress managing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a789f493d35ee32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43762bd3d579b0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Teamwork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce9323c64a05ad29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Innovating.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb3c207983ebde5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aaa80ffb9871e01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2a72861a090ce97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95d0820c10724df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Problem solving SOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -230,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Problem solving SOP.md",
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Problem solving SOP.md",
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Problem solving SOP.md"
+                "file": "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md"
               }
             }
           },
@@ -300,17 +156,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "95d0820c10724df1",
+  "active": "ba1a7a090e48b375",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+    "Generic skills/Problem solving SOP.md",
+    "Generic skills/Planning.md",
     "Generic skills/Multitasking.md",
+    "Generic skills/Innovating.md",
     "Generic skills/Communication.md",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "Generic skills/Research.md",
     "Generic skills/Time Management.md",
-    "Generic skills/Innovating.md",
     "Generic skills/Teamwork.md",
-    "Generic skills/Planning.md",
     "Generic skills/Stress managing.md",
-    "Generic skills/Problem solving SOP.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "Generic skills",
     "Untitled/generic skills",
@@ -324,7 +182,6 @@
     "01.Productivity/Physiologic/Diet/Untitled.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Diet/Tyrosine.md",
     "01.Productivity/About Productivity.md",
     "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
@@ -337,7 +194,6 @@
     "01.Productivity/Physiologic/Energy",
     "01.Productivity/Physiologic/Bored",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？",
-    "01.Productivity/Physiologic/Diet/Vitamin B.md",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
