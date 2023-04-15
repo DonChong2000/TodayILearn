@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8b21c2eba751466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/High quality IG upload.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/High quality IG upload.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/High quality IG upload.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ba1a7a090e48b375",
+  "active": "d8b21c2eba751466",
   "lastOpenFiles": [
-    "Living Skills/剪頭髮.md",
     "Living Skills/High quality IG upload.md",
+    "Untitled.md",
+    "Living Skills/剪頭髮.md",
     "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
     "Todo.md",
     "mottos to life.md",
@@ -190,7 +204,6 @@
     "01.Productivity/Physiologic/Diet/Untitled.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
     "01.Productivity/Physiologic/Diet/Tyrosine.md",
-    "01.Productivity/About Productivity.md",
     "Living Skills/Investment/Crypto",
     "Living Skills/Investment/IBKRCampus",
     "Living Skills/Investment",
