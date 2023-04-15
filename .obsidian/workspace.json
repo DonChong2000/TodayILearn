@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43961e9f335febd8",
+        "id": "4ffd094e16734d27",
         "type": "tabs",
         "children": [
           {
-            "id": "ba1a7a090e48b375",
+            "id": "f6f1d92c46a5e191",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,56 +152,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ba1a7a090e48b375",
+  "active": "f6f1d92c46a5e191",
   "lastOpenFiles": [
-    "mottos to life.md",
-    "Generic skills/Research.md",
-    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
-    "01.Productivity/Physiologic/Untitled.md",
-    "01.Productivity/Physiologic/Focus",
-    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
     "z.Images/Pasted image 20230414140711.png",
     "z.Images/Pasted image 20230414140532.png",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "Todo.md",
+    "Generic skills/Time Management.md",
+    "Generic skills/Teamwork.md",
+    "Generic skills/Stress managing.md",
+    "Generic skills/Research.md",
     "Generic skills/Problem solving SOP.md",
     "Generic skills/Planning.md",
     "Generic skills/Multitasking.md",
     "Generic skills/Innovating.md",
     "Generic skills/Communication.md",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-    "Generic skills/Time Management.md",
-    "Generic skills/Teamwork.md",
-    "Generic skills/Stress managing.md",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "Generic skills",
-    "Untitled/generic skills",
-    "Untitled/Untitled",
-    "conflict-files-obsidian-git.md",
-    "Question to answer.md",
+    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
+    "01.Productivity/Physiologic/Focus",
+    "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "mottos to life.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Diet/Healthy Diet in Work place.md",
-    "01.Productivity/Physiologic/Diet/Untitled.md",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Evidence That Sleep Deprivation Downregulates Dopamine.pdf",
-    "01.Productivity/Physiologic/Diet/Tyrosine.md",
-    "01.Productivity/About Productivity.md",
-    "01.Productivity/Physiologic/Diet/Glycemic index 升糖指數.md",
     "01.Productivity/Physiologic/Diet/GI LIST.md",
-    "Living Skills/Investment/Crypto",
-    "Living Skills/Investment/IBKRCampus",
-    "Living Skills/Investment",
-    "01.Productivity/Physiologic/Energy",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
     "z.Images/Pasted image 20230411121811.png",
+    "Living Skills/Investment/Crypto/Things I notice.md",
+    "Living Skills/Investment/Crypto",
+    "Living Skills/Investment",
+    "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
+    "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
+    "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
+    "01.Productivity/Physiologic/neurochemicals",
+    "01.Productivity/Physiologic/Diet/Vitamin B.md",
+    "01.Productivity/Physiologic/Diet/Tyrosine.md",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Sunshine-exposure variation of human striatal dopamine D2 D3 receptor availability.pdf",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Sleep deprivation differentially affects dopamine receptor subtypes in mouse striatum.pdf",
+    "Todo.md",
+    "Living Skills/Cook/卵焼き玉子燒Tamagoyaki.md",
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+    "01.Productivity/Physiologic/Sleep/Keywords/Melatonin.md",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
-    "z.Images/Pasted image 20230406120718.png"
+    "z.Images/Pasted image 20230406120718.png",
+    "z.Images/Pasted image 20230406120659.png"
   ]
 }
