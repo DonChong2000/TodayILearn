@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc7afa4a1764f875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -168,10 +180,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d8b21c2eba751466",
+  "active": "bc7afa4a1764f875",
   "lastOpenFiles": [
-    "Living Skills/High quality IG upload.md",
     "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Living Skills/High quality IG upload.md",
     "Living Skills/剪頭髮.md",
     "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
     "Todo.md",
@@ -197,7 +210,6 @@
     "Generic skills",
     "Untitled/generic skills",
     "Untitled/Untitled",
-    "conflict-files-obsidian-git.md",
     "Question to answer.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Diet/Healthy Diet in Work place.md",
