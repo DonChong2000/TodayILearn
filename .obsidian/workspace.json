@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Methodology/Getting Things Done.md",
+                "file": "Generic skills/Multitasking.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Methodology/Getting Things Done.md",
+                "file": "Generic skills/Multitasking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Methodology/Getting Things Done.md",
+                "file": "Generic skills/Multitasking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Methodology/Getting Things Done.md"
+                "file": "Generic skills/Multitasking.md"
               }
             }
           },
@@ -169,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb3d5662307ff43",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "01.Productivity/Methodology/Getting Things Done.md",
     "01.Productivity/About Productivity.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
-    "01.Productivity/Methodology/Getting Things Done.md",
     "01.Productivity/Methodology",
     "Question to answer.md",
     "Untitled 1.md",
