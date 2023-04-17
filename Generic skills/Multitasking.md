@@ -2,7 +2,7 @@
 **Def:**
 it is not about coding two project with your left hand and right hands.  
   
-It is working two or more project at a same period of time. It require you not to mess up and miss details of all taskes. And able to swap between the context quickly. And abilityt
+It is working two or more project at a same period of time. It require you not to mess up and miss details of all taskes. And able to swap between the context quickly. And ability to distribute tasks to others.
 
 
 **My thoughts:**

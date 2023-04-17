@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e83310bd120ef84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Methodology/Getting Things Done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Multitasking.md",
+                "file": "01.Productivity/Methodology/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Multitasking.md",
+                "file": "01.Productivity/Methodology/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Multitasking.md"
+                "file": "01.Productivity/Methodology/Getting Things Done.md"
               }
             }
           },
@@ -172,6 +184,10 @@
   },
   "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230417152259.png",
+    "z.Images/Pasted image 20230417152021.png",
+    "Generic skills/Decidion making.md",
+    "Generic skills/Multitasking.md",
     "01.Productivity/Methodology/Getting Things Done.md",
     "01.Productivity/About Productivity.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
@@ -193,7 +209,6 @@
     "Generic skills/Research.md",
     "Generic skills/Problem solving SOP.md",
     "Generic skills/Planning.md",
-    "Generic skills/Multitasking.md",
     "Generic skills/Innovating.md",
     "Generic skills/Communication.md",
     "Generic skills",
@@ -210,13 +225,10 @@
     "Living Skills/Investment/Crypto",
     "Living Skills/Investment",
     "01.Productivity/Physiologic/neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
     "01.Productivity/Physiologic/neurochemicals",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
-    "z.Images/Pasted image 20230406121108.png",
-    "z.Images/Pasted image 20230406120718.png"
+    "z.Images/Pasted image 20230406121108.png"
   ]
 }
