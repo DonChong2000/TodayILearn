@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question to answer.md",
+                "file": "01.Productivity/About Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb3d5662307ff43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Methodology/Getting Things Done.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Question to answer.md",
+                "file": "01.Productivity/Methodology/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Question to answer.md",
+                "file": "01.Productivity/Methodology/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Question to answer.md"
+                "file": "01.Productivity/Methodology/Getting Things Done.md"
               }
             }
           },
@@ -156,8 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "6eb3d5662307ff43",
   "lastOpenFiles": [
+    "01.Productivity/About Productivity.md",
+    "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "01.Productivity/Methodology/Getting Things Done.md",
+    "01.Productivity/Methodology",
+    "Question to answer.md",
     "Untitled 1.md",
     "Untitled.md",
     "Living Skills/High quality IG upload.md",
@@ -180,7 +198,6 @@
     "Generic skills",
     "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
     "01.Productivity/Physiologic/Focus",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Diet/Healthy Diet in Work place.md",
     "01.Productivity/Physiologic/Diet/GI LIST.md",
@@ -195,11 +212,7 @@
     "01.Productivity/Physiologic/neurochemicals/Adenosine.md",
     "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
     "01.Productivity/Physiologic/neurochemicals",
-    "01.Productivity/Physiologic/Diet/Vitamin B.md",
-    "01.Productivity/Physiologic/Diet/Tyrosine.md",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
