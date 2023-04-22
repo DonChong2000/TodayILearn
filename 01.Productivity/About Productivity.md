@@ -3,7 +3,7 @@ This note aims to research how to maintain high productivity while maintaining h
 
 # Methodology
 - Time Management
-- Todo list
+- [Getting Things Done](Methodology/Getting%20Things%20Done.md)
 - Pomodoro
 - Multitasking
 
