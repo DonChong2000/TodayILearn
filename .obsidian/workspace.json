@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5b971fd74eef9a38",
+        "id": "4ffd094e16734d27",
         "type": "tabs",
         "children": [
           {
-            "id": "0f21c3ad763f56fb",
+            "id": "f6f1d92c46a5e191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/About Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb3d5662307ff43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Multitasking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e83310bd120ef84c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,28 +181,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f21c3ad763f56fb",
+  "active": "e83310bd120ef84c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "01.Productivity/Methodology/Getting Things Done.md",
     "03. Value/大问题：躺平时代，卷还有意义吗？.md",
     "03. Value",
-    "z.Images/Pasted image 20230417152259.png",
-    "z.Images/Pasted image 20230417152021.png",
-    "Living Skills/Cook/Pancake (conflict 2023-04-17-16-07-29).md",
-    "Generic skills/Decidion making.md",
-    "01.Productivity/Methodology/Getting Things Done.md",
-    "01.Productivity/Methodology",
-    "Todo.md",
     "01.Productivity/Using Computer/Start a new tab by spotlight.md",
     "01.Productivity/Using Computer",
-    "Untitled 1.md",
+    "01.Productivity/About Productivity.md",
+    "z.Images/Pasted image 20230417152259.png",
+    "z.Images/Pasted image 20230417152021.png",
+    "Generic skills/Decidion making.md",
+    "Generic skills/Multitasking.md",
+    "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "01.Productivity/Methodology",
     "Question to answer.md",
+    "Untitled 1.md",
     "Untitled.md",
     "Living Skills/High quality IG upload.md",
     "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
     "Good Habits",
     "Generic skills/Habit",
     "mottos to life.md",
+    "Todo.md",
     "z.Images/Pasted image 20230414140711.png",
     "z.Images/Pasted image 20230414140532.png",
     "Generic skills/Time Management.md",
@@ -186,13 +212,11 @@
     "Generic skills/Research.md",
     "Generic skills/Problem solving SOP.md",
     "Generic skills/Planning.md",
-    "Generic skills/Multitasking.md",
     "Generic skills/Innovating.md",
     "Generic skills/Communication.md",
     "Generic skills",
     "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
     "01.Productivity/Physiologic/Focus",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Diet/Healthy Diet in Work place.md",
     "01.Productivity/Physiologic/Diet/GI LIST.md",
@@ -200,6 +224,7 @@
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
     "z.Images/Pasted image 20230411121811.png",
+    "Living Skills/Investment/Crypto/Things I notice.md",
     "Living Skills/Investment/Crypto",
     "Living Skills/Investment",
     "z.Images/Pasted image 20230406125005.png",
