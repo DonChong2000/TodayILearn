@@ -11,24 +11,15 @@
             "id": "0f21c3ad763f56fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8287f0bf5a55b003",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md"
               }
             }
           },
@@ -165,15 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8287f0bf5a55b003",
+  "active": "0f21c3ad763f56fb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "03. Value/大问题：躺平时代，卷还有意义吗？.md",
+    "03. Value",
     "z.Images/Pasted image 20230417152259.png",
     "z.Images/Pasted image 20230417152021.png",
     "Living Skills/Cook/Pancake (conflict 2023-04-17-16-07-29).md",
     "Generic skills/Decidion making.md",
     "01.Productivity/Methodology/Getting Things Done.md",
     "01.Productivity/Methodology",
-    "conflict-files-obsidian-git.md",
     "Todo.md",
     "01.Productivity/Using Computer/Start a new tab by spotlight.md",
     "01.Productivity/Using Computer",
@@ -209,9 +202,7 @@
     "z.Images/Pasted image 20230411121811.png",
     "Living Skills/Investment/Crypto",
     "Living Skills/Investment",
-    "01.Productivity/Physiologic/neurochemicals",
     "z.Images/Pasted image 20230406125005.png",
-    "z.Images/Pasted image 20230406121559.png",
-    "z.Images/Pasted image 20230406121108.png"
+    "z.Images/Pasted image 20230406121559.png"
   ]
 }
