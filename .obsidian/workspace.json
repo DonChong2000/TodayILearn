@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffd094e16734d27",
+        "id": "5b971fd74eef9a38",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f1d92c46a5e191",
+            "id": "0f21c3ad763f56fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f1d92c46a5e191",
+  "active": "0f21c3ad763f56fb",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Todo.md",
+    "01.Productivity/Using Computer/Start a new tab by spotlight.md",
+    "01.Productivity/Using Computer",
+    "Untitled 1.md",
     "Question to answer.md",
     "Untitled.md",
     "Living Skills/High quality IG upload.md",
@@ -197,9 +191,7 @@
     "01.Productivity/Physiologic/neurochemicals/Adenosine triphosphate (ATP).md",
     "01.Productivity/Physiologic/neurochemicals",
     "01.Productivity/Physiologic/Diet/Vitamin B.md",
-    "01.Productivity/Physiologic/Diet/Tyrosine.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The state of boredom Frustrating or depressing.pdf",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/The Unengaged Mind - Defining Boredom in Terms of Attention.pdf",
     "z.Images/Pasted image 20230406125005.png",
     "z.Images/Pasted image 20230406121559.png",
     "z.Images/Pasted image 20230406121108.png",
