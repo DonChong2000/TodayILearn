@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"409fe76893cb7c60","x":-20,"y":-229,"width":250,"height":60,"color":"5","type":"text","text":"# 卷贏派"},
+		{"type":"text","text":"# 躺平派","id":"93e9fb24c1638ce6","x":-880,"y":-229,"width":250,"height":60,"color":"1"},
+		{"id":"0569470ec17b31dc","x":-201,"y":-44,"width":250,"height":60,"type":"text","text":"黑格爾"}
+	],
+	"edges":[]
+}
