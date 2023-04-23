@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md"
               }
             }
           },
@@ -200,19 +200,18 @@
                   "state": {
                     "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
                     "viewState": {
-                      "x": 203.7633278363208,
-                      "y": 223.6130292478223,
-                      "zoom": -0.6666666666666667
+                      "x": 503.7293039366424,
+                      "y": 887.6668550601275,
+                      "zoom": 0.3333333333333332
                     }
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1080,
@@ -221,10 +220,10 @@
       }
     ]
   },
-  "active": "e83310bd120ef84c",
+  "active": "84c6517df63ab18f",
   "lastOpenFiles": [
-    "03. Value/大问题：躺平时代，卷还有意义吗？.md",
     "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+    "03. Value/大问题：躺平时代，卷还有意义吗？.md",
     "Generic skills/Multitasking.md",
     "z.Images/Pasted image 20230423145001.png",
     "01.Productivity/Methodology/Getting Things Done.md",
