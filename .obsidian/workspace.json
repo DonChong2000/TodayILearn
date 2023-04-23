@@ -15,8 +15,8 @@
               "state": {
                 "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
                 "viewState": {
-                  "x": 455.1476842183382,
-                  "y": 248.25187606370122,
+                  "x": 567.4523241560587,
+                  "y": -202.77397040122423,
                   "zoom": -0.6666666666666667
                 }
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
+                "file": "03. Value/大问题：躺平时代，卷还有意义吗？.md"
               }
             }
           },
@@ -212,10 +212,10 @@
       }
     ]
   },
-  "active": "e83310bd120ef84c",
+  "active": "84c6517df63ab18f",
   "lastOpenFiles": [
-    "03. Value/大问题：躺平时代，卷还有意义吗？.md",
     "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+    "03. Value/大问题：躺平时代，卷还有意义吗？.md",
     "Generic skills/Multitasking.md",
     "z.Images/Pasted image 20230423145001.png",
     "01.Productivity/Methodology/Getting Things Done.md",
