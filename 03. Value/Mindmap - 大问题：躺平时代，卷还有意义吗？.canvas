@@ -1,8 +1,30 @@
 {
 	"nodes":[
-		{"id":"409fe76893cb7c60","x":-20,"y":-229,"width":250,"height":60,"color":"5","type":"text","text":"# 卷贏派"},
-		{"type":"text","text":"# 躺平派","id":"93e9fb24c1638ce6","x":-880,"y":-229,"width":250,"height":60,"color":"1"},
-		{"id":"0569470ec17b31dc","x":-201,"y":-44,"width":250,"height":60,"type":"text","text":"黑格爾"}
+		{"type":"text","text":"# 卷贏派","id":"409fe76893cb7c60","x":-720,"y":-104,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"# 躺平派","id":"93e9fb24c1638ce6","x":-720,"y":-560,"width":250,"height":50,"color":"1"},
+		{"type":"text","text":"馬爾庫塞","id":"fab6ec3fe05466c9","x":-320,"y":-44,"width":250,"height":60},
+		{"type":"text","text":"亞里士多德","id":"1753ea5afb621f72","x":-320,"y":80,"width":250,"height":60},
+		{"type":"text","text":"馬克思","id":"ce4cc33167faf07e","x":-320,"y":-154,"width":250,"height":50},
+		{"type":"text","text":"黑格爾","id":"0569470ec17b31dc","x":-320,"y":-260,"width":250,"height":60},
+		{"type":"text","text":"什麼是幸福的生活?","id":"71b06a31e03c684d","x":-20,"y":80,"width":250,"height":60},
+		{"type":"text","text":"享樂的生活","id":"9b965a6c64da130e","x":440,"y":143,"width":250,"height":60},
+		{"id":"e098f3e1431dc9eb","x":440,"y":-50,"width":250,"height":160,"type":"text","text":"定義: \n1. 幸福就是靈魂合乎德性的實現活動\n2. 穩定性(自足性)"},
+		{"type":"text","text":"榮耀的生活","id":"f1296190afdd60ab","x":440,"y":240,"width":250,"height":60},
+		{"type":"text","text":"(Best)沉思的生活","id":"4585d5c86b80709b","x":440,"y":340,"width":250,"height":60},
+		{"id":"ab431946929bc48e","x":780,"y":300,"width":250,"height":60,"type":"text","text":"(Second)德性的生活"},
+		{"id":"88eaca91416abad8","x":780,"y":178,"width":250,"height":50,"type":"text","text":"追求成功"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"88a1ce68b87f8512","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"0569470ec17b31dc","toSide":"left"},
+		{"id":"8819f72d1cad46b9","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"ce4cc33167faf07e","toSide":"left"},
+		{"id":"206b2a8ea9d03c0b","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"fab6ec3fe05466c9","toSide":"left"},
+		{"id":"61bcb6e12af541a7","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"1753ea5afb621f72","toSide":"left"},
+		{"id":"684621148c3b3909","fromNode":"1753ea5afb621f72","fromSide":"right","toNode":"71b06a31e03c684d","toSide":"left"},
+		{"id":"4157443d4b897444","fromNode":"71b06a31e03c684d","fromSide":"right","toNode":"9b965a6c64da130e","toSide":"left"},
+		{"id":"2dc94d75e60ba033","fromNode":"71b06a31e03c684d","fromSide":"right","toNode":"f1296190afdd60ab","toSide":"left"},
+		{"id":"4268bf444ef5e86e","fromNode":"71b06a31e03c684d","fromSide":"right","toNode":"4585d5c86b80709b","toSide":"left"},
+		{"id":"868becc8f85ec061","fromNode":"71b06a31e03c684d","fromSide":"right","toNode":"e098f3e1431dc9eb","toSide":"left"},
+		{"id":"22289b7f42af0d99","fromNode":"f1296190afdd60ab","fromSide":"right","toNode":"88eaca91416abad8","toSide":"left"},
+		{"id":"babad3a7925c2d0e","fromNode":"f1296190afdd60ab","fromSide":"right","toNode":"ab431946929bc48e","toSide":"left"}
+	]
 }
