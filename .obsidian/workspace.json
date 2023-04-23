@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffd094e16734d27",
+        "id": "5c2da7387c184e65",
         "type": "tabs",
         "children": [
           {
-            "id": "e83310bd120ef84c",
+            "id": "decb7aad4b53ac2b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
-                "viewState": {
-                  "x": 984.9665712189603,
-                  "y": 974.1782826719985,
-                  "zoom": -0.6666666666666667
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -198,8 +187,24 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e83310bd120ef84c",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+                    "viewState": {
+                      "x": 984.9665712189603,
+                      "y": 974.1782826719985,
+                      "zoom": -0.6666666666666667
+                    }
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -212,7 +217,7 @@
       }
     ]
   },
-  "active": "e83310bd120ef84c",
+  "active": "decb7aad4b53ac2b",
   "lastOpenFiles": [
     "03. Value/大问题：躺平时代，卷还有意义吗？.md",
     "03. Value/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
