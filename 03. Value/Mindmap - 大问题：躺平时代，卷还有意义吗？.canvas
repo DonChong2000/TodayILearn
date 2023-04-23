@@ -19,17 +19,18 @@
 		{"type":"text","text":"定義: \n1. 幸福就是靈魂合乎德性的實現活動\n2. 穩定性(自足性)","id":"e098f3e1431dc9eb","x":440,"y":680,"width":250,"height":160},
 		{"type":"text","text":"馬爾庫塞","id":"fab6ec3fe05466c9","x":-320,"y":440,"width":250,"height":60},
 		{"type":"text","text":"現代資本主義結合科技導致人的異化","id":"ec46e4a2713db3e1","x":-20,"y":440,"width":250,"height":60},
-		{"id":"3c7d66b539b2d5a7","x":260,"y":399,"width":380,"height":141,"type":"text","text":"資本主義社會不僅僅是一種經濟系統，\n而是一種文化和意識形態系統，\n**使人成為單向度的人**，\n自願加入這台大機器\n"},
-		{"id":"f09ca7fb7b5df3cb","x":720,"y":267,"width":287,"height":173,"type":"text","text":"單向度的人/人的異化:\n- 心智充斥工具理性和技術理性，計算利益得失\n- 只有在運用動物機能才覺得自己在自由活動"},
-		{"id":"731b417a3650cc2f","x":720,"y":480,"width":329,"height":120,"type":"text","text":"資本主義機器運作原理\n供應：加工資，使工人能買更多消費品\n－需求：創造虛假需求"},
+		{"type":"text","text":"資本主義社會不僅僅是一種經濟系統，\n而是一種文化和意識形態系統，\n**使人成為單向度的人**，\n自願加入這台大機器\n","id":"3c7d66b539b2d5a7","x":260,"y":399,"width":380,"height":141},
+		{"type":"text","text":"單向度的人/人的異化:\n- 心智充斥工具理性和技術理性，計算利益得失\n- 只有在運用動物機能才覺得自己在自由活動","id":"f09ca7fb7b5df3cb","x":720,"y":267,"width":287,"height":173},
+		{"type":"text","text":"資本主義機器運作原理\n- 供應：加工資，使工人能買更多消費品\n- 需求：創造虛假需求","id":"731b417a3650cc2f","x":720,"y":480,"width":329,"height":160},
 		{"type":"text","text":"# 躺平派","id":"93e9fb24c1638ce6","x":-1040,"y":-104,"width":250,"height":50,"color":"1"},
 		{"type":"text","text":"榮耀的生活","id":"f1296190afdd60ab","x":440,"y":1102,"width":250,"height":60},
 		{"type":"text","text":"(Best)沉思的生活","id":"4585d5c86b80709b","x":440,"y":1202,"width":250,"height":60},
 		{"type":"text","text":"(Second)德性的生活","id":"ab431946929bc48e","x":780,"y":1162,"width":250,"height":60},
 		{"type":"text","text":"追求成功","id":"88eaca91416abad8","x":780,"y":1040,"width":250,"height":50},
 		{"type":"text","text":"黑格爾：第一級自我確立：慾望","id":"9c996aefb1e8167b","x":780,"y":813,"width":250,"height":60,"color":"2"},
-		{"id":"32dd2cef229b0cac","x":780,"y":933,"width":250,"height":60,"type":"text","text":"亞里士多德 並不反對享樂，勞逸結合是好的"},
-		{"type":"text","text":"為領工資工作欠缺亞里士多德的 **自足性**","id":"a00355e9faa77c08","x":315,"y":187,"width":250,"height":80,"color":"2"}
+		{"type":"text","text":"亞里士多德 並不反對享樂，勞逸結合是好的","id":"32dd2cef229b0cac","x":780,"y":933,"width":250,"height":60},
+		{"type":"text","text":"為領工資工作欠缺亞里士多德的 **自足性**","id":"a00355e9faa77c08","x":315,"y":187,"width":250,"height":80,"color":"2"},
+		{"type":"text","text":"黑格爾：第一級自我確立：慾望","id":"bedd9d8ed29a83aa","x":1049,"y":324,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"88a1ce68b87f8512","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"0569470ec17b31dc","toSide":"left"},
@@ -61,6 +62,7 @@
 		{"id":"5f7eef1bdd6847a8","fromNode":"3c7d66b539b2d5a7","fromSide":"right","toNode":"731b417a3650cc2f","toSide":"left"},
 		{"id":"9e3bc919c07d8120","fromNode":"9b965a6c64da130e","fromSide":"right","toNode":"9c996aefb1e8167b","toSide":"left"},
 		{"id":"bbd013f62cdba50e","fromNode":"9b965a6c64da130e","fromSide":"right","toNode":"32dd2cef229b0cac","toSide":"left"},
-		{"id":"2a44a2e47bce0209","fromNode":"26fc21db86730b0b","fromSide":"bottom","toNode":"a00355e9faa77c08","toSide":"left"}
+		{"id":"2a44a2e47bce0209","fromNode":"26fc21db86730b0b","fromSide":"bottom","toNode":"a00355e9faa77c08","toSide":"left"},
+		{"id":"7a87be7fbe2cdaa8","fromNode":"f09ca7fb7b5df3cb","fromSide":"right","toNode":"bedd9d8ed29a83aa","toSide":"left"}
 	]
 }
