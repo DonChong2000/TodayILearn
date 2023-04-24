@@ -27,9 +27,11 @@ Do monks have security? They don't have to worry about living, food, or promotio
 
 The more you are able to savor things the more happy you are.
 
-**Money can negatively impact savoring.**
-If I give someone to eat a chocolate, it bring you a lot of happiness.
-If you tell people how much it cost, especially people ha
+==**Money can negatively impact savoring.**==
+- If I give someone to eat a chocolate, it bring you a lot of happiness.
+- If you tell people how much it cost, especially people have to pay for it, it reduces the happiness.
+
+
 
 
 # Prioritize experience over possessions
