@@ -1,3 +1,5 @@
+ref: [Psychiatrist Explains: Does Money Actually Buy Happiness? - YouTube](https://www.youtube.com/watch?v=Li8OK7JZtUs&ab_channel=HealthyGamerGG)
+
 # Summery
 
 The choice is not what brings the happiness, is the way we experience the choice that brings happiness. It is not about picking the correct path, but how you live your life with the choice, and how you savour whatever comes after the choice, that ultimately bring you the happiness
