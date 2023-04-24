@@ -1,9 +1,15 @@
 # Summery
+
+The choice is not what brings the happiness, is the way we experience the choice that brings happiness. It is not about picking the correct path, 
+
 What should you do to gain more happiness?
 1. [Prioritizing yoru security](#Prioritizing%20yoru%20security)
 2. [Learn how to savor](#Learn%20how%20to%20savor)
 3. [Prioritize experience over possessions](#Prioritize%20experience%20over%20possessions)
 4. [Spend your money on other people](#Spend%20your%20money%20on%20other%20people)
+
+
+
 
 # Prioritizing you security
 **Stress**
@@ -42,6 +48,10 @@ E.g: Trip, rafting, museum.
 
 **==savoring experiences that are ordinary or extraordinary leads to about the same amount of Happiness==**
 
-$15 cup of coffee, has
+$15 cup of coffee, lead to same amount of happiness of $5 coffee.
+
+Being a monk and meditation is a formal training of savoring.
 
 # Spend your money on other people
+
+Spending money on other people brings more happiness than spending money on yourself
