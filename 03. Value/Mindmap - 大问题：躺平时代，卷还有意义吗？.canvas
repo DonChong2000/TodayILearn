@@ -22,7 +22,6 @@
 		{"type":"text","text":"資本主義社會不僅僅是一種經濟系統，\n而是一種文化和意識形態系統，\n**使人成為單向度的人**，\n自願加入這台大機器\n","id":"3c7d66b539b2d5a7","x":260,"y":399,"width":380,"height":141},
 		{"type":"text","text":"單向度的人/人的異化:\n- 心智充斥工具理性和技術理性，計算利益得失\n- 只有在運用動物機能才覺得自己在自由活動","id":"f09ca7fb7b5df3cb","x":720,"y":267,"width":287,"height":173},
 		{"type":"text","text":"資本主義機器運作原理\n- 供應：加工資，使工人能買更多消費品\n- 需求：創造虛假需求","id":"731b417a3650cc2f","x":720,"y":480,"width":329,"height":160},
-		{"type":"text","text":"# 躺平派","id":"93e9fb24c1638ce6","x":-1040,"y":-104,"width":250,"height":50,"color":"1"},
 		{"type":"text","text":"榮耀的生活","id":"f1296190afdd60ab","x":440,"y":1102,"width":250,"height":60},
 		{"type":"text","text":"(Best)沉思的生活","id":"4585d5c86b80709b","x":440,"y":1202,"width":250,"height":60},
 		{"type":"text","text":"(Second)德性的生活","id":"ab431946929bc48e","x":780,"y":1162,"width":250,"height":60},
@@ -30,7 +29,17 @@
 		{"type":"text","text":"黑格爾：第一級自我確立：慾望","id":"9c996aefb1e8167b","x":780,"y":813,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"亞里士多德 並不反對享樂，勞逸結合是好的","id":"32dd2cef229b0cac","x":780,"y":933,"width":250,"height":60},
 		{"type":"text","text":"為領工資工作欠缺亞里士多德的 **自足性**","id":"a00355e9faa77c08","x":315,"y":187,"width":250,"height":80,"color":"2"},
-		{"type":"text","text":"黑格爾：第一級自我確立：慾望","id":"bedd9d8ed29a83aa","x":1049,"y":324,"width":250,"height":60,"color":"2"}
+		{"type":"text","text":"黑格爾：第一級自我確立：慾望","id":"bedd9d8ed29a83aa","x":1049,"y":324,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"# 躺平派","id":"93e9fb24c1638ce6","x":-1040,"y":-104,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"犬儒學派－低慾望生活","id":"04623eae20e6cb53","x":-1452,"y":-242,"width":250,"height":60},
+		{"type":"text","text":"自然：必要的需求","id":"96df57e3cea84406","x":-1779,"y":-302,"width":250,"height":60},
+		{"type":"text","text":"習俗：人為約定，習俗->不必要的需求","id":"8ab7d14dac1acd76","x":-1760,"y":-182,"width":231,"height":72},
+		{"id":"f17e48a1a412ef28","x":-2120,"y":-267,"width":250,"height":121,"type":"text","text":"一個明智的人，應該只去滿足自然的需求"},
+		{"id":"7658d20148f2a730","x":-2440,"y":-236,"width":250,"height":60,"type":"text","text":"獲得不被控制的自由自在的感覺"},
+		{"type":"text","text":"伊壁鳩魯－享樂主義","id":"16c971de5dbb96c9","x":-1452,"y":0,"width":250,"height":60},
+		{"type":"text","text":"斯多葛學派－內心平和，宿命論","id":"ed085612f5a80b7a","x":-1452,"y":160,"width":250,"height":60},
+		{"id":"a81533ee61a861f0","x":-1769,"y":-9,"width":250,"height":79,"type":"text","text":"原子論，唯物主義"},
+		{"id":"f137cc0bc0179694","x":-2060,"y":1,"width":250,"height":60,"type":"text","text":"克服對死亡的恐懼"}
 	],
 	"edges":[
 		{"id":"88a1ce68b87f8512","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"0569470ec17b31dc","toSide":"left"},
@@ -63,6 +72,15 @@
 		{"id":"9e3bc919c07d8120","fromNode":"9b965a6c64da130e","fromSide":"right","toNode":"9c996aefb1e8167b","toSide":"left"},
 		{"id":"bbd013f62cdba50e","fromNode":"9b965a6c64da130e","fromSide":"right","toNode":"32dd2cef229b0cac","toSide":"left"},
 		{"id":"2a44a2e47bce0209","fromNode":"26fc21db86730b0b","fromSide":"bottom","toNode":"a00355e9faa77c08","toSide":"left"},
-		{"id":"7a87be7fbe2cdaa8","fromNode":"f09ca7fb7b5df3cb","fromSide":"right","toNode":"bedd9d8ed29a83aa","toSide":"left"}
+		{"id":"7a87be7fbe2cdaa8","fromNode":"f09ca7fb7b5df3cb","fromSide":"right","toNode":"bedd9d8ed29a83aa","toSide":"left"},
+		{"id":"5785e445fff6bee7","fromNode":"93e9fb24c1638ce6","fromSide":"left","toNode":"04623eae20e6cb53","toSide":"right"},
+		{"id":"d6e877633b734ab6","fromNode":"93e9fb24c1638ce6","fromSide":"left","toNode":"16c971de5dbb96c9","toSide":"right"},
+		{"id":"2cf51d8018fadd87","fromNode":"93e9fb24c1638ce6","fromSide":"left","toNode":"ed085612f5a80b7a","toSide":"right"},
+		{"id":"bc0c257148c3c303","fromNode":"04623eae20e6cb53","fromSide":"left","toNode":"96df57e3cea84406","toSide":"right"},
+		{"id":"bab55d1ea730544b","fromNode":"04623eae20e6cb53","fromSide":"left","toNode":"8ab7d14dac1acd76","toSide":"right"},
+		{"id":"2a4e38466e2bcc2e","fromNode":"96df57e3cea84406","fromSide":"left","toNode":"f17e48a1a412ef28","toSide":"right"},
+		{"id":"1ffbc9dc1dfc7789","fromNode":"f17e48a1a412ef28","fromSide":"left","toNode":"7658d20148f2a730","toSide":"right"},
+		{"id":"40a9aeb5713e36b5","fromNode":"16c971de5dbb96c9","fromSide":"left","toNode":"a81533ee61a861f0","toSide":"right"},
+		{"id":"f981704c90f44bc5","fromNode":"a81533ee61a861f0","fromSide":"left","toNode":"f137cc0bc0179694","toSide":"right"}
 	]
 }
