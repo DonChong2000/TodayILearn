@@ -39,7 +39,9 @@
 		{"type":"text","text":"伊壁鳩魯－享樂主義","id":"16c971de5dbb96c9","x":-1452,"y":0,"width":250,"height":60},
 		{"type":"text","text":"斯多葛學派－內心平和，宿命論","id":"ed085612f5a80b7a","x":-1452,"y":160,"width":250,"height":60},
 		{"id":"a81533ee61a861f0","x":-1769,"y":-9,"width":250,"height":79,"type":"text","text":"原子論，唯物主義"},
-		{"id":"f137cc0bc0179694","x":-2060,"y":1,"width":250,"height":60,"type":"text","text":"克服對死亡的恐懼"}
+		{"id":"f137cc0bc0179694","x":-2080,"y":-19,"width":250,"height":99,"type":"text","text":"克服對死亡的恐懼\n當沒有了對死亡的恐懼，要做的就是及時行樂"},
+		{"id":"4d18c35e3acb7da3","x":-2380,"y":1,"width":250,"height":60,"type":"text","text":"快樂的定義是身體的無痛苦和靈魂的不受干擾"},
+		{"id":"6af8782a33322b7b","x":-1760,"y":160,"width":250,"height":60,"type":"text","text":"泛神論->宿命論->一切都是必然，隨遇而安。"}
 	],
 	"edges":[
 		{"id":"88a1ce68b87f8512","fromNode":"409fe76893cb7c60","fromSide":"right","toNode":"0569470ec17b31dc","toSide":"left"},
@@ -81,6 +83,8 @@
 		{"id":"2a4e38466e2bcc2e","fromNode":"96df57e3cea84406","fromSide":"left","toNode":"f17e48a1a412ef28","toSide":"right"},
 		{"id":"1ffbc9dc1dfc7789","fromNode":"f17e48a1a412ef28","fromSide":"left","toNode":"7658d20148f2a730","toSide":"right"},
 		{"id":"40a9aeb5713e36b5","fromNode":"16c971de5dbb96c9","fromSide":"left","toNode":"a81533ee61a861f0","toSide":"right"},
-		{"id":"f981704c90f44bc5","fromNode":"a81533ee61a861f0","fromSide":"left","toNode":"f137cc0bc0179694","toSide":"right"}
+		{"id":"f981704c90f44bc5","fromNode":"a81533ee61a861f0","fromSide":"left","toNode":"f137cc0bc0179694","toSide":"right"},
+		{"id":"bd8c0e2d62271b12","fromNode":"f137cc0bc0179694","fromSide":"left","toNode":"4d18c35e3acb7da3","toSide":"right"},
+		{"id":"a4abf595eaa3f4b2","fromNode":"ed085612f5a80b7a","fromSide":"left","toNode":"6af8782a33322b7b","toSide":"right"}
 	]
 }
