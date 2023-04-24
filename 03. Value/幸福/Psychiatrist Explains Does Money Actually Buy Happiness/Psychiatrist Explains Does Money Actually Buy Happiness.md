@@ -23,6 +23,15 @@ Do monks have security? They don't have to worry about living, food, or promotio
 
 # Learn how to savor
 
+**Savoring is the ability to enhance or extend a positive emotional experience**
+
+The more you are able to savor things the more happy you are.
+
+**Money can negatively impact savoring.**
+If I give someone to eat a chocolate, it bring you a lot of happiness.
+If you tell people how much it cost, especially people ha
+
+
 # Prioritize experience over possessions
 
 # Spend your money on other people
