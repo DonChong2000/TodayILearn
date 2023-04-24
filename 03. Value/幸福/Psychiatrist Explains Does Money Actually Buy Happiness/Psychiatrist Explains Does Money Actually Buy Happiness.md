@@ -12,10 +12,15 @@ Cortisol(皮質醇): Make us more sensitive to stimuli. We get worse sleep, sens
 
 In modern age, cortisol is like constantly flowing thrught our system, since we are in constant stress state. 
 
+100K is you security, you know can get things going even if bad things happen in life.
+
+`I do have first person experience on this, When I was living in Canada, my bike broke, and I have to pay my rent. Lot of bad things going on in that week, and my own saving are all used up, and at that time I realize the money from my mother is really supporting me, and I feel the sense of security. `
 
 
 
-# Prioritizing yoru security
+
+
+# Prioritizing you security
 
 
 # Learn how to savor
