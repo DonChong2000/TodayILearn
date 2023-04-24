@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2e7b773a4e7190b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+                "file": "Generic skills/Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+                "file": "Generic skills/Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md"
+                "file": "Generic skills/Thinking.md"
               }
             }
           },
@@ -187,10 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04e4a9cb4db955b",
+  "active": "b2e7b773a4e7190b",
   "lastOpenFiles": [
-    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+    "Generic skills/Thinking.md",
+    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
