@@ -1,15 +1,12 @@
 # Summery
 
-The choice is not what brings the happiness, is the way we experience the choice that brings happiness. It is not about picking the correct path, 
+The choice is not what brings the happiness, is the way we experience the choice that brings happiness. It is not about picking the correct path, but how you live your life with the choice, and how you savour whatever comes after the choice, that ultimately bring you the happiness
 
 What should you do to gain more happiness?
 1. [Prioritizing yoru security](#Prioritizing%20yoru%20security)
 2. [Learn how to savor](#Learn%20how%20to%20savor)
 3. [Prioritize experience over possessions](#Prioritize%20experience%20over%20possessions)
 4. [Spend your money on other people](#Spend%20your%20money%20on%20other%20people)
-
-
-
 
 # Prioritizing you security
 **Stress**
