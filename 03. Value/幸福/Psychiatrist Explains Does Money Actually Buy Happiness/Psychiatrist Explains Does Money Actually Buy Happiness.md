@@ -8,7 +8,9 @@ What should you do to gain more happiness?
 **Stress**
 When we are stress, our brain release chemicals like adrenaline and cortisol.
 
-Cortisol(皮質醇): Make us more sensitive to stimuli. We get worse sleep, sensitivity of pain recepter is increase, emotion and physical injury will hurt more, immute system will more active, five sense will hyper sensite. 
+Cortisol(皮質醇): Make us more sensitive to stimuli. We get worse sleep, sensitivity of pain recepter is increase, emotion and physical injury will hurt more, immute system will more active, five sense will hyper sensite. This is a mechanism of humans to escape from danger. sacrifice long-term health for short-term benefit.
+
+In modern age, cortisol is like constantly flowing thrught our system, since we are in constant stress state. 
 
 
 
