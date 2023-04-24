@@ -5,6 +5,11 @@ What should you do to gain more happiness?
 3. [Prioritize experience over possessions](#Prioritize%20experience%20over%20possessions)
 4. [Spend your money on other people](#Spend%20your%20money%20on%20other%20people)
 
+When we are stress, our brain release chemicals like adrenaline and cortisol.
+
+Cortisol: Make us more sensit
+
+
 # Prioritizing yoru security
 
 
