@@ -23,31 +23,17 @@
             }
           },
           {
-            "id": "a04e4a9cb4db955b",
+            "id": "7d37b1b53d3da9ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2e7b773a4e7190b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic skills/Thinking.md",
-                "mode": "source",
-                "source": false
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Thinking.md",
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Thinking.md",
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Thinking.md"
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf"
               }
             }
           },
@@ -199,14 +186,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2e7b773a4e7190b",
+  "active": "7d37b1b53d3da9ea",
   "lastOpenFiles": [
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+    "Learn how to savor.md",
+    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "Generic skills/Thinking.md",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "03. Value/幸福/Untitled/Untitled",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？",
     "03. Value/幸福",
@@ -241,8 +229,6 @@
     "Generic skills/Problem solving SOP.md",
     "Generic skills/Planning.md",
     "Generic skills/Innovating.md",
-    "Generic skills/Communication.md",
-    "01.Productivity/Physiologic/Diet/Superfood.md",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
