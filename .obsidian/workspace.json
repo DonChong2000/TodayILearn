@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/1. History of Meditation - What meditation work well for you.md",
+                "file": "HG-Meditation/What is Meditation.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/0. Meditation Module Overview.md",
+                "file": "HG-Meditation/What is Meditation.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/0. Meditation Module Overview.md",
+                "file": "HG-Meditation/What is Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/0. Meditation Module Overview.md",
+                "file": "HG-Meditation/What is Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/0. Meditation Module Overview.md"
+                "file": "HG-Meditation/What is Meditation.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3959a27f80108bb5",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "HG-Meditation/1. History of Meditation - What meditation work well for you.md",
     "HG-Meditation/0. Meditation Module Overview.md",
+    "HG-Meditation/What is Meditation.md",
     "Living Skills/Cook/Pancake [conflicted].md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "Todo.md",
