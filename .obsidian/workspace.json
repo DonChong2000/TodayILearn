@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/What is Meditation.md",
+                "file": "HG-Meditation/1. What is Meditation.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/What is Meditation.md",
+                "file": "HG-Meditation/1. What is Meditation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d00811ea9eac033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HG-Meditation/2. History of Meditation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/What is Meditation.md",
+                "file": "HG-Meditation/2. History of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/What is Meditation.md",
+                "file": "HG-Meditation/2. History of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/What is Meditation.md"
+                "file": "HG-Meditation/2. History of Meditation.md"
               }
             }
           },
@@ -197,10 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "6d00811ea9eac033",
   "lastOpenFiles": [
+    "HG-Meditation/1. What is Meditation.md",
+    "HG-Meditation/2. History of Meditation.md",
     "HG-Meditation/0. Meditation Module Overview.md",
-    "HG-Meditation/What is Meditation.md",
     "Living Skills/Cook/Pancake [conflicted].md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "Todo.md",
@@ -240,7 +253,6 @@
     "Generic skills/Teamwork.md",
     "Generic skills/Stress managing.md",
     "Generic skills/Research.md",
-    "Generic skills/Problem solving SOP.md",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
