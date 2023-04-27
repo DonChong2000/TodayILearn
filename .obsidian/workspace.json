@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d874ec5c6f3bfe71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z.Template/Ask ChatGPT.md",
+                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z.Template/Ask ChatGPT.md",
+                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z.Template/Ask ChatGPT.md"
+                "file": "01.Productivity/Physiologic/Diet/Superfood.md"
               }
             }
           },
@@ -220,10 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ee055ad2da77cfb",
+  "active": "d874ec5c6f3bfe71",
   "lastOpenFiles": [
-    "HG-Meditation/2. History of Meditation.md",
     "z.Template/Ask ChatGPT.md",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+    "z.Template/Ask Bing.md",
+    "HG-Meditation/2. History of Meditation.md",
     "z.Template",
     "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/0. Meditation Module Overview.md",
@@ -239,7 +255,6 @@
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Financial Scarcity Is Related to Higher Levels of Distress Intensity in Daily Life.pdf",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "Learn how to savor.md",
     "Generic skills/Thinking.md",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness",
@@ -262,8 +277,6 @@
     "z.Images/Pasted image 20230414140711.png",
     "z.Images/Pasted image 20230414140532.png",
     "Generic skills/Time Management.md",
-    "Generic skills/Teamwork.md",
-    "Generic skills/Stress managing.md",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",
