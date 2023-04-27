@@ -1,7 +1,7 @@
 
 Prompt: Give me 10 superfood, and state thier nutrients
-
 Here is what ChatGPT saids:
+
 ---
 Sure, here are 10 examples of superfoods and the nutrients they contain:
 
@@ -24,3 +24,4 @@ Sure, here are 10 examples of superfoods and the nutrients they contain:
 9.  Broccoli - Broccoli is a cruciferous vegetable that is high in vitamins and minerals such as vitamin C, vitamin K, folate, and potassium. It also contains antioxidants such as sulforaphane and kaempferol.
     
 10.  Sweet potatoes - Sweet potatoes are a root vegetable that is high in beta-carotene, which is converted to vitamin A in the body. They are also a good source of fiber, potassium, and vitamin C.
+---

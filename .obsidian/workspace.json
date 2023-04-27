@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "file": "z.Template/Ask ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "file": "z.Template/Ask ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md",
+                "file": "z.Template/Ask ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/Diet/Superfood.md"
+                "file": "z.Template/Ask ChatGPT.md"
               }
             }
           },
@@ -232,12 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "d874ec5c6f3bfe71",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/Diet/Superfood.md",
     "z.Template/Ask ChatGPT.md",
+    "z.Template/Ask Bing.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
-    "z.Template/Ask Bing.md",
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "HG-Meditation/2. History of Meditation.md",
     "z.Template",
     "HG-Meditation/1. What is Meditation.md",
@@ -272,10 +275,8 @@
     "z.Images/Pasted image 20230417152021.png",
     "Generic skills/Decidion making.md",
     "Living Skills/High quality IG upload.md",
-    "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
     "z.Images/Pasted image 20230414140711.png",
     "z.Images/Pasted image 20230414140532.png",
-    "Generic skills/Time Management.md",
     "z.Images/Pasted image 20230411134558.png",
     "z.Images/Pasted image 20230411133709.png",
     "z.Images/Pasted image 20230411124459.png",

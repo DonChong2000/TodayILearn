@@ -1,3 +1,8 @@
-Here is what Bing Chat saids:
+
 Prompt: 
->
+Here is what Bing Chat saids:
+
+---
+
+
+---
