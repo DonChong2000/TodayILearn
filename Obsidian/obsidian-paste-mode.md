@@ -9,4 +9,4 @@ e.g Paste in text (Blockquote) mode
 > The bandits fought hard, but Sir Cedric was too skilled for them. He dispatched them one by one until only their leader remained. The leader was a tall, imposing man with a scar across his face.
 
 I have set a short cut "Ctrl+alt+V" for this mode.
-Which stand or alternative paste. So that I can sw
+Which stand or alternative paste. So that I can switch between two easily.

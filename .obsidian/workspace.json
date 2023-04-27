@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/obsidian-paste-mode.md",
+                "file": "HG-Meditation/2. History of Meditation.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/obsidian-paste-mode.md",
+                "file": "HG-Meditation/2. History of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/obsidian-paste-mode.md",
+                "file": "HG-Meditation/2. History of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/obsidian-paste-mode.md"
+                "file": "HG-Meditation/2. History of Meditation.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "9c47b7bfb0a639c2",
   "lastOpenFiles": [
-    "Obsidian/Obsidian Git.md",
     "Obsidian/obsidian-paste-mode.md",
+    "Obsidian/Obsidian Git.md",
     "mottos to life.md",
     "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/2. History of Meditation.md",
