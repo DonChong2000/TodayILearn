@@ -1,6 +1,6 @@
 {
   "blockquotePrefix": "> ",
-  "mode": "Markdown",
+  "mode": "Text",
   "saveBase64EncodedFiles": false,
   "saveFilesLocation": "Attachments",
   "saveFilesOverrideLocations": [],
