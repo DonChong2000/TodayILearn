@@ -1,9 +1,8 @@
 
+Prompt: Give me 10 superfood, and state thier nutrients
 
-ChatGPT:
-
-Give me 10 superfood, and state thier nutrients
-
+Here is what ChatGPT saids:
+---
 Sure, here are 10 examples of superfoods and the nutrients they contain:
 
 1.  Blueberries - Blueberries are high in antioxidants such as anthocyanins and flavonoids, which can help protect against cellular damage and inflammation. They are also a good source of vitamin C, vitamin K, and fiber.
