@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HG-Meditation/4. Science of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HG-Meditation/4. Science of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HG-Meditation/4. Science of Meditation.md"
+              }
             }
           },
           {
@@ -202,10 +206,10 @@
       }
     ]
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "7d5352b10cac136e",
   "lastOpenFiles": [
-    "HG-Meditation/4. Science of Meditation.md",
     "conflict-files-obsidian-git.md",
+    "HG-Meditation/4. Science of Meditation.md",
     "HG-Meditation/3. Different Meditative Styles.md",
     "HG-Meditation/1. What is Meditation.md",
     "z.Images/Pasted image 20230428163929.png",
