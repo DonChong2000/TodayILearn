@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -110,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HG-Meditation/3. Different Meditative Styles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HG-Meditation/3. Different Meditative Styles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HG-Meditation/3. Different Meditative Styles.md"
+              }
             }
           },
           {
@@ -177,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "757ee80f78cbeea8",
   "lastOpenFiles": [
-    "HG-Meditation/3. Different Meditative Styles.md",
     "conflict-files-obsidian-git.md",
+    "HG-Meditation/3. Different Meditative Styles.md",
     "z.Images/Pasted image 20230428163929.png",
     "HG-Meditation/0. Meditation Module Overview.md",
     "z.Image/Pasted image 20230428163858.png",

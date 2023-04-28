@@ -8,4 +8,3 @@ List out 25 things I want to note, and pick 5 things I want to note. Before fini
 2. Programming
 3. English
 4. Living skills (Cooking)
-
