@@ -1,14 +1,27 @@
 {
 	"nodes":[
-		{"type":"text","text":"03.Value","id":"6b14097d82c83942","x":0,"y":-392,"width":250,"height":60},
-		{"type":"text","text":"02.Programming","id":"8bc68b3d22b31e82","x":-320,"y":-452,"width":250,"height":60},
-		{"id":"bb1ea6feb3de571d","x":-374,"y":-291,"width":250,"height":60,"type":"text","text":"Generic skills"},
-		{"id":"d7e3e81602d62642","x":-396,"y":-215,"width":250,"height":60,"type":"text","text":"HG-Meditation"},
-		{"id":"e3de365e6dff9d71","x":-148,"y":-235,"width":250,"height":60,"type":"text","text":"Living Skills"},
-		{"id":"510eedb10658bfb2","x":-245,"y":-129,"width":250,"height":60,"type":"text","text":"Obsidian"},
-		{"type":"text","text":"01.Productivity","id":"60a36ab1c8124ab1","x":-780,"y":-452,"width":250,"height":60},
-		{"id":"be87c5de6f2d78b0","x":-279,"y":120,"width":256,"height":60,"type":"text","text":"# TodayILearn"},
-		{"id":"6dc8d6aa0b84c5c0","x":-780,"y":-99,"width":250,"height":60,"type":"text","text":"Photography"}
+		{"type":"text","text":"01.Productivity","id":"60a36ab1c8124ab1","x":-1080,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"02.Programming","id":"8bc68b3d22b31e82","x":-749,"y":-40,"width":250,"height":55},
+		{"type":"text","text":"03.Value","id":"6b14097d82c83942","x":-404,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"HG-Meditation","id":"d7e3e81602d62642","x":-80,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"Generic skills","id":"bb1ea6feb3de571d","x":230,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"Obsidian","id":"510eedb10658bfb2","x":-749,"y":-240,"width":250,"height":50},
+		{"type":"text","text":"Photography","id":"6dc8d6aa0b84c5c0","x":840,"y":-35,"width":250,"height":50},
+		{"type":"text","text":"# TodayILearn","id":"be87c5de6f2d78b0","x":-240,"y":280,"width":256,"height":60},
+		{"type":"text","text":"Living Skills","id":"e3de365e6dff9d71","x":540,"y":-40,"width":250,"height":60},
+		{"id":"0f8a8914ae8bdcc8","x":665,"y":-280,"width":250,"height":60,"type":"text","text":"Cooking"},
+		{"id":"672f84db62d85c23","x":480,"y":-200,"width":250,"height":60,"type":"text","text":"Investment"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"12f315ae9628381f","fromNode":"8bc68b3d22b31e82","fromSide":"top","toNode":"510eedb10658bfb2","toSide":"bottom"},
+		{"id":"523f82eff62b7594","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"60a36ab1c8124ab1","toSide":"bottom"},
+		{"id":"4150d04638b1766f","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"8bc68b3d22b31e82","toSide":"bottom"},
+		{"id":"675609b60a8ada64","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"6b14097d82c83942","toSide":"bottom"},
+		{"id":"b6285d9504481782","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"d7e3e81602d62642","toSide":"bottom"},
+		{"id":"cedecd2c26b448fd","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"bb1ea6feb3de571d","toSide":"bottom"},
+		{"id":"a1ea26bcb195e32b","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"e3de365e6dff9d71","toSide":"bottom"},
+		{"id":"3a773ae74b046dc4","fromNode":"be87c5de6f2d78b0","fromSide":"top","toNode":"6dc8d6aa0b84c5c0","toSide":"bottom"},
+		{"id":"8848aba2ccd41c8a","fromNode":"e3de365e6dff9d71","fromSide":"top","toNode":"672f84db62d85c23","toSide":"bottom"},
+		{"id":"ffb1f7ac4022c4a1","fromNode":"e3de365e6dff9d71","fromSide":"top","toNode":"0f8a8914ae8bdcc8","toSide":"bottom"}
+	]
 }
