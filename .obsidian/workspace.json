@@ -81,14 +81,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
+                "file": "Living Skills/Cooking/Carbonara.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb73c290c5460944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Living Skills/Cooking/Carbonara.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
+                "file": "Living Skills/Cooking/Carbonara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
+                "file": "Living Skills/Cooking/Carbonara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md"
+                "file": "Living Skills/Cooking/Carbonara.md"
               }
             }
           },
@@ -225,14 +238,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071298f482681d3a",
+  "active": "eb73c290c5460944",
   "lastOpenFiles": [
-    "Living Skills/Cooking/Theory/Untitled.md",
+    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
+    "Living Skills/Cooking/Carbonara.md",
+    "HG-Meditation/1. What is Meditation.md",
+    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
+    "HG-Meditation/0. Meditation Module Overview.md",
     "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
+    "Living Skills/Cooking/Untitled.md",
+    "Living Skills/Cooking/Theory/Untitled.md",
     "Living Skills/Cooking/Theory/Choosing Ingredients",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/Untitled 1",
-    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
     "Living Skills/Cooking/Theory/interested.md",
     "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
     "Living Skills/Cooking/醬油蛋酥炒飯.md",
@@ -264,12 +282,7 @@
     "Generic skills/Multitasking.md",
     "Generic skills/Innovating.md",
     "Generic skills/Decidion making.md",
-    "Generic skills/Communication.md",
-    "Photography/How to use My Camera setup.md",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
-    "01.Productivity.md",
     "Untitled 1",
-    "Untitled",
     "z.Images/Pasted image 20230428163929.png",
     "z.Images/Pasted image 20230428165836.png",
     "z.Image/Pasted image 20230428163858.png",
