@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb92e829e5686287",
+        "id": "269bd1ea0b912815",
         "type": "tabs",
         "children": [
           {
-            "id": "187394b76e05d671",
+            "id": "37de82dacadf0e1b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "187394b76e05d671",
+  "active": "37de82dacadf0e1b",
   "lastOpenFiles": [
     "2023-04-29.md",
     "Untitled 4.canvas",
