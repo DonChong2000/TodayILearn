@@ -1,4 +1,4 @@
 
-Ask chatGPT to summerize: > [What is...wok hei? (michelin.com)](https://guide.michelin.com/hk/en/article/dining-out/what-is-wok-hei)
+Ask chatGPT to summerize: 
 
 Here is what ChatGPT saids:
