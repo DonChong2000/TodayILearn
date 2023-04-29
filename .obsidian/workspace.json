@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -207,8 +206,10 @@
       }
     ]
   },
-  "active": "7d5352b10cac136e",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "HG-Meditation/paper/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
+    "HG-Meditation/paper",
     "HG-Meditation/3. Different Meditative Styles.md",
     "HG-Meditation/2. History of Meditation.md",
     "HG-Meditation/1. What is Meditation.md",
@@ -251,7 +252,6 @@
     "Generic skills/Thinking.md",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness",
     "03. Value/幸福/Untitled/Untitled",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？",
     "z.Images/Pasted image 20230423145001.png",
     "z.Images/Pasted image 20230417152259.png",
     "z.Images/Pasted image 20230417152021.png"
