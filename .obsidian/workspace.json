@@ -21,8 +21,33 @@
                 }
               }
             }
+          },
+          {
+            "id": "25e7faff16801c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Living Skills/Cooking/Theory/Wok Hei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a306c58013f87c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z.Template/Ask ChatGPT to summerize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TodayILearn.canvas",
+                "file": "z.Template/Ask ChatGPT to summerize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TodayILearn.canvas",
+                "file": "z.Template/Ask ChatGPT to summerize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TodayILearn.canvas"
+                "file": "z.Template/Ask ChatGPT to summerize.md"
               }
             }
           },
@@ -159,8 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "7a306c58013f87c2",
   "lastOpenFiles": [
+    "Living Skills/Cooking/Theory/Wok Hei.md",
+    "z.Template/Ask ChatGPT to summerize.md",
+    "TodayILearn.canvas",
+    "Living Skills/Cooking/Theory",
     "02.Programming/Untitled.md",
     "02.Programming/Methadology",
     "02.Programming/Algorithm",
@@ -175,7 +204,6 @@
     "Generic skills/Innovating.md",
     "Generic skills/Decidion making.md",
     "Generic skills/Communication.md",
-    "TodayILearn.canvas",
     "Photography/How to use My Camera setup.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "01.Productivity.md",
@@ -189,7 +217,6 @@
     "HG-Meditation/paper/4. Science of Meditation/Mindfulness meditation training for attention-deficit or hyperactivity disorder in adulthood.pdf",
     "HG-Meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf",
     "HG-Meditation/4. Science of Meditation.md",
-    "HG-Meditation/paper/4. Science of Meditation/Meditation experience is associated with increased cortical thickness.pdf",
     "HG-Meditation/2. History of Meditation.md",
     "HG-Meditation/1. What is Meditation.md",
     "conflict-files-obsidian-git.md",
@@ -201,7 +228,6 @@
     "Attachments/Pasted image 20230428163732.png",
     "Attachments/Pasted image 20230428163729.png",
     "Question to answer.md",
-    "02.Programming/Things used by the industry/Index.md",
     "Attachments/Pasted image 20230428163623.png",
     "Attachments/Pasted image 20230428163419.png",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
