@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -209,14 +208,15 @@
   },
   "active": "7d5352b10cac136e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "HG-Meditation/4. Science of Meditation.md",
     "HG-Meditation/3. Different Meditative Styles.md",
-    "HG-Meditation/1. What is Meditation.md",
-    "z.Images/Pasted image 20230428163929.png",
     "HG-Meditation/2. History of Meditation.md",
-    "z.Images/Pasted image 20230428165836.png",
+    "HG-Meditation/1. What is Meditation.md",
+    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "HG-Meditation/0. Meditation Module Overview.md",
+    "HG-Meditation/4. Science of Meditation.md",
+    "conflict-files-obsidian-git.md",
+    "z.Images/Pasted image 20230428163929.png",
+    "z.Images/Pasted image 20230428165836.png",
     "z.Image/Pasted image 20230428163858.png",
     "z.Image",
     "Todo.md",
@@ -227,7 +227,6 @@
     "Question to answer.md",
     "02.Programming/Things used by the industry/Index.md",
     "z.Template/Ask Bing.md",
-    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "Attachments/Pasted image 20230428163623.png",
     "Attachments/Pasted image 20230428163419.png",
     "Obsidian/Obsidian Git.md",
@@ -252,7 +251,6 @@
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness",
     "03. Value/幸福/Untitled/Untitled",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？",
-    "01.Productivity/About Productivity.md",
     "z.Images/Pasted image 20230423145001.png",
     "z.Images/Pasted image 20230417152259.png",
     "z.Images/Pasted image 20230417152021.png"
