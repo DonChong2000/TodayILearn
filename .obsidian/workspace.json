@@ -26,9 +26,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2246a888cea60145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87414290fecdc799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f782811d431d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19f183edd7565b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/醬油蛋酥炒飯.md",
+                "file": "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/醬油蛋酥炒飯.md",
+                "file": "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/醬油蛋酥炒飯.md"
+                "file": "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md"
               }
             }
           },
@@ -165,10 +213,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2fab25263a046e7",
+  "active": "a19f183edd7565b0",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20230429150437.png",
+    "Living Skills/Cooking/Theory/interested.md",
+    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
+    "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
+    "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/醬油蛋酥炒飯.md",
+    "Living Skills/Cooking/Theory/Maillard reaction",
+    "z.Images/Pasted image 20230429150437.png",
     "Living Skills/Cooking/Untitled",
     "2023-04-29.md",
     "Untitled 4.canvas",
@@ -205,10 +258,6 @@
     "HG-Meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
     "HG-Meditation/0. Meditation Module Overview.md",
     "HG-Meditation/3. Different Meditative Styles.md",
-    "HG-Meditation/paper/4. Science of Meditation/Mindfulness meditation training for attention-deficit or hyperactivity disorder in adulthood.pdf",
-    "HG-Meditation/4. Science of Meditation.md",
-    "HG-Meditation/2. History of Meditation.md",
-    "HG-Meditation/1. What is Meditation.md",
     "z.Images/Pasted image 20230428163929.png",
     "z.Images/Pasted image 20230428165836.png",
     "z.Image/Pasted image 20230428163858.png",
@@ -218,7 +267,6 @@
     "Attachments/Pasted image 20230428163419.png",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
     "z.Images/Pasted image 20230423145001.png",
-    "z.Images/Pasted image 20230417152259.png",
-    "z.Images/Pasted image 20230417152021.png"
+    "z.Images/Pasted image 20230417152259.png"
   ]
 }
