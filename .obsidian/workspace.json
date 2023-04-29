@@ -11,9 +11,11 @@
             "id": "59e9233940fd3129",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf"
+                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
+                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
+                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf"
+                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md"
               }
             }
           },
@@ -156,8 +158,8 @@
   },
   "active": "59e9233940fd3129",
   "lastOpenFiles": [
-    "HG-Meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
     "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
+    "HG-Meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
     "HG-Meditation/0. Meditation Module Overview.md",
     "HG-Meditation/3. Different Meditative Styles.md",
     "HG-Meditation/paper/4. Science of Meditation/Mindfulness meditation training for attention-deficit or hyperactivity disorder in adulthood.pdf",
