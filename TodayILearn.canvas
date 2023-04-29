@@ -1,6 +1,14 @@
 {
 	"nodes":[
-		{"id":"62e48985bb08657c","x":-458,"y":-286,"width":250,"height":60,"type":"text","text":"01.Productivity\n"}
+		{"type":"text","text":"03.Value","id":"6b14097d82c83942","x":0,"y":-392,"width":250,"height":60},
+		{"type":"text","text":"02.Programming","id":"8bc68b3d22b31e82","x":-320,"y":-452,"width":250,"height":60},
+		{"id":"bb1ea6feb3de571d","x":-374,"y":-291,"width":250,"height":60,"type":"text","text":"Generic skills"},
+		{"id":"d7e3e81602d62642","x":-396,"y":-215,"width":250,"height":60,"type":"text","text":"HG-Meditation"},
+		{"id":"e3de365e6dff9d71","x":-148,"y":-235,"width":250,"height":60,"type":"text","text":"Living Skills"},
+		{"id":"510eedb10658bfb2","x":-245,"y":-129,"width":250,"height":60,"type":"text","text":"Obsidian"},
+		{"type":"text","text":"01.Productivity","id":"60a36ab1c8124ab1","x":-780,"y":-452,"width":250,"height":60},
+		{"id":"be87c5de6f2d78b0","x":-279,"y":120,"width":256,"height":60,"type":"text","text":"# TodayILearn"},
+		{"id":"6dc8d6aa0b84c5c0","x":-780,"y":-99,"width":250,"height":60,"type":"text","text":"Photography"}
 	],
 	"edges":[]
 }
