@@ -23,11 +23,9 @@
             "id": "7d5352b10cac136e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HG-Meditation/4. Science of Meditation.md",
-                "mode": "source",
-                "source": false
+                "file": "HG-Meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/4. Science of Meditation.md",
+                "file": "HG-Meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/4. Science of Meditation.md",
+                "file": "HG-Meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/4. Science of Meditation.md"
+                "file": "HG-Meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf"
               }
             }
           },
@@ -206,16 +204,22 @@
       }
     ]
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "7d5352b10cac136e",
   "lastOpenFiles": [
-    "HG-Meditation/paper/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
+    "HG-Meditation/4. Science of Meditation.md",
+    "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
+    "HG-Meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf",
+    "HG-Meditation/paper/4. Science of Meditation/Mindfulness meditation training for attention-deficit or hyperactivity disorder in adulthood.pdf",
+    "HG-Meditation/paper/4. Science of Meditation/Meditation experience is associated with increased cortical thickness.pdf",
+    "HG-Meditation/paper/04/Untitled",
+    "HG-Meditation/paper/4. Science of Meditation",
+    "HG-Meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
     "HG-Meditation/paper",
     "HG-Meditation/3. Different Meditative Styles.md",
     "HG-Meditation/2. History of Meditation.md",
     "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "HG-Meditation/0. Meditation Module Overview.md",
-    "HG-Meditation/4. Science of Meditation.md",
     "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230428163929.png",
     "z.Images/Pasted image 20230428165836.png",
@@ -223,7 +227,6 @@
     "z.Image",
     "Todo.md",
     "Attachments/Pasted image 20230428163732.png.md",
-    "Attachments",
     "Attachments/Pasted image 20230428163732.png",
     "Attachments/Pasted image 20230428163729.png",
     "Question to answer.md",
@@ -239,19 +242,13 @@
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "z.Template",
     "Living Skills/Cook/Pancake [conflicted].md",
-    "HG-Meditation",
     "Untitled.md",
     "Untitled 1.md",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
-    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Income and emotional well-being A conflict resolved.pdf",
-    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Financial Scarcity Is Related to Higher Levels of Distress Intensity in Daily Life.pdf",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
     "Learn how to savor.md",
     "Generic skills/Thinking.md",
-    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness",
-    "03. Value/幸福/Untitled/Untitled",
     "z.Images/Pasted image 20230423145001.png",
     "z.Images/Pasted image 20230417152259.png",
     "z.Images/Pasted image 20230417152021.png"
