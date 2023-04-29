@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b971fd74eef9a38",
+        "id": "65887710d7131c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f21c3ad763f56fb",
+            "id": "854aae21e96db6af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f21c3ad763f56fb",
+  "active": "854aae21e96db6af",
   "lastOpenFiles": [
     "HG-meditation/4. Science of Meditation.md",
     "z.Images/Pasted image 20230428165836.png",
