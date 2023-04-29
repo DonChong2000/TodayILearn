@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a6218515ff0ea07",
+        "id": "eb92e829e5686287",
         "type": "tabs",
         "children": [
           {
-            "id": "59e9233940fd3129",
+            "id": "187394b76e05d671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
-                "mode": "source",
-                "source": false
+                "file": "TodayILearn.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+                "file": "TodayILearn.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+                "file": "TodayILearn.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md"
+                "file": "TodayILearn.canvas"
               }
             }
           },
@@ -156,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59e9233940fd3129",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "TodayILearn.canvas",
+    "Untitled 1",
+    "Untitled",
+    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "HG-Meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
     "HG-Meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
     "HG-Meditation/0. Meditation Module Overview.md",
@@ -171,12 +178,10 @@
     "HG-Meditation/paper",
     "HG-Meditation/2. History of Meditation.md",
     "HG-Meditation/1. What is Meditation.md",
-    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230428163929.png",
     "z.Images/Pasted image 20230428165836.png",
     "z.Image/Pasted image 20230428163858.png",
-    "z.Image",
     "Todo.md",
     "Attachments/Pasted image 20230428163732.png.md",
     "Attachments/Pasted image 20230428163732.png",
@@ -192,7 +197,6 @@
     "z.Template/Ask ChatGPT.md",
     "01.Productivity/Physiologic/Diet/Superfood.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Living Skills/Cook/Pancake [conflicted].md",
     "Untitled.md",
