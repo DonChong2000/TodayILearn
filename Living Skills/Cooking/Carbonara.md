@@ -25,6 +25,5 @@ Modern Carbonara shopping list:
 6. If it is not thick enough, add more cheese
 7. taste it and season it with salt and pepper.
 
-
-Related Recipe
+Related Theory:
 [乳化反應 - 義大利麵](Theory/乳化反應%20-%20義大利麵.md)
