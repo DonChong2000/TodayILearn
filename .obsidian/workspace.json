@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2fab25263a046e7",
+            "id": "1687c96c054860ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/醬油蛋酥炒飯.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2246a888cea60145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87414290fecdc799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38f782811d431d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a19f183edd7565b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4905f7f5a9d70c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -146,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "HG-Meditation/05. Metaphysics of Meditation.md"
               }
             }
           },
@@ -217,10 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4905f7f5a9d70c35",
+  "active": "1687c96c054860ff",
   "lastOpenFiles": [
-    "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "conflict-files-obsidian-git.md",
+    "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
+    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
+    "HG-Meditation/05. Metaphysics of Meditation.md",
+    "HG-Meditation/5. Metaphysics of Meditation",
     "Living Skills/Cooking/Pancake.md",
     "Living Skills/Cooking/Pancake [conflicted 2].md",
     "Living Skills/Cooking/Pancake [conflicted].md",
@@ -229,7 +172,6 @@
     "Living Skills/Cooking/麥皮.md",
     "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
     "Living Skills/Cooking/醬油蛋酥炒飯.md",
-    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
     "Living Skills/Cooking/Carbonara.md",
     "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
@@ -260,8 +202,6 @@
     "02.Programming/Algorithm",
     "Generic skills/Thinking.md",
     "02.Programming/OOP",
-    "Generic skills/Teamwork.md",
-    "Untitled 1",
     "z.Images/Pasted image 20230428163929.png",
     "z.Images/Pasted image 20230428165836.png",
     "z.Image/Pasted image 20230428163858.png",
