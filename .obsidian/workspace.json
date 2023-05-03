@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "269bd1ea0b912815",
+        "id": "65887710d7131c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "1687c96c054860ff",
+            "id": "854aae21e96db6af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccd9f1ebc73f3ea5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.7"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,13 +71,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e6d1a25d4a038f5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,69 +158,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "1687c96c054860ff",
+  "active": "ccd9f1ebc73f3ea5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
-    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
-    "HG-Meditation/05. Metaphysics of Meditation.md",
-    "HG-Meditation/5. Metaphysics of Meditation",
-    "Living Skills/Cooking/Pancake.md",
     "Living Skills/Cooking/Pancake [conflicted 2].md",
-    "Living Skills/Cooking/Pancake [conflicted].md",
-    "Living Skills/Cooking/DIY Sandwish price.md",
-    "Living Skills/Cooking/番茄炒蛋.md",
-    "Living Skills/Cooking/麥皮.md",
-    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
-    "Living Skills/Cooking/醬油蛋酥炒飯.md",
-    "Living Skills/Cooking/Carbonara.md",
-    "HG-Meditation/1. What is Meditation.md",
-    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
-    "HG-Meditation/0. Meditation Module Overview.md",
+    "HG-meditation/05. Metaphysics of Meditation.md",
+    "z.Template/Ask ChatGPT to summerize.md",
+    "z.Images/Pasted image 20230429150437.png",
+    "TodayILearn.canvas",
     "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
-    "Living Skills/Cooking/Untitled.md",
-    "Living Skills/Cooking/Theory/Untitled.md",
-    "Living Skills/Cooking/Theory/Choosing Ingredients",
-    "Living Skills/Cooking/Theory/Untitled 1",
     "Living Skills/Cooking/Theory/interested.md",
     "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
-    "Living Skills/Cooking/Theory/Maillard reaction",
-    "z.Images/Pasted image 20230429150437.png",
-    "Living Skills/Cooking/Untitled",
-    "2023-04-29.md",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "TodayILearn.canvas",
+    "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
+    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
     "Living Skills/Cooking/Theory/Wok Hei.md",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
-    "z.Template/Ask ChatGPT to summerize.md",
+    "Living Skills/Cooking/Theory/Choosing Ingredients",
+    "Living Skills/Cooking/麥皮.md",
+    "Living Skills/Cooking/醬油蛋酥炒飯.md",
+    "Living Skills/Cooking/番茄炒蛋.md",
+    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
     "Living Skills/Cooking/Theory",
-    "02.Programming/Untitled.md",
-    "02.Programming/Methadology",
-    "02.Programming/Algorithm",
-    "Generic skills/Thinking.md",
-    "02.Programming/OOP",
-    "z.Images/Pasted image 20230428163929.png",
+    "Living Skills/Cooking/Recipe Tech Tree.md",
+    "Living Skills/Cooking/Pancake [conflicted].md",
+    "Living Skills/Cooking/Pancake (conflict 2023-04-17-16-07-29).md",
+    "Living Skills/Cooking/DIY Sandwish price.md",
+    "Living Skills/Cooking/Carbonara.md",
+    "Living Skills/Cooking",
+    "HG-meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf",
+    "HG-meditation/paper/4. Science of Meditation/Mindfulness meditation training for attention-deficit or hyperactivity disorder in adulthood.pdf",
+    "HG-meditation/paper/4. Science of Meditation/Meditation experience is associated with increased cortical thickness.pdf",
+    "HG-meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
+    "HG-meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
+    "HG-meditation/paper/4. Science of Meditation",
+    "HG-meditation/paper",
+    "02.Programming/Obsidian/obsidian-paste-mode.md",
+    "02.Programming/Obsidian/Obsidian Git.md",
+    "HG-meditation/4. Science of Meditation.md",
     "z.Images/Pasted image 20230428165836.png",
-    "z.Image/Pasted image 20230428163858.png",
-    "Attachments/Pasted image 20230428163732.png",
-    "Attachments/Pasted image 20230428163729.png",
-    "Attachments/Pasted image 20230428163623.png",
-    "Attachments/Pasted image 20230428163419.png",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+    "z.Images/Pasted image 20230428163929.png",
+    "z.Template/Ask ChatGPT.md",
+    "z.Template/Ask Bing.md",
+    "Obsidian/obsidian-paste-mode.md",
+    "Living Skills/Cook/Pancake [conflicted].md",
+    "HG-meditation/3. Different Meditative Styles.md",
     "z.Images/Pasted image 20230423145001.png",
-    "z.Images/Pasted image 20230417152259.png"
+    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas",
+    "z.Images/Pasted image 20230417152259.png",
+    "z.Images/Pasted image 20230417152021.png",
+    "z.Images/Pasted image 20230414140711.png",
+    "z.Images/Pasted image 20230414140532.png",
+    "z.Images/Pasted image 20230411134558.png",
+    "z.Images/Pasted image 20230411133709.png"
   ]
 }
