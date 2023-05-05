@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9151963f81a651e5",
+        "id": "233933c7fccf6fed",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4588ce2721253b",
+            "id": "45211aa285b011a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "45211aa285b011a5",
   "lastOpenFiles": [
     "HG-Meditation/05. Metaphysics of Meditation.md",
     "conflict-files-obsidian-git.md",
