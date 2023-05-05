@@ -1,4 +1,4 @@
-# Karma Fal
+# 1. Karma Fal
 
 Karma: Action
 Fal: Fruit
@@ -11,4 +11,9 @@ Human language:
 We are outcome oriented. 
 When I dont get the outcome that I want, it shatters our motivation.
 
-Krishna means if you devote yourselves to your a
+Krishna means if you **devote yourselves to your actions** instead of the outcomes, thats the best way forward.
+
+As a human being, 
+
+
+
