@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/6. Different Path.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/6. Different Path.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/6. Different Path.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/6. Different Path.md"
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md"
               }
             }
           },
@@ -166,13 +167,16 @@
   },
   "active": "45211aa285b011a5",
   "lastOpenFiles": [
-    "HG-Meditation/Path of Self (Atman Padha).md",
-    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
-    "HG-Meditation/6. Different Path.md",
     "HG-Meditation/Path of Contentment (Sukkha Padha).md",
-    "HG-Meditation/Path of Mind (Manas Padha).md",
     "HG-Meditation/Path of Knowledge (Jnana Padha).md",
+    "HG-Meditation/Path of Mind (Manas Padha).md",
+    "HG-Meditation/Path of Self (Atman Padha).md",
+    "HG-Meditation/2. History of Meditation.md",
+    "HG-Meditation/3. Different Meditative Styles.md",
+    "HG-Meditation/4. Science of Meditation.md",
     "HG-Meditation/5. Metaphysics of Meditation.md",
+    "HG-Meditation/6. Different Path.md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
     "conflict-files-obsidian-git.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
@@ -191,11 +195,8 @@
     "HG-Meditation/0. Meditation Module Overview.md",
     "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
     "Living Skills/Cooking/Untitled.md",
-    "Living Skills/Cooking/Theory/Untitled.md",
     "Living Skills/Cooking/Theory/Choosing Ingredients",
     "Living Skills/Cooking/Theory/Untitled 1",
-    "Living Skills/Cooking/Theory/interested.md",
-    "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
     "Living Skills/Cooking/Theory/Maillard reaction",
     "z.Images/Pasted image 20230429150437.png",
     "Living Skills/Cooking/Untitled",
