@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "393a5788b4d69db7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "71e17b46e08cbd6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -157,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1687c96c054860ff",
+  "active": "393a5788b4d69db7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
