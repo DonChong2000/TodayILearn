@@ -11,8 +11,12 @@
             "id": "45211aa285b011a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HG-Meditation/6. Different Path.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HG-Meditation/6. Different Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HG-Meditation/6. Different Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HG-Meditation/6. Different Path.md"
+              }
             }
           },
           {
@@ -158,7 +166,9 @@
   },
   "active": "45211aa285b011a5",
   "lastOpenFiles": [
-    "HG-Meditation/05. Metaphysics of Meditation.md",
+    "HG-Meditation/Path of Knowledge (Jnana Padha).md",
+    "HG-Meditation/6. Different Path.md",
+    "HG-Meditation/5. Metaphysics of Meditation.md",
     "conflict-files-obsidian-git.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
@@ -196,10 +206,8 @@
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "z.Template/Ask ChatGPT to summerize.md",
     "Living Skills/Cooking/Theory",
-    "02.Programming/Untitled.md",
     "02.Programming/Methadology",
     "02.Programming/Algorithm",
-    "Generic skills/Thinking.md",
     "02.Programming/OOP",
     "z.Images/Pasted image 20230428163929.png",
     "z.Images/Pasted image 20230428165836.png",
