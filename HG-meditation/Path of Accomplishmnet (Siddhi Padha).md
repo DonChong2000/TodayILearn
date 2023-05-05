@@ -13,7 +13,7 @@ When I dont get the outcome that I want, it shatters our motivation.
 
 Krishna means if you **devote yourselves to your actions** instead of the outcomes, thats the best way forward.
 
-As a human being, 
+As a human being, you can't control the what happens, you can only control what you do.
 
 
 
