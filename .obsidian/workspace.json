@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c26b4fde5ceaa884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/05. Metaphysics of Meditation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,12 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ed05f803672778",
+  "active": "c26b4fde5ceaa884",
   "lastOpenFiles": [
+    "HG-Meditation/05. Metaphysics of Meditation.md",
     "conflict-files-obsidian-git.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
-    "HG-Meditation/05. Metaphysics of Meditation.md",
     "HG-Meditation/5. Metaphysics of Meditation",
     "Living Skills/Cooking/Pancake.md",
     "Living Skills/Cooking/Pancake [conflicted 2].md",
