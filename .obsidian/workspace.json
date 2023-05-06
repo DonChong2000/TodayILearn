@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adde82e00fcb2197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/How to Breath.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/How to Breath.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/How to Breath.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,12 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45211aa285b011a5",
+  "active": "adde82e00fcb2197",
   "lastOpenFiles": [
+    "01.Productivity/Physiologic/How to Breath.md",
+    "conflict-files-obsidian-git.md",
     "HG-Meditation/2. History of Meditation.md",
     "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/0. Meditation Module Overview.md",
-    "01.Productivity/Physiologic/How to Breath.md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
     "HG-Meditation/Path of Contentment (Sukkha Padha).md",
     "HG-Meditation/Path of Knowledge (Jnana Padha).md",
@@ -179,7 +194,6 @@
     "HG-Meditation/4. Science of Meditation.md",
     "HG-Meditation/5. Metaphysics of Meditation.md",
     "HG-Meditation/6. Different Path.md",
-    "conflict-files-obsidian-git.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
     "HG-Meditation/5. Metaphysics of Meditation",
