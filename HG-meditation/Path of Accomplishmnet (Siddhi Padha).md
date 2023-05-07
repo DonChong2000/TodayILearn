@@ -29,5 +29,6 @@ If our action doesn't get the desired result, our brain discourage it.
 
 When we set a big goal (e.g Keep fit, go gym):
 - We have image of our future self (well built body)
-- After a few times of training, what you see in the mirro: 
-- 
+- Everytimes of training, what you see in the mirror: Nothing Change
+	- Our brain start to think we are putting all these effort, but we are not really seeing the reward.
+	- Brain: This behavior is not attaining the reward, so you actually don't need to continue
