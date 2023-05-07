@@ -42,6 +42,14 @@ We love instant gratification.
 Your goal is something can happen, but not something you can do.
 The only things you can do, is go training today, this hour, in the present.
 
-We can't do goals, the only thing we can do is present actions.
+We can't do goals, the only thing we can do is present actions, whichh is what I need to do today.
 
-## How to re
+## How to reframe goals into actions?
+
+Imagine you are a paralyzed person, and you have a disposal person who can do exactly what you tell them to do. 
+
+We, ourbrain will take the goal apart, and tell the person (ourbody) what to do.
+e.g Update Resume
+1. Sit down at a computer
+2. Open up our resume
+3. Change our 
