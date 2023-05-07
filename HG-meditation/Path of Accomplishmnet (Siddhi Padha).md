@@ -52,4 +52,9 @@ We, ourbrain will take the goal apart, and tell the person (ourbody) what to do.
 e.g Update Resume
 1. Sit down at a computer
 2. Open up our resume
-3. Change our 
+3. Change our address
+4. Update our education
+5. on this line, put these things in ...
+
+By taking apart Goal into tiny action, we are recruiting instant gratification circuitry. Our brain can see the reward from our action.
+
