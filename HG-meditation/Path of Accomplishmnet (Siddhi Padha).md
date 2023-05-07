@@ -37,4 +37,11 @@ We love instant gratification.
 - Our brain see the behavior has reward right away.
 
 
-If we have that abstract goal in mind, it's gonna be very hard to reinforce that behavior
+**==If we have that abstract goal in mind, it's gonna be very hard to reinforce that behavior==**
+
+Your goal is something can happen, but not something you can do.
+The only things you can do, is go training today, this hour, in the present.
+
+We can't do goals, the only thing we can do is present actions.
+
+## How to re
