@@ -54,3 +54,6 @@ Being a monk and meditation is a formal training of savoring.
 # Spend your money on other people
 
 Spending money on other people brings more happiness than spending money on yourself
+
+
+#HG

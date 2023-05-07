@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,29 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "呼吸",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "ab21448701fd5861",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "71e17b46e08cbd6a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -93,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md"
+                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md"
               }
             }
           },
@@ -166,14 +150,28 @@
   },
   "active": "45211aa285b011a5",
   "lastOpenFiles": [
+    "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
+    "HG-Meditation/Path of Self (Atman Padha).md",
+    "HG-Meditation/Path of Mind (Manas Padha).md",
+    "HG-Meditation/Path of Knowledge (Jnana Padha).md",
+    "HG-Meditation/Path of Contentment (Sukkha Padha).md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
+    "HG-Meditation/6. Different Path.md",
+    "HG-Meditation/5. Metaphysics of Meditation.md",
+    "HG-Meditation/4. Science of Meditation.md",
+    "HG-Meditation/3. Different Meditative Styles.md",
+    "HG-Meditation/2. History of Meditation.md",
+    "HG-Meditation/1. What is Meditation.md",
+    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
+    "HG-Meditation/0. Meditation Module Overview.md",
+    "HG-Meditation/Practise/0. Index and Notes.md",
+    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+    "01.Productivity/About Productivity.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/2. Anuloma Viloma.md",
-    "HG-Meditation/Practise/0. Index and Notes.md",
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
     "HG-Meditation/Practise/2. Notes - Anuloma Viloma.pdf",
-    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
     "HG-Meditation/Practise",
-    "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
     "01.Productivity/Physiologic/How to Breath.md",
     "z.Images/Pasted image 20230506143437.png",
     "z.Images/Pasted image 20230506143245.png",
@@ -186,17 +184,6 @@
     "z.Images/Pasted image 20230506142555.png",
     "z.Images/Pasted image 20230506142156.png",
     "conflict-files-obsidian-git.md",
-    "HG-Meditation/2. History of Meditation.md",
-    "HG-Meditation/1. What is Meditation.md",
-    "HG-Meditation/0. Meditation Module Overview.md",
-    "HG-Meditation/Path of Contentment (Sukkha Padha).md",
-    "HG-Meditation/Path of Knowledge (Jnana Padha).md",
-    "HG-Meditation/Path of Mind (Manas Padha).md",
-    "HG-Meditation/Path of Self (Atman Padha).md",
-    "HG-Meditation/3. Different Meditative Styles.md",
-    "HG-Meditation/4. Science of Meditation.md",
-    "HG-Meditation/5. Metaphysics of Meditation.md",
-    "HG-Meditation/6. Different Path.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
     "HG-Meditation/5. Metaphysics of Meditation",
@@ -205,12 +192,9 @@
     "Living Skills/Cooking/Pancake [conflicted].md",
     "Living Skills/Cooking/DIY Sandwish price.md",
     "Living Skills/Cooking/番茄炒蛋.md",
-    "Living Skills/Cooking/麥皮.md",
-    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "Living Skills/Cooking/Theory/Choosing Ingredients",
     "Living Skills/Cooking/Theory/Untitled 1",
     "Living Skills/Cooking/Theory/Maillard reaction",
-    "Living Skills/Cooking/Untitled",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

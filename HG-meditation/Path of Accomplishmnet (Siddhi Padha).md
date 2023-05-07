@@ -58,3 +58,4 @@ e.g Update Resume
 
 By taking apart Goal into tiny action, we are recruiting instant gratification circuitry. Our brain can see the reward from our action.
 
+#HG
