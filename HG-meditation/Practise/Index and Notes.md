@@ -1,3 +1,5 @@
+
+# Index
 - [1. Nadi Shuddhi (Alternate-Nostril Breathing)](#1.%20Nadi%20Shuddhi%20(Alternate-Nostril%20Breathing))
 - [2. Notes - Anuloma Viloma](2.%20Notes%20-%20Anuloma%20Viloma.pdf)
 
