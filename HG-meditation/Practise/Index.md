@@ -1,3 +1,8 @@
+- [1. Nadi Shuddhi (Alternate-Nostril Breathing)](#1.%20Nadi%20Shuddhi%20(Alternate-Nostril%20Breathing))
+- [2. Notes - Anuloma Viloma](2.%20Notes%20-%20Anuloma%20Viloma.pdf)
+
+# 1. Nadi Shuddhi (Alternate-Nostril Breathing)
+
 Nadi: Channel
 Shuddhi: Cleaning
 
@@ -18,5 +23,6 @@ Advantage:
 
 [Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults](../paper/4.%20Science%20of%20Meditation/Assessment%20of%20the%20effects%20of%20pranayama%20alternate%20nostril%20breathing%20on%20the%20parasympathetic%20nervous%20system%20in%20young%20adults.pdf)
 
+# 2. Anuloma Viloma
 
 

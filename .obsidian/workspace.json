@@ -11,9 +11,11 @@
             "id": "45211aa285b011a5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf"
+                "file": "HG-Meditation/Practise/Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
+                "file": "HG-Meditation/Practise/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
+                "file": "HG-Meditation/Practise/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf"
+                "file": "HG-Meditation/Practise/Index.md"
               }
             }
           },
@@ -164,8 +166,10 @@
   },
   "active": "45211aa285b011a5",
   "lastOpenFiles": [
-    "HG-Meditation/Practise/1. Nadi Shuddhi (Alternate-Nostril Breathing).md",
+    "HG-Meditation/Practise/2. Anuloma Viloma.md",
+    "HG-Meditation/Practise/Index.md",
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
+    "HG-Meditation/Practise/2. Notes - Anuloma Viloma.pdf",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
     "HG-Meditation/Practise",
     "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
@@ -201,8 +205,6 @@
     "Living Skills/Cooking/DIY Sandwish price.md",
     "Living Skills/Cooking/番茄炒蛋.md",
     "Living Skills/Cooking/麥皮.md",
-    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
-    "Living Skills/Cooking/醬油蛋酥炒飯.md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "Living Skills/Cooking/Theory/Choosing Ingredients",
     "Living Skills/Cooking/Theory/Untitled 1",
@@ -214,7 +216,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "TodayILearn.canvas",
-    "Living Skills/Cooking/Theory",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
 }
