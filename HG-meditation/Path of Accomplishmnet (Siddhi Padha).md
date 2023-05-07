@@ -27,8 +27,14 @@ But our brain will work agaist us if we set our goal.
 If our brain see an action tied to a good result, we will reinforce that behavior.
 If our action doesn't get the desired result, our brain discourage it.
 
-When we set a big goal (e.g Keep fit, go gym):
+When we set a big goal (e.g  Getting in shape, go gym):
 - We have image of our future self (well built body)
 - Everytimes of training, what you see in the mirror: Nothing Change
 	- Our brain start to think we are putting all these effort, but we are not really seeing the reward.
 	- Brain: This behavior is not attaining the reward, so you actually don't need to continue
+
+We love instant gratification.
+- Our brain see the behavior has reward right away.
+
+
+If we have that abstract goal in mind, it's gonna be very hard to reinforce that behavior
