@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "65887710d7131c0d",
+        "id": "233933c7fccf6fed",
         "type": "tabs",
         "children": [
           {
-            "id": "854aae21e96db6af",
+            "id": "45211aa285b011a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ccd9f1ebc73f3ea5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "01.Productivity/Physiologic/How to Breath.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "呼吸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +66,7 @@
             }
           },
           {
-            "id": "e6d1a25d4a038f5c",
+            "id": "71e17b46e08cbd6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Productivity/Physiologic/How to Breath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Productivity/Physiologic/How to Breath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Productivity/Physiologic/How to Breath.md"
+              }
             }
           },
           {
@@ -158,16 +155,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd9f1ebc73f3ea5",
+  "active": "45211aa285b011a5",
   "lastOpenFiles": [
     "z.Images/Pasted image 20230506143437.png",
     "z.Images/Pasted image 20230506143245.png",
@@ -180,42 +177,47 @@
     "z.Images/Pasted image 20230506142555.png",
     "z.Images/Pasted image 20230506142156.png",
     "z.Images/Pasted image 20230506141946.png",
+    "conflict-files-obsidian-git.md",
     "01.Productivity/Physiologic/How to Breath.md",
-    "HG-meditation/Path of Self (Atman Padha).md",
-    "HG-meditation/Path of Mind (Manas Padha).md",
-    "HG-meditation/Path of Knowledge (Jnana Padha).md",
-    "HG-meditation/Path of Contentment (Sukkha Padha).md",
-    "HG-meditation/Path of Accomplishmnet (Siddhi Padha).md",
-    "HG-meditation/6. Different Path.md",
-    "HG-meditation/5. Metaphysics of Meditation.md",
-    "Living Skills/Cooking/Pancake [conflicted 2].md",
-    "HG-meditation/05. Metaphysics of Meditation.md",
-    "z.Template/Ask ChatGPT to summerize.md",
-    "TodayILearn.canvas",
-    "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
-    "Living Skills/Cooking/Theory/interested.md",
-    "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
+    "HG-Meditation/2. History of Meditation.md",
+    "HG-Meditation/1. What is Meditation.md",
+    "HG-Meditation/0. Meditation Module Overview.md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
+    "HG-Meditation/Path of Contentment (Sukkha Padha).md",
+    "HG-Meditation/Path of Knowledge (Jnana Padha).md",
+    "HG-Meditation/Path of Mind (Manas Padha).md",
+    "HG-Meditation/Path of Self (Atman Padha).md",
+    "HG-Meditation/3. Different Meditative Styles.md",
+    "HG-Meditation/4. Science of Meditation.md",
+    "HG-Meditation/5. Metaphysics of Meditation.md",
+    "HG-Meditation/6. Different Path.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
-    "Living Skills/Cooking/Theory/Wok Hei.md",
-    "Living Skills/Cooking/Theory/Choosing Ingredients",
-    "Living Skills/Cooking/麥皮.md",
-    "Living Skills/Cooking/醬油蛋酥炒飯.md",
-    "Living Skills/Cooking/番茄炒蛋.md",
-    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
-    "Living Skills/Cooking/Theory",
-    "Living Skills/Cooking/Recipe Tech Tree.md",
+    "HG-Meditation/5. Metaphysics of Meditation",
+    "Living Skills/Cooking/Pancake.md",
+    "Living Skills/Cooking/Pancake [conflicted 2].md",
     "Living Skills/Cooking/Pancake [conflicted].md",
-    "Living Skills/Cooking/Pancake (conflict 2023-04-17-16-07-29).md",
     "Living Skills/Cooking/DIY Sandwish price.md",
-    "Living Skills/Cooking",
-    "HG-meditation/paper/4. Science of Meditation/The effects of mind body therapies on the immune system meta analysis.pdf",
-    "HG-meditation/paper/4. Science of Meditation/Mindfulness meditation training for attention-deficit or hyperactivity disorder in adulthood.pdf",
-    "HG-meditation/paper/4. Science of Meditation/Meditation experience is associated with increased cortical thickness.pdf",
-    "HG-meditation/paper/4. Science of Meditation/Effect of meditation on neurophysiological changes in stress mediated depression.pdf",
-    "HG-meditation/paper/4. Science of Meditation/Assessment of the effects of pranayama alternate nostril breathing on the parasympathetic nervous system in young adults.pdf",
-    "HG-meditation/paper/4. Science of Meditation",
-    "HG-meditation/paper",
+    "Living Skills/Cooking/番茄炒蛋.md",
+    "Living Skills/Cooking/麥皮.md",
+    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
+    "Living Skills/Cooking/醬油蛋酥炒飯.md",
+    "Living Skills/Cooking/Carbonara.md",
+    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
+    "Living Skills/Cooking/Theory/Choosing Ingredients",
+    "Living Skills/Cooking/Theory/Untitled 1",
+    "Living Skills/Cooking/Theory/Maillard reaction",
+    "Living Skills/Cooking/Untitled",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "TodayILearn.canvas",
+    "Living Skills/Cooking/Theory",
+    "02.Programming/Methadology",
+    "02.Programming/Algorithm",
+    "02.Programming/OOP",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
 }
