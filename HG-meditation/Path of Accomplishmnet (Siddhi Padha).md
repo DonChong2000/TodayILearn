@@ -23,4 +23,11 @@ How to living the the present instead of focusing on the future?
 
 The society is outcome oriented, we are taught by the society that outcomes are whats important.
 
- 
+But our brain will work agaist us if we set our goal.
+If our brain see an action tied to a good result, we will reinforce that behavior.
+If our action doesn't get the desired result, our brain discourage it.
+
+When we set a big goal (e.g Keep fit, go gym):
+- We have image of our future self (well built body)
+- After a few times of training, what you see in the mirro: 
+- 
