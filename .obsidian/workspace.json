@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "Living Skills/Cooking/Pancake.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "Living Skills/Cooking/Pancake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "Living Skills/Cooking/Pancake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md"
+                "file": "Living Skills/Cooking/Pancake.md"
               }
             }
           },
@@ -203,8 +202,11 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
-    "HG-Meditation/1. What is Meditation.md",
+    "Living Skills/High quality IG upload.md",
+    "Living Skills/Investment/Crypto/Things I notice.md",
+    "Living Skills/Cooking/Pancake.md",
     "HG-Meditation/Practise/0. Index and Notes.md",
+    "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
     "Todo.md",
@@ -234,8 +236,6 @@
     "conflict-files-obsidian-git.md",
     "Generic skills/Learning",
     "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
-    "HG-Meditation/Path of Self (Atman Padha).md",
-    "HG-Meditation/Path of Mind (Manas Padha).md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "HG-Meditation/Practise/2. Notes - Anuloma Viloma.pdf",
     "z.Images/Pasted image 20230506143437.png",
