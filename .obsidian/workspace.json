@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "598a9a62a1969a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64ddeb565f3739a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -143,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ed05f803672778",
+  "active": "64ddeb565f3739a4",
   "lastOpenFiles": [
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
+    "conflict-files-obsidian-git.md",
+    "Generic skills/Learning",
+    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
     "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
     "HG-Meditation/Path of Self (Atman Padha).md",
     "HG-Meditation/Path of Mind (Manas Padha).md",
@@ -173,7 +203,6 @@
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "HG-Meditation/0. Meditation Module Overview.md",
     "HG-Meditation/Practise/0. Index and Notes.md",
-    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
     "01.Productivity/About Productivity.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/2. Anuloma Viloma.md",
@@ -191,7 +220,6 @@
     "z.Images/Pasted image 20230506143014.png",
     "z.Images/Pasted image 20230506142555.png",
     "z.Images/Pasted image 20230506142156.png",
-    "conflict-files-obsidian-git.md",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
     "HG-Meditation/5. Metaphysics of Meditation",
@@ -202,7 +230,6 @@
     "Living Skills/Cooking/番茄炒蛋.md",
     "Living Skills/Cooking/Theory/Choosing Ingredients",
     "Living Skills/Cooking/Theory/Untitled 1",
-    "Living Skills/Cooking/Theory/Maillard reaction",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
