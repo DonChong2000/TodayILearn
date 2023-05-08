@@ -14,6 +14,7 @@ Difference of the mice:
 - Some are able to wipe old behavior and replace it with more optimal behavior.
 
 What introduce this different?
+
 **==Fasting==**
 
 
