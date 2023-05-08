@@ -13,26 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "598a9a62a1969a35",
+            "id": "95f2055703b5386e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
-                "mode": "source",
-                "source": false
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md"
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md"
               }
             }
           },
@@ -169,13 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "45211aa285b011a5",
   "lastOpenFiles": [
-    "Generic skills/Learning/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
-    "conflict-files-obsidian-git.md",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
-    "Generic skills/Learning",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Differences in attention to food and food intake between overweight or obese.pdf",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes",
     "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
+    "conflict-files-obsidian-git.md",
+    "Generic skills/Learning",
     "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
     "HG-Meditation/Path of Self (Atman Padha).md",
     "HG-Meditation/Path of Mind (Manas Padha).md",
@@ -210,13 +209,10 @@
     "z.Images/Pasted image 20230506142156.png",
     "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
     "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
-    "HG-Meditation/5. Metaphysics of Meditation",
     "Living Skills/Cooking/Pancake.md",
     "Living Skills/Cooking/Pancake [conflicted 2].md",
     "Living Skills/Cooking/Pancake [conflicted].md",
     "Living Skills/Cooking/DIY Sandwish price.md",
-    "Living Skills/Cooking/Theory/Choosing Ingredients",
-    "Living Skills/Cooking/Theory/Untitled 1",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
