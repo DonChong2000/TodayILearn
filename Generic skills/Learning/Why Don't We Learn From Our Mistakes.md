@@ -14,9 +14,11 @@ Difference of the mice:
 - Some are able to wipe old behavior and replace it with more optimal behavior.
 
 What introduce this different?
-
 ### Fasting
 
+**The most powerful singal to rewire your brain is starvation**. Our brain know we screw up when we can't find food anymore, as our brain evolved for survival. 
+
+Today's society we are inhibiting the starvation and fastnig signal that induce neurogenesis.
 
 
 
@@ -24,7 +26,10 @@ What introduce this different?
 
 
 
-Ask chatGPT to summerize: 
+
+
+
+Ask  chatGPT to summerize: 
 Here is what ChatGPT saids:
 
 > Summary:
