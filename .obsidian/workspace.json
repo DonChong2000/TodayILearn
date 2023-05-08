@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/1. Two Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/1. Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/1. Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md"
+                "file": "02.Programming/Leetcode/1. Two Sum.md"
               }
             }
           },
@@ -166,8 +167,12 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
-    "HG-Meditation/Practise/0. Index and Notes.md",
+    "z.Template/leetcode Note.md",
+    "02.Programming/Leetcode/1. Two Sum.md",
+    "02.Programming/Resources.md",
     "02.Programming/Leetcode/How to practise leetcode.md",
+    "02.Programming/Untitled",
+    "HG-Meditation/Practise/0. Index and Notes.md",
     "Living Skills/Cooking/Pancake.md",
     "02.Programming/Leetcode",
     "Living Skills/High quality IG upload.md",
@@ -193,15 +198,11 @@
     "01.Productivity/Physiologic/Diet/GI LIST.md",
     "01.Productivity/Physiologic/Diet/Caffeine.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-    "01.Productivity/Methodology/Getting Things Done.md",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Differences in attention to food and food intake between overweight or obese.pdf",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes",
-    "03. Value/幸福/Psychiatrist Explains Does Money Actually Buy Happiness/Psychiatrist Explains Does Money Actually Buy Happiness.md",
     "Generic skills/Learning",
     "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
-    "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "z.Images/Pasted image 20230506143437.png",
     "z.Images/Pasted image 20230506143245.png",
     "z.Images/Pasted image 20230506143232.png",

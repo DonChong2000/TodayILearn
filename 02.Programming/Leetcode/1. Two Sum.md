@@ -1,0 +1,14 @@
+# My solution without any input
+
+Code:
+Explaination:
+
+# My solution with conceptual Input
+
+Code:
+Explaination:
+
+# My solution After studying others answer
+
+Code:
+Explaination:
