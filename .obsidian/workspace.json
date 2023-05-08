@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -170,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "598a9a62a1969a35",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "Generic skills/Learning/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
     "conflict-files-obsidian-git.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes.md",
     "Generic skills/Learning",
@@ -215,7 +215,6 @@
     "Living Skills/Cooking/Pancake [conflicted 2].md",
     "Living Skills/Cooking/Pancake [conflicted].md",
     "Living Skills/Cooking/DIY Sandwish price.md",
-    "Living Skills/Cooking/番茄炒蛋.md",
     "Living Skills/Cooking/Theory/Choosing Ingredients",
     "Living Skills/Cooking/Theory/Untitled 1",
     "Untitled 4.canvas",
