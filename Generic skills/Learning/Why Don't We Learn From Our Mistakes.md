@@ -13,9 +13,11 @@ Difference of the mice:
 - Some mice code a particular behavior, unable to ==re-encode== a new form of behavior.
 - Some are able to wipe old behavior and replace it with more optimal behavior.
 
+What introduce this different?
+**==Fasting==**
 
-Real life example:
-It is OK to play video games when we were young, yet it starts to cost us more when we get older. We may be consciously aware of it, but our brain is not able to learn that lesson.
+
+
 
 
 
