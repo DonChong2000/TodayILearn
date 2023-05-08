@@ -18,11 +18,12 @@ What introduce this different?
 
 **The most powerful singal to rewire your brain is starvation**. Our brain know we screw up when we can't find food anymore, as our brain evolved for survival. 
 
-Today's society we are inhibiting the starvation and fastnig signal that induce neurogenesis.
+Today's society we are inhibiting neurogenesis in teh hippocampus as no matter how many mistake we make, we are still getting high calorically dense food.
 
-
-
-
+# How do you fast?
+- Low carbohydrate intake, will help induce neurogenesis.
+- 1800 Calories a day will probably start to induce these neur
+- Excercise
 
 
 
