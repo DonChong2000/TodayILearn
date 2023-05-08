@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2023/4/8": 36
+    "2023/4/8": 99
   },
   "todaysWordCount": {
     "Todo.md": {
@@ -9,7 +9,11 @@
     },
     "HG-Meditation/1. What is Meditation.md": {
       "initial": 202,
-      "current": 238
+      "current": 247
+    },
+    "HG-Meditation/Practise/0. Index and Notes.md": {
+      "initial": 252,
+      "current": 306
     }
   }
 }
