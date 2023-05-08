@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2023/4/8": 295
+    "2023/4/8": 333
   },
   "todaysWordCount": {
     "Todo.md": {
@@ -25,7 +25,7 @@
     },
     "02.Programming/Leetcode/1. Two Sum.md": {
       "initial": 1,
-      "current": 122
+      "current": 160
     },
     "z.Template/Untitled.md": {
       "initial": 16,
