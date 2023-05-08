@@ -1,3 +1,16 @@
+# Introduction
+
+We know what we should do, and sometime we do. Yet despite the positve reinforcement we dont implement changes in our life. We are unable to Learn. To explain this we need to look into neurogenesis.
+
+# Neurogenesis
+**Hippocampus**: Governs learning and memory.
+
+What inhibits neurogensis in hippocampus?
+Mice Expericnce:
+Dro
+
+
+
 
 Ask chatGPT to summerize: 
 Here is what ChatGPT saids:
@@ -17,13 +30,6 @@ Here is what ChatGPT saids:
 > -   海馬迴統治學習和記憶，因此抑制海馬迴的神經發生可能會阻止我們從錯誤中學習。
 > -   一個對老鼠的實驗表明，有些老鼠能夠從錯誤中學習並適應自己的行為，而另一些老鼠則無法。
 > -   能夠用更優化的行為替換舊行為對於克服阻止我們從錯誤中學習的潛意識障礙至關重要。
-
-
-We know what we should do, and sometime we do. Yet despite the positve reinforcement we dont implement changes in our life. We are unable to Learn. To explain this
-
-
-
-
 
 
 
