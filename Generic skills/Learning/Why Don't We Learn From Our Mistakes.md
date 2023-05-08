@@ -7,7 +7,16 @@ We know what we should do, and sometime we do. Yet despite the positve reinforce
 
 What inhibits neurogensis in hippocampus?
 Mice Expericnce:
-Dro
+> The experiment with rats in a pool of shallow water showed that ==some rats were able to learn from their mistakes and find a new location== of a platform when it was moved, while ==others kept making the same mistake of looking for the platform in the old location==.
+
+Difference of the mice:
+- Some mice code a particular behavior, unable to ==re-encode== a new form of behavior.
+- Some are able to wipe old behavior and replace it with more optimal behavior.
+
+
+Real life example:
+It is OK to play video games when we were young, yet it starts to cost us more when we get older. We may be consciously aware of it, but our brain is not able to learn that lesson.
+
 
 
 
