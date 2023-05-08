@@ -22,12 +22,16 @@ Today's society we are inhibiting neurogenesis in teh hippocampus as no matter h
 
 # How do you fast?
 - Low carbohydrate intake, will help induce neurogenesis.
-- 1800 Calories a day will probably start to induce these neur
+- 1800 Calories a day will probably start to induce these neurogensis signals
+- Intermittent fasting
 - Excercise
 
 
+Related Studys:
 
-
+Cognitive flexibility which is correlated with neurogenesis.
+Gamers who have higher  cognitive flexibility are higher in rank.
+In face the only one cognitive variable correlateds with rank in LOL, that is your cognitive flexibility.
 
 
 Ask  chatGPT to summerize: 
