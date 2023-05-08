@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2023/4/8": 99
+    "2023/4/8": 166
   },
   "todaysWordCount": {
     "Todo.md": {
@@ -17,7 +17,7 @@
     },
     "02.Programming/Leetcode/How to practise leetcode.md": {
       "initial": 0,
-      "current": 0
+      "current": 67
     }
   }
 }
