@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fixgrammar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ee59129b25fe1122",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45211aa285b011a5",
+  "active": "23ed05f803672778",
   "lastOpenFiles": [
     "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
     "HG-Meditation/Path of Self (Atman Padha).md",
