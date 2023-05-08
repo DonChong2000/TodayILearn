@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38459221b46b9287",
+        "id": "d0317c9893a5023b",
         "type": "tabs",
         "children": [
           {
-            "id": "cfa8dc9497b2e0cf",
+            "id": "75a1b82d197b7f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+                "file": "HG-Meditation/1. What is Meditation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+                "file": "HG-Meditation/1. What is Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
+                "file": "HG-Meditation/1. What is Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md"
+                "file": "HG-Meditation/1. What is Meditation.md"
               }
             }
           },
@@ -137,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "46ebf042f6d2da60",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfa8dc9497b2e0cf",
+  "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
+    "Todo.md",
+    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "02.Programming/Obsidian/obsidian-paste-mode.md",
     "02.Programming/Obsidian/Obsidian Git.md",
     "01.Productivity/About Productivity.md",
@@ -189,8 +198,6 @@
     "HG-Meditation/Path of Knowledge (Jnana Padha).md",
     "HG-Meditation/Path of Contentment (Sukkha Padha).md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md",
-    "HG-Meditation/6. Different Path.md",
-    "HG-Meditation/5. Metaphysics of Meditation.md",
     "HG-Meditation/0. Worksheet - Meditation Module Overview.pdf",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
