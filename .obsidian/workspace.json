@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d0317c9893a5023b",
+        "id": "65887710d7131c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "75a1b82d197b7f5a",
+            "id": "854aae21e96db6af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccd9f1ebc73f3ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md",
+                "file": "02.Programming/JavaScript Tricks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +67,15 @@
             }
           },
           {
-            "id": "ee59129b25fe1122",
+            "id": "ab21448701fd5861",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6d1a25d4a038f5c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md",
+                "file": "02.Programming/JavaScript Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md",
+                "file": "02.Programming/JavaScript Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md"
+                "file": "02.Programming/JavaScript Tricks.md"
               }
             }
           },
@@ -137,17 +153,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "46ebf042f6d2da60",
-            "type": "leaf",
-            "state": {
-              "type": "stats-tracker",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,54 +164,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a1b82d197b7f5a",
+  "active": "ccd9f1ebc73f3ea5",
   "lastOpenFiles": [
+    "02.Programming/JavaScript Tricks.md",
+    "z.Template/leetcode Note.md",
     "z.Images/Pasted image 20230508161255.png",
     "z.Images/Pasted image 20230508161232.png",
-    "z.Template/leetcode Note.md",
-    "02.Programming/Leetcode/1. Two Sum.md",
-    "02.Programming/Resources.md",
-    "02.Programming/Leetcode/How to practise leetcode.md",
-    "02.Programming/Untitled",
-    "HG-Meditation/Practise/0. Index and Notes.md",
     "Living Skills/Cooking/Pancake.md",
-    "02.Programming/Leetcode",
-    "Living Skills/High quality IG upload.md",
-    "Living Skills/Investment/Crypto/Things I notice.md",
-    "HG-Meditation/1. What is Meditation.md",
-    "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
-    "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
-    "Todo.md",
-    "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
-    "02.Programming/Obsidian/obsidian-paste-mode.md",
-    "02.Programming/Obsidian/Obsidian Git.md",
-    "01.Productivity/About Productivity.md",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
-    "01.Productivity/Using Computer/Start a new tab by spotlight.md",
-    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
-    "Generic skills/How to Breath.md",
-    "01.Productivity/Physiologic/Neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine triphosphate (ATP).md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
-    "01.Productivity/Physiologic/Diet/GI LIST.md",
-    "01.Productivity/Physiologic/Diet/Caffeine.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Differences in attention to food and food intake between overweight or obese.pdf",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes",
     "Generic skills/Learning",
-    "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
+    "Generic skills/How to Breath.md",
+    "02.Programming/Resources.md",
+    "02.Programming/Leetcode/How to practise leetcode.md",
+    "02.Programming/Leetcode/1. Two Sum.md",
+    "02.Programming/Leetcode",
+    "HG-meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
+    "HG-meditation/Practise/3. Notes - Prana Shuddhi.pdf",
+    "HG-meditation/Practise/2. Notes - Anuloma Viloma.pdf",
+    "HG-meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
+    "HG-meditation/Practise/0. Index and Notes.md",
+    "HG-meditation/Practise",
     "z.Images/Pasted image 20230506143437.png",
     "z.Images/Pasted image 20230506143245.png",
     "z.Images/Pasted image 20230506143232.png",
@@ -212,13 +204,24 @@
     "z.Images/Pasted image 20230506143103.png",
     "z.Images/Pasted image 20230506143044.png",
     "z.Images/Pasted image 20230506143014.png",
-    "z.Images/Pasted image 20230506142555.png",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "01.Productivity/Physiologic/How to Breath.md",
+    "HG-meditation/Path of Self (Atman Padha).md",
+    "HG-meditation/Path of Mind (Manas Padha).md",
+    "HG-meditation/Path of Knowledge (Jnana Padha).md",
+    "HG-meditation/Path of Contentment (Sukkha Padha).md",
+    "HG-meditation/Path of Accomplishmnet (Siddhi Padha).md",
+    "HG-meditation/6. Different Path.md",
+    "HG-meditation/5. Metaphysics of Meditation.md",
+    "Living Skills/Cooking/Pancake [conflicted 2].md",
+    "HG-meditation/05. Metaphysics of Meditation.md",
+    "z.Template/Ask ChatGPT to summerize.md",
     "TodayILearn.canvas",
+    "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
+    "Living Skills/Cooking/Theory/interested.md",
+    "Living Skills/Cooking/Theory/焦糖化 Caramelization.md",
+    "Living Skills/Cooking/Theory/梅納反應 Maillard Reaction.md",
+    "Living Skills/Cooking/Theory/乳化反應 - 義大利麵.md",
+    "Living Skills/Cooking/Theory/Wok Hei.md",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
 }
