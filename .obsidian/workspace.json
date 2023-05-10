@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65887710d7131c0d",
+        "id": "c5c814d934442dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "854aae21e96db6af",
+            "id": "7013a964ad9576db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd9f1ebc73f3ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/JavaScript Tricks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,12 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "854aae21e96db6af",
+  "active": "7013a964ad9576db",
   "lastOpenFiles": [
-    "z.Images/Screenshot 2023-05-09 at 20.49.51.png",
-    "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
     "02.Programming/JavaScript Tricks.md",
     "02.Programming/Leetcode/2. Add two numbers.md",
+    "z.Images/Screenshot 2023-05-09 at 20.49.51.png",
+    "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
     "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
     "z.Template/leetcode Note.md",
     "z.Images/Screenshot 2023-05-09 at 18.06.49.png",
@@ -208,7 +188,6 @@
     "z.Images/Pasted image 20230506143245.png",
     "z.Images/Pasted image 20230506143232.png",
     "z.Images/Pasted image 20230506143157.png",
-    "z.Images/Pasted image 20230506143123.png",
     "01.Productivity/Physiologic/How to Breath.md",
     "HG-meditation/Path of Self (Atman Padha).md",
     "HG-meditation/Path of Mind (Manas Padha).md",
