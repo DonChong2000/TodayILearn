@@ -12,3 +12,5 @@ const user = null;
 console.log(user.name) // GG, error
 console.log(user?.name); // undefined
 ```
+
+This help you get values out of something that can be normal and null without error, and you can handle the null afterward.

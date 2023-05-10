@@ -11,8 +11,12 @@
             "id": "854aae21e96db6af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02.Programming/Leetcode/2. Add two numbers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/JavaScript Tricks.md",
+                "file": "02.Programming/Leetcode/2. Add two numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/JavaScript Tricks.md",
+                "file": "02.Programming/Leetcode/2. Add two numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/JavaScript Tricks.md"
+                "file": "02.Programming/Leetcode/2. Add two numbers.md"
               }
             }
           },
@@ -173,12 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd9f1ebc73f3ea5",
+  "active": "854aae21e96db6af",
   "lastOpenFiles": [
-    "02.Programming/Leetcode/2. Add two numbers.md",
-    "z.Images/Screenshot 2023-05-09 at 18.06.49.png",
-    "02.Programming/JavaScript Tricks.md",
+    "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
     "z.Template/leetcode Note.md",
+    "02.Programming/Leetcode/2. Add two numbers.md",
+    "02.Programming/JavaScript Tricks.md",
+    "z.Images/Screenshot 2023-05-09 at 18.06.49.png",
     "z.Images/Pasted image 20230508161255.png",
     "z.Images/Pasted image 20230508161232.png",
     "Living Skills/Cooking/Pancake.md",
