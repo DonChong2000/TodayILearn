@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md",
+                "file": "02.Programming/JavaScript Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md",
+                "file": "02.Programming/JavaScript Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/2. Add two numbers.md"
+                "file": "02.Programming/JavaScript Tricks.md"
               }
             }
           },
@@ -176,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "854aae21e96db6af",
+  "active": "ccd9f1ebc73f3ea5",
   "lastOpenFiles": [
+    "02.Programming/Leetcode/2. Add two numbers.md",
     "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
     "z.Template/leetcode Note.md",
-    "02.Programming/Leetcode/2. Add two numbers.md",
     "02.Programming/JavaScript Tricks.md",
     "z.Images/Screenshot 2023-05-09 at 18.06.49.png",
     "z.Images/Pasted image 20230508161255.png",
@@ -208,7 +209,6 @@
     "z.Images/Pasted image 20230506143157.png",
     "z.Images/Pasted image 20230506143123.png",
     "z.Images/Pasted image 20230506143103.png",
-    "z.Images/Pasted image 20230506143044.png",
     "01.Productivity/Physiologic/How to Breath.md",
     "HG-meditation/Path of Self (Atman Padha).md",
     "HG-meditation/Path of Mind (Manas Padha).md",
