@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53b575f5ea838ad6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a1b82d197b7f5a",
+  "active": "53b575f5ea838ad6",
   "lastOpenFiles": [
     "z.Images/Pasted image 20230508161255.png",
     "z.Images/Pasted image 20230508161232.png",
