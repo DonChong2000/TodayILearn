@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md",
+                "file": "02.Programming/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53b575f5ea838ad6",
+            "id": "de65986887b8f2b7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/1. Two Sum.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -176,13 +177,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b575f5ea838ad6",
+  "active": "de65986887b8f2b7",
   "lastOpenFiles": [
+    "02.Programming/Resources.md",
+    "conflict-files-obsidian-git.md",
+    "02.Programming/JavaScript Tricks.md",
+    "02.Programming/Things used by the industry/Index.md",
+    "02.Programming/Obsidian/obsidian-paste-mode.md",
+    "02.Programming/Obsidian/Obsidian Git.md",
+    "02.Programming/Leetcode/2. Add two numbers.md",
+    "01.Productivity/Physiologic/Diet/Intermittent fasting.md",
+    "01.Productivity/Methodology/Getting Things Done.md",
+    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
+    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
+    "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
+    "01.Productivity/Physiologic/Sleep/Paper/Melatonin treatment for sleep disorders in children with neurodevelopmental disabilities.pdf",
+    "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
+    "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
+    "01.Productivity/5 Habits that Destroy Your Productivity.md",
+    "02.Programming/Leetcode/1. Two Sum.md",
+    "z.Images/Screenshot 2023-05-09 at 20.49.51.png",
+    "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
+    "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
+    "z.Images/Screenshot 2023-05-09 at 18.06.49.png",
     "z.Images/Pasted image 20230508161255.png",
     "z.Images/Pasted image 20230508161232.png",
     "z.Template/leetcode Note.md",
-    "02.Programming/Leetcode/1. Two Sum.md",
-    "02.Programming/Resources.md",
     "02.Programming/Leetcode/How to practise leetcode.md",
     "02.Programming/Untitled",
     "HG-Meditation/Practise/0. Index and Notes.md",
@@ -195,35 +215,16 @@
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
     "Todo.md",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
-    "02.Programming/Obsidian/obsidian-paste-mode.md",
-    "02.Programming/Obsidian/Obsidian Git.md",
     "01.Productivity/About Productivity.md",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "01.Productivity/Using Computer/Start a new tab by spotlight.md",
     "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
-    "01.Productivity/Physiologic/Sleep/Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked.md",
     "Generic skills/How to Breath.md",
-    "01.Productivity/Physiologic/Neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine triphosphate (ATP).md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
-    "01.Productivity/Physiologic/Diet/GI LIST.md",
-    "01.Productivity/Physiologic/Diet/Caffeine.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Differences in attention to food and food intake between overweight or obese.pdf",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes",
-    "Generic skills/Learning",
-    "HG-Meditation/Worksheet - Reframing Goals to Actions (Path of Accomplishmnet).pdf",
     "z.Images/Pasted image 20230506143437.png",
     "z.Images/Pasted image 20230506143245.png",
     "z.Images/Pasted image 20230506143232.png",
     "z.Images/Pasted image 20230506143157.png",
-    "z.Images/Pasted image 20230506143123.png",
-    "z.Images/Pasted image 20230506143103.png",
-    "z.Images/Pasted image 20230506143044.png",
-    "z.Images/Pasted image 20230506143014.png",
-    "z.Images/Pasted image 20230506142555.png",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
