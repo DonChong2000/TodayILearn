@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -165,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a1b82d197b7f5a",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "04. Career/Untitled.md",
     "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
