@@ -1,39 +1,12 @@
 {
   "dayCounts": {
-    "2023/4/8": 601
+    "2023/4/8": 601,
+    "2023/4/10": 24
   },
   "todaysWordCount": {
-    "Todo.md": {
-      "initial": 84,
-      "current": 84
-    },
-    "HG-Meditation/1. What is Meditation.md": {
-      "initial": 202,
-      "current": 247
-    },
-    "HG-Meditation/Practise/0. Index and Notes.md": {
-      "initial": 252,
-      "current": 306
-    },
-    "02.Programming/Leetcode/How to practise leetcode.md": {
+    "01.Productivity/Physiologic/Diet/Intermittent fasting.md": {
       "initial": 0,
-      "current": 67
-    },
-    "02.Programming/Resources.md": {
-      "initial": 67,
-      "current": 66
-    },
-    "02.Programming/Leetcode/1. Two Sum.md": {
-      "initial": 1,
-      "current": 428
-    },
-    "z.Template/Untitled.md": {
-      "initial": 16,
-      "current": 16
-    },
-    "z.Template/leetcode Note.md": {
-      "initial": 17,
-      "current": 25
+      "current": 24
     }
   }
 }
