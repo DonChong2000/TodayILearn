@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md"
+                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md"
               }
             }
           },
@@ -166,6 +167,11 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
+    "04. Career/Untitled.md",
+    "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
+    "04. Career/What do i need to level up my career",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
+    "04. Career",
     "02.Programming/Resources.md",
     "conflict-files-obsidian-git.md",
     "02.Programming/JavaScript Tricks.md",
@@ -203,11 +209,6 @@
     "Todo.md",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/大问题：躺平时代，卷还有意义吗？.md",
     "01.Productivity/About Productivity.md",
-    "01.Productivity/Using Computer/Start a new tab by spotlight.md",
-    "01.Productivity/Physiologic/Sleep/Why Your Sleep Schedule Sucks (And How To Fix It!) - HealthyGamerGG.md",
-    "Generic skills/How to Breath.md",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Differences in attention to food and food intake between overweight or obese.pdf",
     "z.Images/Pasted image 20230506143437.png",
     "z.Images/Pasted image 20230506143245.png",
     "z.Images/Pasted image 20230506143232.png",
