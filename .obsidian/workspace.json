@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,16 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a1b82d197b7f5a",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "04. Career/What do i need to level up my career/How to get high salary.md",
     "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
+    "conflict-files-obsidian-git.md",
+    "04. Career/What do i need to level up my career/How to get high salary.md",
     "04. Career/Untitled.md",
     "04. Career/What do i need to level up my career",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
     "04. Career",
     "02.Programming/Resources.md",
-    "conflict-files-obsidian-git.md",
     "02.Programming/JavaScript Tricks.md",
     "02.Programming/Things used by the industry/Index.md",
     "02.Programming/Obsidian/obsidian-paste-mode.md",
