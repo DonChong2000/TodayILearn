@@ -2,7 +2,7 @@
   "dayCounts": {
     "2023/4/8": 601,
     "2023/4/10": 24,
-    "2023/4/11": 205
+    "2023/4/11": 189
   },
   "todaysWordCount": {
     "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md": {
@@ -15,7 +15,7 @@
     },
     "02.Programming/Leetcode/1. Two Sum.md": {
       "initial": 428,
-      "current": 558
+      "current": 542
     }
   }
 }
