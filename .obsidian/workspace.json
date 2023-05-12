@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
+                "file": "02.Programming/Leetcode/How to practise leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
+                "file": "02.Programming/Leetcode/How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
+                "file": "02.Programming/Leetcode/How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md"
+                "file": "02.Programming/Leetcode/How to practise leetcode.md"
               }
             }
           },
@@ -167,9 +166,9 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
+    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "z.Images/Pasted image 20230512142213.png",
     "02.Programming/Leetcode/1. Two Sum.md",
-    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "z.Images/Pasted image 20230511165511.png",
     "z.Images/Pasted image 20230511165357.png",
     "z.Images/Pasted image 20230511165352.png",
@@ -212,7 +211,6 @@
     "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
-    "z.Images/Pasted image 20230506143437.png",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
