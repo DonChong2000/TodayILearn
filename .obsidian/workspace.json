@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a1b82d197b7f5a",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "02.Programming/Leetcode/1. Two Sum.md",
     "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
