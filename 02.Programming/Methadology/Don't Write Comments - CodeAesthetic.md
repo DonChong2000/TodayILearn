@@ -1,6 +1,6 @@
 ref: https://www.youtube.com/watch?v=Bf7vDBBOBUA&ab_channel=CodeAesthetic
 
-# Write code thats self-explanatory
+# 1. Write code thats self-explanatory
 
 - By creating constant representing variable
 Oringal:
@@ -58,7 +58,12 @@ if can_edit_message(current_user, message):
 	message.update_text(text)
 ```
 
-# Comments lies
+# 2. Comments lie
 When programmer update the code, they often dont update the comment to match.
 We have tools of confirm code is correct by Tests, Compiler Checks, Linting,
 but we dont have tools to check is comments correct.
+
+# 3. Exceptions for Comments
+
+- Code do things non obvious for performance optimization
+- Refereces to Math or ALgorithms
