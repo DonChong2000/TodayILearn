@@ -3,7 +3,7 @@
     "2023/4/8": 601,
     "2023/4/10": 24,
     "2023/4/11": 192,
-    "2023/4/12": 368
+    "2023/4/12": 371
   },
   "todaysWordCount": {
     "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md": {
@@ -12,7 +12,7 @@
     },
     "02.Programming/Leetcode/How to practise leetcode.md": {
       "initial": 67,
-      "current": 185
+      "current": 188
     }
   }
 }
