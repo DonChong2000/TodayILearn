@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/20. Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/20. Valid Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/20. Valid Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md"
+                "file": "02.Programming/Leetcode/20. Valid Parentheses.md"
               }
             }
           },
@@ -164,11 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
+    "z.Template/leetcode Note.md",
+    "02.Programming/Leetcode/20. Valid Parentheses.md",
+    "02.Programming/VS Code Tricks.md",
+    "02.Programming/Leetcode/How to practise leetcode.md",
+    "02.Programming/VSCode",
     "02.Programming/Leetcode/2. Add two numbers.md",
     "02.Programming/Leetcode/1. Two Sum.md",
-    "02.Programming/Leetcode/How to practise leetcode.md",
     "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "z.Images/Pasted image 20230512142213.png",
     "z.Images/Pasted image 20230511165511.png",
@@ -201,14 +206,11 @@
     "z.Images/Screenshot 2023-05-09 at 18.06.49.png",
     "z.Images/Pasted image 20230508161255.png",
     "z.Images/Pasted image 20230508161232.png",
-    "z.Template/leetcode Note.md",
-    "02.Programming/Untitled",
     "HG-Meditation/Practise/0. Index and Notes.md",
     "Living Skills/Cooking/Pancake.md",
     "02.Programming/Leetcode",
     "Living Skills/High quality IG upload.md",
     "Living Skills/Investment/Crypto/Things I notice.md",
-    "HG-Meditation/1. What is Meditation.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/1. Notes - Nadi Shuddhi.pdf",
     "Untitled 4.canvas",
