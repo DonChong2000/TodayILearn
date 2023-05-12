@@ -2,20 +2,13 @@
   "dayCounts": {
     "2023/4/8": 601,
     "2023/4/10": 24,
-    "2023/4/11": 192
+    "2023/4/11": 192,
+    "2023/4/12": 14
   },
   "todaysWordCount": {
-    "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md": {
-      "initial": 13,
-      "current": 68
-    },
-    "04. Career/What do i need to level up my career/How to get high salary.md": {
+    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md": {
       "initial": 1,
-      "current": 21
-    },
-    "02.Programming/Leetcode/1. Two Sum.md": {
-      "initial": 428,
-      "current": 545
+      "current": 15
     }
   }
 }
