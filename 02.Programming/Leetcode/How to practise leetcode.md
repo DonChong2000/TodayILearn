@@ -7,7 +7,7 @@
 Week 1
 - [x] 1	Two Sum
 	Easy·15 mins·Array
-- [ ] 2	Valid Parentheses
+- [x] 2	Valid Parentheses
 	Easy·20 mins·Stack
 - [ ] 3	Merge Two Sorted Lists
 	Easy·20 mins·Linked List

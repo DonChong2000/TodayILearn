@@ -3,7 +3,7 @@
     "2023/4/8": 601,
     "2023/4/10": 24,
     "2023/4/11": 192,
-    "2023/4/12": 479
+    "2023/4/12": 541
   },
   "todaysWordCount": {
     "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md": {
@@ -12,7 +12,7 @@
     },
     "02.Programming/Leetcode/How to practise leetcode.md": {
       "initial": 67,
-      "current": 188
+      "current": 189
     },
     "02.Programming/VS Code Tricks.md": {
       "initial": 1,
@@ -20,7 +20,7 @@
     },
     "02.Programming/Leetcode/20. Valid Parentheses.md": {
       "initial": 30,
-      "current": 133
+      "current": 194
     },
     "z.Template/leetcode Note.md": {
       "initial": 31,
