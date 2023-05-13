@@ -8,15 +8,25 @@ I was inspired by one of my colleagues who would always exclaim, "Today I learn!
 The topics covered in this repository are diverse and varied. Some of the topics include:
 
 - Productivity
+
 	This category aims to increase the rate of learning and doing stuff by methodology and physiology. Productivity is the foundation of effective learning, therefore it is the first category of TodayILearn. 
+
 - Programming
+
 	Currently, my focus is on learning LeetCode and programming methodology, which includes various other programming concepts that I come across.
+
  - Career
+ 
 	This topic studies what skills my career needs.
+
 - Generic skills
+
 	Some skills are applicable to many places, which is valuable as they are versatile and can improve every aspect of our life.
+
 - HG-Meditation
+
 	I am currently learning how to meditate through the tutorial provided by HealthyGamerGG, who is a psychiatrist of Indian descent. His approach to meditation is both scientific and traditional, providing a comprehensive understanding of this practice.
+
 # Usage
 
 You can access the content either by browsing the repository on Github or, for a better experience, pulling it into your local and opening it with Obsidian. Please see [How to sync this to your Obsidian](How%20to%20sync%20this%20to%20your%20Obsidian.md).
