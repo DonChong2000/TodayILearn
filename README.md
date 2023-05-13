@@ -9,8 +9,9 @@ The topics covered in this repository are diverse and varied. Some of the topics
 
 - Productivity
 	This category aims to increase the rate of learning and doing stuff by methodology and physiology. Productivity is the foundation of effective learning, therefore it is the first category of TodayILearn. 
-- 
-
+- Programming
+	Currently, my focus is on learning LeetCode and programming methodology, which includes various other programming concepts that I come across.
+ - 
 
 # Usage
 
