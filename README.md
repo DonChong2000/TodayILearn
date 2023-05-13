@@ -12,7 +12,11 @@ The topics covered in this repository are diverse and varied. Some of the topics
 - Programming
 	Currently, my focus is on learning LeetCode and programming methodology, which includes various other programming concepts that I come across.
  - Career
-
+	This topic studies what skills my career needs.
+- Generic skills
+	Some skills are applicable to many places, which is valuable as they are versatile and can improve every aspect of our life.
+- HG-Meditation
+	
 # Usage
 
 You can access the content either by browsing the repository on Github or, for a better experience, pulling it into your local and opening it with Obsidian.
