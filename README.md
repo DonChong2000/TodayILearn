@@ -8,7 +8,8 @@ I was inspired by one of my colleagues who would always exclaim, "Today I learn!
 The topics covered in this repository are diverse and varied. Some of the topics include:
 
 - Productivity
-
+	This category aims to increase the rate of learning and doing stuff by methodology and physiology. Productivity is the foundation of effective learning, therefore it is the first category of TodayILearn. 
+- 
 
 
 # Usage
