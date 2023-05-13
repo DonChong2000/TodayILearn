@@ -7,8 +7,12 @@ I was inspired by one of my colleagues who would always exclaim, "Today I learn!
 # Topics
 The topics covered in this repository are diverse and varied. Some of the topics include:
 
-- 
+- Productivity
+
+
 
 # Usage
 
-
+You can access the content either by browsing the repository on Github or, for a better experience, pulling it into your local and opening it with Obsidian.
+   
+Feel free to explore the repository and read any posts that pique your interest. If you have any questions or comments, please don't hesitate to open an issue or submit a pull request to contribute.

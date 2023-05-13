@@ -9,7 +9,11 @@
   "todaysWordCount": {
     "README.md": {
       "initial": 246,
-      "current": 145
+      "current": 209
+    },
+    "Todo.md": {
+      "initial": 47,
+      "current": 47
     }
   }
 }
