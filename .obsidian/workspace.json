@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md"
+                "file": "README.md"
               }
             }
           },
@@ -167,6 +167,12 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
+    "Todo.md",
+    "TodayILearn.canvas",
+    "README.md",
+    "mottos to life.md",
+    "Question to answer.md",
+    "02.Programming/Leetcode/How to practise leetcode.md",
     "02.Programming/Leetcode/20. Valid Parentheses.md",
     "z.Images/Pasted image 20230512151638 [conflicted].png",
     "z.Images/Pasted image 20230512151638 [conflicted].png.part",
@@ -174,7 +180,6 @@
     "z.Images/Pasted image 20230512150702.png",
     "z.Template/leetcode Note.md",
     "02.Programming/VS Code Tricks.md",
-    "02.Programming/Leetcode/How to practise leetcode.md",
     "02.Programming/VSCode",
     "02.Programming/Leetcode/2. Add two numbers.md",
     "02.Programming/Leetcode/1. Two Sum.md",
@@ -203,21 +208,16 @@
     "01.Productivity/Physiologic/Sleep/Paper/Melatonin treatment for sleep disorders in children with neurodevelopmental disabilities.pdf",
     "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
-    "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "z.Images/Screenshot 2023-05-09 at 20.49.51.png",
     "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
     "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
-    "HG-Meditation/Practise/0. Index and Notes.md",
-    "Living Skills/Cooking/Pancake.md",
     "02.Programming/Leetcode",
-    "Living Skills/High quality IG upload.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "TodayILearn.canvas",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
 }

@@ -3,28 +3,13 @@
     "2023/4/8": 601,
     "2023/4/10": 24,
     "2023/4/11": 192,
-    "2023/4/12": 541
+    "2023/4/12": 541,
+    "2023/4/13": 0
   },
   "todaysWordCount": {
-    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md": {
-      "initial": 1,
-      "current": 251
-    },
-    "02.Programming/Leetcode/How to practise leetcode.md": {
-      "initial": 67,
-      "current": 189
-    },
-    "02.Programming/VS Code Tricks.md": {
-      "initial": 1,
-      "current": 6
-    },
-    "02.Programming/Leetcode/20. Valid Parentheses.md": {
-      "initial": 30,
-      "current": 194
-    },
-    "z.Template/leetcode Note.md": {
-      "initial": 31,
-      "current": 31
+    "README.md": {
+      "initial": 246,
+      "current": 163
     }
   }
 }
