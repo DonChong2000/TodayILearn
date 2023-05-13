@@ -10,20 +10,25 @@ I was inspired by one of my colleagues who would always exclaim, "Today I learn!
 # Topics
 The topics covered in this repository are diverse and varied. Some of the topics include:
 
-##### Productivity
-This category aims to increase the rate of learning and doing stuff by methodology and physiology. Productivity is the foundation of effective learning, therefore it is the first category of TodayILearn. 
+- Productivity
 
-##### Programming
-Currently, my focus is on learning LeetCode and programming methodology, which includes various other programming concepts that I come across.
+	This category aims to increase the rate of learning and doing stuff by methodology and physiology. Productivity is the foundation of effective learning, therefore it is the first category of TodayILearn. 
 
-##### Career
-This topic studies what skills my career needs.
+- Programming
 
-##### Generic skills
-Some skills are applicable to many places, which is valuable as they are versatile and can improve every aspect of our life.
+	Currently, my focus is on learning LeetCode and programming methodology, which includes various other programming concepts that I come across.
 
-##### HG-Meditation
-I am currently learning how to meditate through the tutorial provided by HealthyGamerGG, who is a psychiatrist of Indian descent. His approach to meditation is both scientific and traditional, providing a comprehensive understanding of this practice.
+ - Career
+ 
+	This topic studies what skills my career needs.
+
+- Generic skills
+
+	Some skills are applicable to many places, which is valuable as they are versatile and can improve every aspect of our life.
+
+- HG-Meditation
+
+	I am currently learning how to meditate through the tutorial provided by HealthyGamerGG, who is a psychiatrist of Indian descent. His approach to meditation is both scientific and traditional, providing a comprehensive understanding of this practice.
 
 # Usage
 
