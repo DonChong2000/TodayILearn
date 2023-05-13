@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02.Programming/Leetcode/How to practise leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02.Programming/Leetcode/How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02.Programming/Leetcode/How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "02.Programming/Leetcode/How to practise leetcode.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
-    "How to sync this to your Obsidian.md",
     "README.md",
+    "How to sync this to your Obsidian.md",
     "Todo.md",
     "TodayILearn.canvas",
     "mottos to life.md",
