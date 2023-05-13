@@ -1,3 +1,5 @@
+- [ ] [How to sync this to your Obsidian](How%20to%20sync%20this%20to%20your%20Obsidian.md)
+- [ ] 
 - [ ] Summerize about [Adenosine](01.Productivity/Physiologic/Neurochemicals/Adenosine.md)
 - [ ] 薯仔芝心蛋餅
 - [ ] [Adenosine Risks + 4 Ways to Lower It (Beyond Caffeine) - SelfHacked](01.Productivity/Physiologic/Sleep/Adenosine%20Risks%20+%204%20Ways%20to%20Lower%20It%20(Beyond%20Caffeine)%20-%20SelfHacked.md)Steak Theory
