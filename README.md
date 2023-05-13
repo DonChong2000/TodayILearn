@@ -16,7 +16,7 @@ The topics covered in this repository are diverse and varied. Some of the topics
 - Generic skills
 	Some skills are applicable to many places, which is valuable as they are versatile and can improve every aspect of our life.
 - HG-Meditation
-	
+	I am currently learning how to meditate through the tutorial provided by HealthyGamerGG, who is a psychiatrist of Indian descent. His approach to meditation is both scientific and traditional, providing a comprehensive understanding of this practice.
 # Usage
 
 You can access the content either by browsing the repository on Github or, for a better experience, pulling it into your local and opening it with Obsidian.
