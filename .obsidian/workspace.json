@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Leetcode/How to practise leetcode.md"
+                "file": "02.Programming/Leetcode/21. Merge Two Sorted Lists.md"
               }
             }
           },
@@ -166,14 +166,15 @@
   },
   "active": "75a1b82d197b7f5a",
   "lastOpenFiles": [
+    "02.Programming/Leetcode/20. Valid Parentheses.md",
+    "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
+    "02.Programming/Leetcode/How to practise leetcode.md",
     "README.md",
     "How to sync this to your Obsidian.md",
     "Todo.md",
     "TodayILearn.canvas",
     "mottos to life.md",
     "Question to answer.md",
-    "02.Programming/Leetcode/How to practise leetcode.md",
-    "02.Programming/Leetcode/20. Valid Parentheses.md",
     "z.Images/Pasted image 20230512151638 [conflicted].png",
     "z.Images/Pasted image 20230512151638 [conflicted].png.part",
     "z.Images/Pasted image 20230512151638.png",
