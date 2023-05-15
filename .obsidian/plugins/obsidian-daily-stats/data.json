@@ -5,12 +5,13 @@
     "2023/4/11": 192,
     "2023/4/12": 541,
     "2023/4/13": 118,
-    "2023/4/14": 98
+    "2023/4/14": 98,
+    "2023/4/15": 36
   },
   "todaysWordCount": {
-    "02.Programming/Leetcode/21. Merge Two Sorted Lists.md": {
-      "initial": 31,
-      "current": 129
+    "mottos to life.md": {
+      "initial": 70,
+      "current": 106
     }
   }
 }
