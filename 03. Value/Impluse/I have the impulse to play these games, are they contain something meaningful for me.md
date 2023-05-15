@@ -1,5 +1,5 @@
 
-
+After meditation for a month, I catch my impulse to play GTNH and Factorio. It is a feeling that rarely happens to other things, therefore I wonder if there is anything that meaning in life that I am craving. So I ask ChatGPT to analysis it.
 
 Summerize
 - Games: Minecraft, GTNH, Factorio, and Cities: Skylines
