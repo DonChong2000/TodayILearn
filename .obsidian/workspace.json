@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,6 +158,30 @@
   },
   "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "02.Programming/Obsidian/Markdown Syntax 1.md",
+    "02.Programming/Things used by the industry/Index.md",
+    "02.Programming/Methadology/Leetcode/How to practise leetcode.md",
+    "02.Programming/Methadology/Leetcode/Brief tutorial on readme syntax.md",
+    "02.Programming/Methadology/Leetcode/21. Merge Two Sorted Lists.md",
+    "02.Programming/Methadology/Leetcode/2. Add two numbers.md",
+    "02.Programming/Methadology/Leetcode/1. Two Sum.md",
+    "02.Programming/Methadology/Leetcode/20. Valid Parentheses.md",
+    "02.Programming/Methadology/Leetcode",
+    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
+    "02.Programming/Methadology",
+    "02.Programming/Attachments/Markdown Syntax.md.part",
+    "02.Programming/Obsidian/Methadology/Leetcode/How to practise leetcode.md",
+    "02.Programming/Obsidian/Methadology/Leetcode/Brief tutorial on readme syntax.md",
+    "02.Programming/Obsidian/Methadology/Leetcode/21. Merge Two Sorted Lists.md",
+    "02.Programming/Obsidian/Methadology/Leetcode/20. Valid Parentheses.md",
+    "02.Programming/Obsidian/Methadology/Leetcode/2. Add two numbers.md",
+    "02.Programming/Obsidian/Methadology/Leetcode/1. Two Sum.md",
+    "02.Programming/Obsidian/Methadology/Leetcode",
+    "02.Programming/Obsidian/Methadology/Don't Write Comments - CodeAesthetic.md",
+    "02.Programming/Obsidian/Methadology",
+    "02.Programming/Other/Computer Fix 101/系統完整性檢查 sfc scan.md.part",
+    "02.Programming/JavaScript Tricks.md",
+    "02.Programming/Obsidian/Markdown Syntax.md",
     "02.Programming/Factorio/Factorio Diary",
     "02.Programming/Factorio",
     "02.Programming/Attachments/Pasted image 20230428163419.png.md",
@@ -169,43 +189,19 @@
     "02.Programming/Other",
     "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
     "mottos to life.md",
-    "03. Value/Impluse",
-    "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
-    "02.Programming/Leetcode/20. Valid Parentheses.md",
-    "02.Programming/Leetcode/How to practise leetcode.md",
     "README.md",
     "How to sync this to your Obsidian.md",
     "Todo.md",
     "TodayILearn.canvas",
     "Question to answer.md",
     "z.Images/Pasted image 20230512151638 [conflicted].png",
-    "z.Images/Pasted image 20230512151638 [conflicted].png.part",
     "z.Images/Pasted image 20230512151638.png",
     "z.Images/Pasted image 20230512150702.png",
     "z.Template/leetcode Note.md",
-    "02.Programming/VS Code Tricks.md",
-    "02.Programming/VSCode",
-    "02.Programming/Leetcode/2. Add two numbers.md",
-    "02.Programming/Leetcode/1. Two Sum.md",
-    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "z.Images/Pasted image 20230512142213.png",
     "z.Images/Pasted image 20230511165511.png",
     "z.Images/Pasted image 20230511165357.png",
     "z.Images/Pasted image 20230511165352.png",
-    "conflict-files-obsidian-git.md",
-    "04. Career/What do i need to level up my career/Why Your Less-Experienced Colleagues Are Promoted Instead of You.md",
-    "04. Career/What do i need to level up my career/How to get high salary.md",
-    "04. Career/Untitled.md",
-    "04. Career/What do i need to level up my career",
-    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/你为什么总是觉得无聊？.md",
-    "04. Career",
-    "02.Programming/Resources.md",
-    "02.Programming/JavaScript Tricks.md",
-    "02.Programming/Things used by the industry/Index.md",
-    "02.Programming/Obsidian/obsidian-paste-mode.md",
-    "02.Programming/Obsidian/Obsidian Git.md",
-    "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
-    "01.Productivity/Physiologic/Sleep/Paper/Melatonin treatment for sleep disorders in children with neurodevelopmental disabilities.pdf",
     "z.Images/Screenshot 2023-05-09 at 20.49.51.png",
     "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
     "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
