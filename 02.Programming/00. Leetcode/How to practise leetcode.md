@@ -9,7 +9,7 @@ Week 1
 	Easy·15 mins·Array
 - [x] 2	Valid Parentheses
 	Easy·20 mins·Stack
-- [ ] 3	Merge Two Sorted Lists
+- [x] 3	Merge Two Sorted Lists
 	Easy·20 mins·Linked List
 - [ ] 4	Best Time to Buy and Sell Stock
 	Easy·20 mins·Array

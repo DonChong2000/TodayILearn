@@ -6,7 +6,7 @@
     "2023/4/12": 541,
     "2023/4/13": 118,
     "2023/4/14": 98,
-    "2023/4/15": 586
+    "2023/4/15": 594
   },
   "todaysWordCount": {
     "mottos to life.md": {
@@ -20,6 +20,14 @@
     "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md": {
       "initial": 351,
       "current": 556
+    },
+    "02.Programming/00. Leetcode/How to practise leetcode.md": {
+      "initial": 190,
+      "current": 190
+    },
+    "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md": {
+      "initial": 129,
+      "current": 137
     }
   }
 }
