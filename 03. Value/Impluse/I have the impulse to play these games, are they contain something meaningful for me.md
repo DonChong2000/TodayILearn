@@ -1,4 +1,18 @@
 
+
+
+Summerize
+- Games: Minecraft, GTNH, Factorio, and Cities: Skylines
+- Category: Sandbox, simulation, and management games
+- Gameplay: Open-ended, allowing players to create and manipulate virtual environments
+- Personality inferences:
+  1. Creativity: Enjoy exercising imagination through creative expression in games like Minecraft and Cities: Skylines.
+  2. Strategic thinking: Find satisfaction in planning, resource management, and problem-solving in games like Factorio and GTNH.
+  3. Attention to detail: Enjoy analyzing complex systems and paying attention to finer details in simulation and management games.
+  4. Autonomy: Value independence and self-directed activities provided by sandbox games.
+  5. Long-term commitment: Enjoy investing time and effort into activities that offer long-term progress and achievement in games like GTNH and Factorio.
+- Note: Gaming preferences offer some insight into personality, but do not capture the entirety of one's personality.
+
 Prompt: 
 
 I impulse to play games like Minecraft, GTNH, factories, and city skyline. Could you name the category of these games, and describe my personality based on that
