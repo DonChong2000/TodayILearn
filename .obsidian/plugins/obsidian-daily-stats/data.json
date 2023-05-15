@@ -6,12 +6,16 @@
     "2023/4/12": 541,
     "2023/4/13": 118,
     "2023/4/14": 98,
-    "2023/4/15": 36
+    "2023/4/15": 381
   },
   "todaysWordCount": {
     "mottos to life.md": {
       "initial": 70,
       "current": 106
+    },
+    "03. Value/Impluse/Untitled.md": {
+      "initial": 6,
+      "current": 351
     }
   }
 }
