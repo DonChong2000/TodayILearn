@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
+                "file": "02.Programming/00. Leetcode/0. About LeetCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
+                "file": "02.Programming/00. Leetcode/0. About LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
+                "file": "02.Programming/00. Leetcode/0. About LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md"
+                "file": "02.Programming/00. Leetcode/0. About LeetCode.md"
               }
             }
           },
@@ -164,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8950e5d4e29a4e07",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
+    "02.Programming/00. Leetcode/How to practise leetcode.md",
+    "02.Programming/00. Leetcode/0. About LeetCode.md",
     "z.Images/Pasted image 20230515162544.png",
     "z.Images/Pasted image 20230515162441.png",
     "z.Images/Pasted image 20230515161940.png",
@@ -177,7 +178,6 @@
     "02.Programming/Leetcode/20. Valid Parentheses.md",
     "02.Programming/Leetcode/1. Two Sum.md",
     "02.Programming/Leetcode",
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "02.Programming/Obsidian/obsidian-paste-mode.md",
     "02.Programming/Obsidian/Obsidian Git.md",
     "02.Programming/Obsidian/Markdown Syntax.md",
