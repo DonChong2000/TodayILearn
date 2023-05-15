@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0317c9893a5023b",
+        "id": "b12af6750eec6249",
         "type": "tabs",
         "children": [
           {
-            "id": "75a1b82d197b7f5a",
+            "id": "8950e5d4e29a4e07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -166,6 +162,11 @@
   },
   "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "02.Programming/Factorio/Factorio Diary",
+    "02.Programming/Factorio",
+    "02.Programming/Attachments/Pasted image 20230428163419.png.md",
+    "02.Programming/Attachments",
+    "02.Programming/Other",
     "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
     "mottos to life.md",
     "03. Value/Impluse",
@@ -203,16 +204,11 @@
     "02.Programming/Things used by the industry/Index.md",
     "02.Programming/Obsidian/obsidian-paste-mode.md",
     "02.Programming/Obsidian/Obsidian Git.md",
-    "01.Productivity/Physiologic/Diet/Intermittent fasting.md",
-    "01.Productivity/Methodology/Getting Things Done.md",
     "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
     "01.Productivity/Physiologic/Sleep/Paper/Melatonin treatment for sleep disorders in children with neurodevelopmental disabilities.pdf",
-    "01.Productivity/Physiologic/Sleep/Paper/Irregular Sleep Patterns Linked to Poor Academic Performance and Delayed Circadian Rhythm.pdf",
-    "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "z.Images/Screenshot 2023-05-09 at 20.49.51.png",
     "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
     "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
-    "02.Programming/Leetcode",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
