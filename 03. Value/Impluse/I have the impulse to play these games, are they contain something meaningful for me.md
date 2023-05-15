@@ -1,5 +1,7 @@
 
-After meditation for a month, I catch my impulse to play GTNH and Factorio. It is a feeling that rarely happens to other things, therefore I wonder if there is anything that meaning in life that I am craving. So I ask ChatGPT to analysis it.
+After meditation for a month, I catch my impulse to play GTNH and Factorio. It is a feeling that rarely happens to other things. I feel my heart pumping, can't wait to play the game, and the only thing I want to do is to install the game. 
+
+Therefore I wonder if there is anything that meaning in life that I am craving. So I ask ChatGPT to analysis it.
 
 Summerize
 - Games: Minecraft, GTNH, Factorio, and Cities: Skylines
@@ -33,4 +35,8 @@ Here is what ChatGPT saids:
 > 
 > 5. Long-term commitment: Games like GTNH and Factorio often involve long-term engagement, as they offer deep and complex gameplay experiences. Your interest in these types of games suggests that you enjoy investing time and effort into activities that **provide a sense of progress and long-term achievement**.
 > 
-> It's important to note that while these observations can provide some insight into your personality, they are generalizations based solely on your gaming preferences. Everyone's personality is multifaceted and cannot be entirely captured by their choice of video games.
+> It's important to note that while these observations can provide some insight into your personality, they are generalizations based solely on your gaming preferences. Everyone's personality is multifaceted and cannot be entirely captured by their choice of video games
+
+
+
+#Subjective 
