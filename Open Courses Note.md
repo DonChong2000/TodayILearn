@@ -9,3 +9,8 @@ https://www.edx.org/course/the-science-of-happiness-3
 
 https://www.coursera.org/learn/the-science-of-well-being
 
+Introduction to Psychology
+https://www.coursera.org/learn/introduction-psych
+
+Computer Science 101
+https://www.edx.org/course/computer-science-101
