@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d93e7400a8433a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,12 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8950e5d4e29a4e07",
+  "active": "d93e7400a8433a56",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/How to practise leetcode.md",
+    "conflict-files-obsidian-git.md",
+    "Open Courses Note.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "z.Images/Pasted image 20230515162544.png",
     "z.Images/Pasted image 20230515162441.png",
     "z.Images/Pasted image 20230515161940.png",
@@ -199,10 +213,8 @@
     "02.Programming/Obsidian/Methadology/Leetcode/2. Add two numbers.md",
     "02.Programming/Obsidian/Methadology/Leetcode/1. Two Sum.md",
     "02.Programming/Obsidian/Methadology/Leetcode",
-    "02.Programming/Obsidian/Methadology/Don't Write Comments - CodeAesthetic.md",
     "02.Programming/Obsidian/Methadology",
     "02.Programming/Other/Computer Fix 101/系統完整性檢查 sfc scan.md.part",
-    "02.Programming/JavaScript Tricks.md",
     "02.Programming/Factorio/Factorio Diary",
     "02.Programming/Factorio",
     "02.Programming/Attachments",
