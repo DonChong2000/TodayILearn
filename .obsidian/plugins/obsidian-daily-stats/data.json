@@ -6,32 +6,13 @@
     "2023/4/12": 541,
     "2023/4/13": 118,
     "2023/4/14": 98,
-    "2023/4/15": 961
+    "2023/4/15": 961,
+    "2023/4/18": 45
   },
   "todaysWordCount": {
-    "mottos to life.md": {
-      "initial": 70,
-      "current": 106
-    },
-    "03. Value/Impluse/Untitled.md": {
-      "initial": 6,
-      "current": 351
-    },
-    "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md": {
-      "initial": 351,
-      "current": 556
-    },
-    "02.Programming/00. Leetcode/How to practise leetcode.md": {
-      "initial": 190,
-      "current": 190
-    },
-    "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md": {
-      "initial": 129,
-      "current": 357
-    },
-    "02.Programming/00. Leetcode/0. About LeetCode.md": {
-      "initial": 1,
-      "current": 148
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md": {
+      "initial": 31,
+      "current": 76
     }
   }
 }
