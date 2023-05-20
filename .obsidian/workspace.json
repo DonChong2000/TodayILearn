@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/Invert Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/Invert Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/Invert Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md"
+                "file": "02.Programming/00. Leetcode/Invert Binary Tree.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/How to practise leetcode.md",
+    "02.Programming/00. Leetcode/Untitled 1.md",
+    "02.Programming/00. Leetcode/Invert Binary Tree.md",
     "conflict-files-obsidian-git.md",
     "Open Courses Note.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
@@ -197,8 +199,6 @@
     "02.Programming/Obsidian/Methadology/Leetcode/How to practise leetcode.md",
     "02.Programming/Obsidian/Methadology/Leetcode/Brief tutorial on readme syntax.md",
     "02.Programming/Obsidian/Methadology/Leetcode/21. Merge Two Sorted Lists.md",
-    "02.Programming/Obsidian/Methadology/Leetcode/20. Valid Parentheses.md",
-    "02.Programming/Obsidian/Methadology/Leetcode/2. Add two numbers.md",
     "02.Programming/Obsidian/Methadology/Leetcode",
     "02.Programming/Obsidian/Methadology",
     "02.Programming/Other/Computer Fix 101/系統完整性檢查 sfc scan.md.part",

@@ -15,7 +15,7 @@ Week 1
 	Easy·20 mins·Array
 - [ ] 5	Valid Palindrome
 	Easy·15 mins·String
-- [ ] 6	Invert Binary Tree
+- [x] 6	Invert Binary Tree
 	Easy·15 mins·Binary Tree
 - [ ] 7	Valid Anagram
 	Easy·15 mins·String
