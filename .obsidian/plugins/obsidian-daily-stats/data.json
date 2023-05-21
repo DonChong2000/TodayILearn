@@ -9,7 +9,7 @@
     "2023/4/15": 961,
     "2023/4/18": 186,
     "2023/4/20": 3,
-    "2023/4/21": 173
+    "2023/4/21": 293
   },
   "todaysWordCount": {
     "02.Programming/00. Leetcode/Invert Binary Tree.md": {
@@ -18,7 +18,7 @@
     },
     "02.Programming/00. Leetcode/125. Valid Palindrome.md": {
       "initial": 59,
-      "current": 231
+      "current": 351
     },
     "z.Template/leetcode Note.md": {
       "initial": 31,
