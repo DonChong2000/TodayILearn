@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+                "file": "02.Programming/00. Leetcode/733. Flood Fill.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+                "file": "02.Programming/00. Leetcode/733. Flood Fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+                "file": "02.Programming/00. Leetcode/733. Flood Fill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/125. Valid Palindrome.md"
+                "file": "02.Programming/00. Leetcode/733. Flood Fill.md"
               }
             }
           },
@@ -167,18 +167,18 @@
   },
   "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/242. Valid Anagram.md",
+    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
+    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+    "02.Programming/00. Leetcode/How to practise leetcode.md",
+    "02.Programming/00. Leetcode/733. Flood Fill.md",
     "z.Images/Pasted image 20230521015515.png",
     "z.Images/Pasted image 20230521015509.png",
     "z.Images/Pasted image 20230521015153.png",
     "z.Images/Pasted image 20230521015149.png",
     "z.Images/Pasted image 20230521015143.png",
-    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
     "z.Template/leetcode Note.md",
     "TodayILearn.canvas",
-    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
-    "02.Programming/00. Leetcode/733. Flood Fill.md",
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md.part",
     "02.Programming/00. Leetcode/733. Flood Fill.md.part",
     "02.Programming/00. Leetcode/242. Valid Anagram.md.part",
@@ -213,7 +213,6 @@
     "02.Programming/Other/Computer Fix 101/系統完整性檢查 sfc scan.md.part",
     "z.Images/Pasted image 20230512151638 [conflicted].png",
     "z.Images/Pasted image 20230512151638.png",
-    "z.Images/Pasted image 20230512150702.png",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
