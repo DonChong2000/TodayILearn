@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/733. Flood Fill.md",
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/733. Flood Fill.md",
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/733. Flood Fill.md",
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/733. Flood Fill.md"
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md"
               }
             }
           },
@@ -167,15 +166,17 @@
   },
   "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/733. Flood Fill.md",
+    "02.Programming/00. Leetcode/242. Valid Anagram.md",
+    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
+    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+    "02.Programming/00. Leetcode/20. Valid Parentheses.md",
+    "02.Programming/Methadology/clean-code-javascript.md",
     "z.Images/Pasted image 20230521024437.png",
     "z.Images/Pasted image 20230521023912.png",
     "z.Images/Pasted image 20230521022904.png",
     "z.Images/Pasted image 20230521022851.png",
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
-    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
-    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/How to practise leetcode.md",
-    "02.Programming/00. Leetcode/733. Flood Fill.md",
     "z.Images/Pasted image 20230521015515.png",
     "z.Images/Pasted image 20230521015509.png",
     "z.Images/Pasted image 20230521015153.png",
@@ -194,7 +195,6 @@
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
     "z.Images/Pasted image 20230515162544.png",
-    "z.Images/Pasted image 20230515162441.png",
     "02.Programming/Leetcode/How to practise leetcode.md",
     "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
     "02.Programming/Leetcode/2. Add two numbers.md",
@@ -207,7 +207,6 @@
     "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
     "02.Programming/Obsidian/Markdown Syntax 1.md",
     "02.Programming/Things used by the industry/Index.md",
-    "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/00. Leetcode",
     "02.Programming/Methadology",
     "02.Programming/Attachments/Markdown Syntax.md.part",
