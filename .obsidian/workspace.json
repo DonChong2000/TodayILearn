@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -166,6 +167,7 @@
   },
   "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230521032711.png",
     "02.Programming/00. Leetcode/733. Flood Fill.md",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
@@ -206,7 +208,6 @@
     "02.Programming/Obsidian/Markdown Syntax.md",
     "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
     "02.Programming/Obsidian/Markdown Syntax 1.md",
-    "02.Programming/Things used by the industry/Index.md",
     "02.Programming/00. Leetcode",
     "02.Programming/Methadology",
     "02.Programming/Attachments/Markdown Syntax.md.part",
