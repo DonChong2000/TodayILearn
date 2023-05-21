@@ -13,15 +13,15 @@ Week 1
 	Easy·20 mins·Linked List
 - [ ] 4	Best Time to Buy and Sell Stock
 	Easy·20 mins·Array
-- [ ] 5	Valid Palindrome
+- [x] 5	Valid Palindrome
 	Easy·15 mins·String
 - [x] 6	Invert Binary Tree
 	Easy·15 mins·Binary Tree
-- [ ] 7	Valid Anagram
+- [x] 7	Valid Anagram
 	Easy·15 mins·String
 - [ ] 8	Binary Search
 	Easy·15 mins·Binary Search
-- [ ] 9	Flood Fill
+- [x] 9	Flood Fill
 	Easy·20 mins·Graph
 - [ ] 10	Lowest Common Ancestor of a Binary Search Tree
 	Easy·20 mins·Binary Search Tree
