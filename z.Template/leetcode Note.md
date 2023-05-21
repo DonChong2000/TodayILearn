@@ -1,3 +1,7 @@
+# Thinking
+
+
+
 # My solution without any input
 
 ### V1:
