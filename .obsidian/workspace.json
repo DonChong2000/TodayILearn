@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c814d934442dfc",
+        "id": "b12af6750eec6249",
         "type": "tabs",
         "children": [
           {
-            "id": "7013a964ad9576db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "32ec744b50bcde6a",
+            "id": "8950e5d4e29a4e07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fab29feda14b17cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#subjective",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,15 +58,7 @@
             }
           },
           {
-            "id": "ab21448701fd5861",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "e6d1a25d4a038f5c",
+            "id": "ee59129b25fe1122",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md",
+                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md",
+                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md"
+                "file": "02.Programming/00. Leetcode/How to practise leetcode.md"
               }
             }
           },
@@ -165,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "46ebf042f6d2da60",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,64 +155,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab29feda14b17cf",
+  "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
+    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md.part",
     "02.Programming/00. Leetcode/704. Binary Search.md",
+    "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
+    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
     "z.Images/Pasted image 20230521033947.png",
     "z.Images/Pasted image 20230521032711.png",
+    "02.Programming/00. Leetcode/733. Flood Fill.md",
+    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
+    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+    "02.Programming/00. Leetcode/20. Valid Parentheses.md",
+    "02.Programming/Methadology/clean-code-javascript.md",
     "z.Images/Pasted image 20230521024437.png",
     "z.Images/Pasted image 20230521023912.png",
     "z.Images/Pasted image 20230521022904.png",
     "z.Images/Pasted image 20230521022851.png",
-    "z.Images/Pasted image 20230521015515.png",
-    "02.Programming/Methadology/clean-code-javascript.md",
-    "02.Programming/00. Leetcode/733. Flood Fill.md",
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
-    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
-    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
-    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/How to practise leetcode.md",
+    "z.Images/Pasted image 20230521015515.png",
+    "z.Template/leetcode Note.md",
+    "TodayILearn.canvas",
+    "02.Programming/00. Leetcode/125. Valid Palindrome.md.part",
+    "02.Programming/00. Leetcode/733. Flood Fill.md.part",
+    "02.Programming/00. Leetcode/242. Valid Anagram.md.part",
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+    "02.Programming/00. Leetcode/Untitled 1.md",
+    "conflict-files-obsidian-git.md",
     "Open Courses Note.md",
-    "Untitled",
-    "05. OpenCourses",
-    "README.md",
-    "How to sync this to your Obsidian.md",
-    "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
-    "03. Value/Impluse",
-    "02.Programming/VS Code Tricks.md",
-    "02.Programming/Other/GPT/History/Roadmap for aws.md",
-    "02.Programming/Other/GPT/Useful Prompts.md",
-    "02.Programming/Other/GPT/History",
-    "02.Programming/Other/Computer Fix 101/系統完整性檢查 sfc scan.md",
-    "02.Programming/Other/GPT",
-    "02.Programming/Other/Computer Fix 101",
-    "02.Programming/Other",
-    "02.Programming/Obsidian/Markdown Syntax.md",
-    "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
-    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
-    "02.Programming/Methadology",
-    "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
-    "02.Programming/00. Leetcode/20. Valid Parentheses.md",
-    "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
+    "02.Programming/Leetcode/How to practise leetcode.md",
+    "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
+    "02.Programming/Leetcode/2. Add two numbers.md",
+    "02.Programming/Leetcode/20. Valid Parentheses.md",
+    "02.Programming/Leetcode/1. Two Sum.md",
+    "02.Programming/Leetcode",
+    "02.Programming/Obsidian/obsidian-paste-mode.md",
+    "02.Programming/Obsidian/Obsidian Git.md",
+    "02.Programming/Obsidian/Markdown Syntax.md",
+    "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
     "02.Programming/00. Leetcode",
-    "04. Career/What do i need to level up my career/How to get high salary.md",
-    "04. Career/What do i need to level up my career",
-    "TodayILearn.canvas",
+    "02.Programming/Methadology",
+    "02.Programming/Attachments/Markdown Syntax.md.part",
+    "02.Programming/Obsidian/Methadology/Leetcode",
+    "02.Programming/Obsidian/Methadology",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
 }
