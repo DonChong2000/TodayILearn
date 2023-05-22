@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fab29feda14b17cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4337e3c470b08787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -173,8 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ec744b50bcde6a",
+  "active": "4337e3c470b08787",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "Open Courses Note.md",
     "Untitled",
     "05. OpenCourses",
@@ -198,7 +225,6 @@
     "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
     "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "02.Programming/Methadology",
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
@@ -219,8 +245,6 @@
     "z.Images/Screenshot 2023-05-09 at 20.42.22.png",
     "z.Images/Screenshot 2023-05-09 at 18.55.30.png",
     "z.Template/leetcode Note.md",
-    "Living Skills/Cooking/Pancake.md",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
     "TodayILearn.canvas",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
