@@ -5,4 +5,6 @@ chatbot
 Basic UI
 
 Functions:
-Cross page remain hostory
+1. Generic, able to promot whatever it wants
+2. 
+3. Cross page remain hostory
