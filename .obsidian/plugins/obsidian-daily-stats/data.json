@@ -9,36 +9,13 @@
     "2023/4/15": 961,
     "2023/4/18": 186,
     "2023/4/20": 3,
-    "2023/4/21": 977
+    "2023/4/21": 977,
+    "2023/4/22": 0
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/Invert Binary Tree.md": {
-      "initial": 47,
-      "current": 44
-    },
-    "02.Programming/00. Leetcode/125. Valid Palindrome.md": {
-      "initial": 59,
-      "current": 351
-    },
-    "z.Template/leetcode Note.md": {
-      "initial": 31,
-      "current": 32
-    },
-    "02.Programming/00. Leetcode/733. Flood Fill.md": {
-      "initial": 71,
-      "current": 475
-    },
-    "02.Programming/Methadology/Clean.md": {
-      "initial": 7,
-      "current": 7
-    },
-    "02.Programming/00. Leetcode/242. Valid Anagram.md": {
-      "initial": 46,
-      "current": 324
-    },
-    "02.Programming/00. Leetcode/How to practise leetcode.md": {
-      "initial": 192,
-      "current": 194
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md": {
+      "initial": 217,
+      "current": 217
     }
   }
 }
