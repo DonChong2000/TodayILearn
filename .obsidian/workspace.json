@@ -21,38 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fab29feda14b17cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26c9c3303541761e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md"
               }
             }
           },
@@ -197,17 +173,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c9c3303541761e",
+  "active": "32ec744b50bcde6a",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
+    "02.Programming/00. Leetcode/704. Binary Search.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "conflict-files-obsidian-git.md",
-    "02.Programming/00. Leetcode/704. Binary Search.md",
     "03. Value/Impluse/Second impulses.md",
     "02.Programming/Personal Assistant/Prompt.md",
     "02.Programming/Personal Assistant/Descriptions.md",
     "02.Programming/Personal Assistant",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
-    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
@@ -222,8 +200,6 @@
     "02.Programming/00. Leetcode/733. Flood Fill.md",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
-    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
-    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/How to practise leetcode.md",
     "Open Courses Note.md",
     "Untitled",
