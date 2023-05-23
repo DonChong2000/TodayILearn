@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md",
+                "file": "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26c9c3303541761e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/704. Binary Search.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,11 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab29feda14b17cf",
+  "active": "26c9c3303541761e",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
+    "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "conflict-files-obsidian-git.md",
     "02.Programming/00. Leetcode/704. Binary Search.md",
+    "03. Value/Impluse/Second impulses.md",
+    "02.Programming/Personal Assistant/Prompt.md",
+    "02.Programming/Personal Assistant/Descriptions.md",
+    "02.Programming/Personal Assistant",
+    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
@@ -226,13 +244,7 @@
     "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
     "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "02.Programming/Methadology",
-    "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
-    "02.Programming/00. Leetcode/20. Valid Parentheses.md",
-    "02.Programming/00. Leetcode/2. Add two numbers.md",
-    "02.Programming/00. Leetcode/1. Two Sum.md",
-    "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode",
-    "04. Career/What do i need to level up my career",
     "TodayILearn.canvas",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
