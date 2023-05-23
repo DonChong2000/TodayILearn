@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "9dd42a89448c76a5",
+            "id": "2b947c47b9ce7cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dd42a89448c76a5",
+  "active": "2b947c47b9ce7cb8",
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "conflict-files-obsidian-git.md",
