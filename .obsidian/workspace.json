@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de927c75ee3c3174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -172,15 +185,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01c6c7e5d7aa0034",
+  "active": "de927c75ee3c3174",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+    "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/141. Linked List Cycle.md",
+    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
     "02.Programming/00. Leetcode/704. Binary Search.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
-    "conflict-files-obsidian-git.md",
     "03. Value/Impluse/Second impulses.md",
     "02.Programming/Personal Assistant/Prompt.md",
     "02.Programming/Personal Assistant/Descriptions.md",
@@ -217,7 +231,6 @@
     "02.Programming/Other",
     "02.Programming/Obsidian/Markdown Syntax.md",
     "02.Programming/Obsidian/Brief tutorial on readme syntax.md",
-    "02.Programming/Methadology/Don't Write Comments - CodeAesthetic.md",
     "02.Programming/Methadology",
     "02.Programming/00. Leetcode",
     "TodayILearn.canvas",
