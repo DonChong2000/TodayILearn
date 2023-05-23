@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/VS Code Tricks.md",
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/VS Code Tricks.md",
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/VS Code Tricks.md"
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md"
               }
             }
           },
@@ -185,11 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de927c75ee3c3174",
+  "active": "01c6c7e5d7aa0034",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+    "02.Programming/VS Code Tricks.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "conflict-files-obsidian-git.md",
-    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
@@ -221,7 +221,6 @@
     "How to sync this to your Obsidian.md",
     "03. Value/Impluse/I have the impulse to play these games, are they contain something meaningful for me.md",
     "03. Value/Impluse",
-    "02.Programming/VS Code Tricks.md",
     "02.Programming/Other/GPT/History/Roadmap for aws.md",
     "02.Programming/Other/GPT/Useful Prompts.md",
     "02.Programming/Other/GPT/History",
