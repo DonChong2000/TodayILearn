@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c814d934442dfc",
+        "id": "fb5c963087ec9e1e",
         "type": "tabs",
         "children": [
           {
-            "id": "7013a964ad9576db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "32ec744b50bcde6a",
+            "id": "01c6c7e5d7aa0034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md"
+                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md"
               }
             }
           },
@@ -151,6 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb7bb6d1c8debb9",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
               "state": {}
             }
           }
@@ -173,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ec744b50bcde6a",
+  "active": "01c6c7e5d7aa0034",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
@@ -185,7 +185,6 @@
     "02.Programming/Personal Assistant/Prompt.md",
     "02.Programming/Personal Assistant/Descriptions.md",
     "02.Programming/Personal Assistant",
-    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
