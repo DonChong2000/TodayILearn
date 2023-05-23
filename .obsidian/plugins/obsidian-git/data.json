@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "Mac vault backup: {{date}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }

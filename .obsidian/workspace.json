@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "07e31df018853383",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md.part",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md.part",
