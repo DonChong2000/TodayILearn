@@ -27,7 +27,7 @@ Week 1
 	Easy·20 mins·Binary Search Tree
 - [ ] 11	Balanced Binary Tree
 	Easy·15 mins·Binary Tree
-- [ ] 12	Linked List Cycle
+- [x] 12	Linked List Cycle
 	Easy·20 mins·Linked List
 - [ ] 13	Implement Queue using Stacks
 	Easy·20 mins·Stack
