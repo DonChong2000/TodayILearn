@@ -19,7 +19,7 @@ Week 1
 	Easy·15 mins·Binary Tree
 - [x] 7	Valid Anagram
 	Easy·15 mins·String
-- [ ] 8	Binary Search
+- [x] 8	Binary Search
 	Easy·15 mins·Binary Search
 - [x] 9	Flood Fill
 	Easy·20 mins·Graph
