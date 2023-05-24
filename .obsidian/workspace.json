@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07e31df018853383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
+                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
+                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md"
+                "file": "02.Programming/00. Leetcode/How to practise leetcode.md"
               }
             }
           },
@@ -178,12 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07e31df018853383",
+  "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/141. Linked List Cycle.md",
+    "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
-    "conflict-files-obsidian-git.md",
-    "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "02.Programming/00. Leetcode/How to practise leetcode.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md.part",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md.part",
@@ -216,7 +203,6 @@
     "z.Images/Pasted image 20230521024437.png",
     "z.Images/Pasted image 20230521023912.png",
     "z.Images/Pasted image 20230521022904.png",
-    "z.Images/Pasted image 20230521022851.png",
     "z.Template/leetcode Note.md",
     "TodayILearn.canvas",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md.part",
