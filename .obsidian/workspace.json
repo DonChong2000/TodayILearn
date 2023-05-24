@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/How to practise leetcode.md"
+                "file": "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md"
               }
             }
           },
@@ -167,9 +166,9 @@
   },
   "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/704. Binary Search.md",
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230524150110.png",
