@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -179,6 +180,8 @@
   },
   "active": "07e31df018853383",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230524150110.png",
+    "z.Images/Pasted image 20230524150107.png",
     "conflict-files-obsidian-git.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "02.Programming/00. Leetcode/How to practise leetcode.md",
@@ -214,7 +217,6 @@
     "z.Images/Pasted image 20230521023912.png",
     "z.Images/Pasted image 20230521022904.png",
     "z.Images/Pasted image 20230521022851.png",
-    "z.Images/Pasted image 20230521015515.png",
     "z.Template/leetcode Note.md",
     "TodayILearn.canvas",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md.part",
@@ -225,7 +227,6 @@
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/Leetcode/How to practise leetcode.md",
     "02.Programming/Leetcode/21. Merge Two Sorted Lists.md",
-    "02.Programming/Leetcode/2. Add two numbers.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
