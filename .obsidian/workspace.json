@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md"
+                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md"
               }
             }
           },
@@ -167,8 +166,15 @@
   },
   "active": "8950e5d4e29a4e07",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
+    "02.Programming/00. Leetcode/733. Flood Fill.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+    "02.Programming/00. Leetcode/70. Climbing Stairs.md",
+    "02.Programming/00. Leetcode/383. Ransom Note.md",
+    "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
+    "02.Programming/00. Leetcode/70. Climbing Stairs.md.part",
+    "02.Programming/00. Leetcode/383. Ransom Note.md.part",
+    "02.Programming/00. Leetcode/141.  Linked List Cycle.md.part",
+    "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
@@ -195,25 +201,18 @@
     "02.Programming/Personal website/Personal Assistant/Prompt.md",
     "02.Programming/Personal website/Personal Assistant/Descriptions.md",
     "02.Programming/Personal Assistant/Prompt.md.part",
-    "02.Programming/Personal website/Personal Assistant",
-    "02.Programming/00. Leetcode/704. Binary Search.md.part",
     "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
-    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md.part",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
     "z.Images/Pasted image 20230521033947.png",
     "z.Images/Pasted image 20230521032711.png",
-    "02.Programming/00. Leetcode/733. Flood Fill.md",
     "02.Programming/Methadology/clean-code-javascript.md",
     "z.Images/Pasted image 20230521024437.png",
     "z.Images/Pasted image 20230521023912.png",
     "z.Template/leetcode Note.md",
     "TodayILearn.canvas",
-    "02.Programming/00. Leetcode/Untitled 1.md",
-    "Open Courses Note.md",
-    "02.Programming/00. Leetcode/1. Two Sum.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
