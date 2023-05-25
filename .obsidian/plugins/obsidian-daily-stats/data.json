@@ -10,16 +10,13 @@
     "2023/4/18": 186,
     "2023/4/20": 3,
     "2023/4/21": 977,
-    "2023/4/23": 0
+    "2023/4/22": 0,
+    "2023/4/23": 435
   },
   "todaysWordCount": {
-    "conflict-files-obsidian-git.md": {
-      "initial": 99,
-      "current": 99
-    },
     "02.Programming/00. Leetcode/141. Linked List Cycle.md": {
-      "initial": 478,
-      "current": 42
+      "initial": 42,
+      "current": 477
     }
   }
 }
