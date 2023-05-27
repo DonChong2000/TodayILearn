@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edcdb04167aaa6c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8950e5d4e29a4e07",
+  "active": "edcdb04167aaa6c8",
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
