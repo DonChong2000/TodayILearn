@@ -13,7 +13,7 @@
     "2023/4/23": 0,
     "2023/4/24": 1636,
     "2023/4/26": 71,
-    "2023/4/27": 781
+    "2023/4/27": 811
   },
   "todaysWordCount": {
     "HG-Meditation/Practise/0. Index and Notes.md": {
@@ -35,6 +35,14 @@
     "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
       "initial": 195,
       "current": 195
+    },
+    "Generic skills/Learning/为什么费曼技巧被称为终极学习法 (Why feynman technique works).md": {
+      "initial": 19,
+      "current": 0
+    },
+    "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md": {
+      "initial": 23,
+      "current": 53
     }
   }
 }
