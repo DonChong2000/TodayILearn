@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -167,8 +166,10 @@
   },
   "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "Generic skills/Learning/世界五大學習方法之費曼技巧.md",
     "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/世界五大學習方法之費曼技巧.md",
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "z.Images/Pasted image 20230527043422.png",
@@ -203,8 +204,6 @@
     "02.Programming/Personal website",
     "z.Images/Pasted image 20230524154537.png",
     "02.Programming/00. Leetcode/704. Binary Search.md",
-    "02.Programming/00. Leetcode/141. Linked List Cycle.md",
-    "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md.part",
