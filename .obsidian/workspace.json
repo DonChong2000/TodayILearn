@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
+                "file": "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
+                "file": "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
+                "file": "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md"
+                "file": "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md"
               }
             }
           },
@@ -167,8 +166,9 @@
   },
   "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
-    "Generic skills/Learning/費曼學習法是什麼.md",
     "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
+    "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
+    "Generic skills/Learning/費曼學習法是什麼.md",
     "Generic skills/Learning/世界五大學習方法之費曼技巧.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/世界五大學習方法之費曼技巧.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
@@ -202,7 +202,6 @@
     "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
     "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
-    "02.Programming/Personal website/leetcode status.md",
     "02.Programming/Personal website",
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
