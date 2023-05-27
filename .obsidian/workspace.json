@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md"
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
+    "z.Template/leetcode Note.md",
     "02.Programming/00. Leetcode/383. Ransom Note.md",
+    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "z.Images/Pasted image 20230527021536.png",
     "HG-Meditation/Practise/0. Index and Notes.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
@@ -206,7 +207,6 @@
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md.part",
     "03. Value/Impluse/Second impulses.md",
-    "02.Programming/Personal website/Personal Assistant/Prompt.md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",

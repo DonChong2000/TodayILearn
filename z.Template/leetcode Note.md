@@ -9,7 +9,7 @@ Code:
 ```js
 
 ```
-Explaination:
+Explanation:
 
 # My solution with conceptual Input
 
@@ -19,7 +19,7 @@ Code:
 ```js
 
 ```
-Explaination:
+Explanation::
 
 # My solution After studying others answer
 
@@ -32,4 +32,4 @@ Code:
 ```js
 
 ```
-Explaination:
+Explanation::
