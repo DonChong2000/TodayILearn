@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a79ef005744e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e60da5b49cb2341",
+  "active": "57a79ef005744e5a",
   "lastOpenFiles": [
     "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md",
     "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/Intermittent fasting increases adult hippocampal neurogenesis.pdf",
     "Generic skills/Learning/費曼學習法是什麼.md",
     "Generic skills/Learning/世界五大學習方法之費曼技巧.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/世界五大學習方法之費曼技巧.md",
@@ -201,14 +215,12 @@
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
-    "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
     "02.Programming/Personal website",
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md.part",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md.part",
-    "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md.part",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
