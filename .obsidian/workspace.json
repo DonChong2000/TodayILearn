@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
+                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
+                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md"
+                "file": "02.Programming/00. Leetcode/383. Ransom Note.md"
               }
             }
           },
@@ -165,47 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "7ea665a2bd4d3470",
-    "type": "floating",
-    "children": [
-      {
-        "id": "131b4108c3bca82e",
-        "type": "window",
-        "children": [
-          {
-            "id": "7fdf98a6f29b0632",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "650b68460e276422",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "650b68460e276422",
+  "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/383. Ransom Note.md",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
+    "02.Programming/00. Leetcode/383. Ransom Note.md",
     "z.Images/Pasted image 20230527021536.png",
     "HG-Meditation/Practise/0. Index and Notes.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
