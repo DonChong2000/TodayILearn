@@ -11,8 +11,12 @@
             "id": "1e60da5b49cb2341",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HG-Meditation/Practise/0. Index and Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HG-Meditation/Practise/0. Index and Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HG-Meditation/Practise/0. Index and Notes.md"
+              }
             }
           },
           {
@@ -158,6 +166,9 @@
   },
   "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
+    "HG-Meditation/Practise/4..md",
+    "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
+    "HG-Meditation/Practise/0. Index and Notes.md",
     "02.Programming/00. Leetcode/383. Ransom Note.md",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Caffeine increases striatal dopamine D2 D3 receptor availability in the human brain.pdf",
     "01.Productivity/About Productivity.md",
@@ -191,11 +202,8 @@
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md.part",
     "02.Programming/Personal Assistant/Descriptions.md.part",
-    "03. Value/Impluse/Second impulses.md.part",
     "03. Value/Impluse/Second impulses.md",
     "02.Programming/Personal website/Personal Assistant/Prompt.md",
-    "02.Programming/Personal website/Personal Assistant/Descriptions.md",
-    "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
