@@ -13,7 +13,7 @@
     "2023/4/23": 0,
     "2023/4/24": 1636,
     "2023/4/26": 71,
-    "2023/4/27": 74
+    "2023/4/27": 111
   },
   "todaysWordCount": {
     "HG-Meditation/Practise/0. Index and Notes.md": {
@@ -22,7 +22,7 @@
     },
     "02.Programming/00. Leetcode/383. Ransom Note.md": {
       "initial": 124,
-      "current": 129
+      "current": 166
     }
   }
 }

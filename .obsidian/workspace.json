@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md"
+                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md"
               }
             }
           },
@@ -193,7 +193,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 0,
         "y": 0,
         "width": 960,
         "height": 1080,
@@ -202,10 +202,10 @@
       }
     ]
   },
-  "active": "1e60da5b49cb2341",
+  "active": "650b68460e276422",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "02.Programming/00. Leetcode/383. Ransom Note.md",
+    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "z.Images/Pasted image 20230527021536.png",
     "HG-Meditation/Practise/0. Index and Notes.md",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
