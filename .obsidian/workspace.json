@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md"
+                "file": "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230527032159.png",
+    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "z.Template/leetcode Note.md",
     "02.Programming/00. Leetcode/383. Ransom Note.md",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
@@ -188,7 +190,6 @@
     "02.Programming/00. Leetcode/383. Ransom Note.md.part",
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md.part",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md",
-    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
@@ -206,7 +207,6 @@
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md.part",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md.part",
-    "03. Value/Impluse/Second impulses.md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
