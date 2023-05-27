@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b12af6750eec6249",
+        "id": "8c79083e2617a48f",
         "type": "tabs",
         "children": [
           {
-            "id": "8950e5d4e29a4e07",
+            "id": "1e60da5b49cb2341",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edcdb04167aaa6c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.Programming/00. Leetcode/383. Ransom Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,14 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edcdb04167aaa6c8",
+  "active": "1e60da5b49cb2341",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/383. Ransom Note.md",
+    "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Caffeine increases striatal dopamine D2 D3 receptor availability in the human brain.pdf",
+    "01.Productivity/About Productivity.md",
+    "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "02.Programming/00. Leetcode/733. Flood Fill.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
-    "02.Programming/00. Leetcode/383. Ransom Note.md",
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md.part",
     "02.Programming/00. Leetcode/383. Ransom Note.md.part",
@@ -212,18 +195,14 @@
     "03. Value/Impluse/Second impulses.md",
     "02.Programming/Personal website/Personal Assistant/Prompt.md",
     "02.Programming/Personal website/Personal Assistant/Descriptions.md",
-    "02.Programming/Personal Assistant/Prompt.md.part",
     "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
     "z.Images/Pasted image 20230521033947.png",
     "z.Images/Pasted image 20230521032711.png",
-    "02.Programming/Methadology/clean-code-javascript.md",
     "z.Images/Pasted image 20230521024437.png",
     "z.Images/Pasted image 20230521023912.png",
-    "z.Template/leetcode Note.md",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
