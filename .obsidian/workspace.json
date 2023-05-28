@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md"
+                "file": "02.Programming/00. Leetcode/110. Balanced Binary Tree.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
+    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
@@ -196,7 +197,6 @@
     "01.Productivity/About Productivity.md",
     "01.Productivity/5 Habits that Destroy Your Productivity.md",
     "02.Programming/00. Leetcode/733. Flood Fill.md",
-    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md.part",
     "02.Programming/00. Leetcode/383. Ransom Note.md.part",
