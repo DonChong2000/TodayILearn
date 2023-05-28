@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c79083e2617a48f",
+        "id": "2a4985f8f15e2dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "57a79ef005744e5a",
+            "id": "db192773fc5ef5d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,12 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a79ef005744e5a",
+  "active": "db192773fc5ef5d2",
   "lastOpenFiles": [
+    "02.Programming/VS Code Tricks.md",
+    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
-    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
     "01.Productivity/Methodology/How Elon Musk manages his time.md",
@@ -203,7 +204,6 @@
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md.part",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
-    "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/Personal website",
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
