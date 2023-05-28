@@ -13,48 +13,13 @@
     "2023/4/23": 0,
     "2023/4/24": 1636,
     "2023/4/26": 71,
-    "2023/4/27": 1587
+    "2023/4/27": 1587,
+    "2023/4/28": 38
   },
   "todaysWordCount": {
-    "HG-Meditation/Practise/0. Index and Notes.md": {
-      "initial": 307,
-      "current": 376
-    },
-    "02.Programming/00. Leetcode/383. Ransom Note.md": {
-      "initial": 124,
-      "current": 250
-    },
-    "z.Template/leetcode Note.md": {
-      "initial": 32,
-      "current": 32
-    },
-    "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md": {
+    "01.Productivity/Methodology/How Elon Musk manages his time.md": {
       "initial": 0,
-      "current": 586
-    },
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 195,
-      "current": 195
-    },
-    "Generic skills/Learning/为什么费曼技巧被称为终极学习法 (Why feynman technique works).md": {
-      "initial": 19,
-      "current": 0
-    },
-    "Generic skills/Learning/為什麼費曼技巧被稱為終極學習法 (Why feynman technique works).md": {
-      "initial": 23,
-      "current": 436
-    },
-    "Generic skills/Learning/Untitled.md": {
-      "initial": 6,
-      "current": 399
-    },
-    "Generic skills/Learning/費曼學習法是什麼.md": {
-      "initial": 399,
-      "current": 399
-    },
-    "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md": {
-      "initial": 114,
-      "current": 114
+      "current": 38
     }
   }
 }
