@@ -14,7 +14,7 @@
     "2023/4/24": 1636,
     "2023/4/26": 71,
     "2023/4/27": 1587,
-    "2023/4/28": 120
+    "2023/4/28": 166
   },
   "todaysWordCount": {
     "01.Productivity/Methodology/How Elon Musk manages his time.md": {
@@ -23,7 +23,7 @@
     },
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md": {
       "initial": 618,
-      "current": 691
+      "current": 737
     }
   }
 }
