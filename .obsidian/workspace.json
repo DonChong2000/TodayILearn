@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01c6c7e5d7aa0034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/00. Leetcode/141. Linked List Cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ec74d38c59f48507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "930e009a406e7950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de927c75ee3c3174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/VS Code Tricks.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md"
               }
             }
           },
@@ -209,10 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "930e009a406e7950",
+  "active": "ec74d38c59f48507",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
+    "02.Programming/00. Leetcode/1. Two Sum.md",
+    "02.Programming/00. Leetcode/0. About LeetCode.md",
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/383. Ransom Note.md",
+    "02.Programming/00. Leetcode/70. Climbing Stairs.md",
+    "02.Programming/00. Leetcode/232. Implement Queue using Stacks.md",
+    "02.Programming/VS Code Tricks.md",
+    "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md",
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
@@ -222,11 +192,9 @@
     "02.Programming/Personal website/Personal Assistant",
     "02.Programming/Personal website/leetcode status.md",
     "02.Programming/Personal website",
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/278. First Bad Version.md",
     "02.Programming/00. Leetcode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
-    "02.Programming/VS Code Tricks.md",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/00. Leetcode/125. Valid Palindrome.md",
     "02.Programming/00. Leetcode/704. Binary Search (conflict 2023-05-22-02-29-20).md",
@@ -245,12 +213,8 @@
     "02.Programming/Methadology/clean-code-javascript.md",
     "02.Programming/00. Leetcode/733. Flood Fill.md",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
-    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
-    "02.Programming/00. Leetcode/How to practise leetcode.md",
-    "Open Courses Note.md",
     "Untitled",
     "05. OpenCourses",
-    "README.md",
     "03. Value/Impluse",
     "02.Programming/Other/GPT/History",
     "02.Programming/Other/GPT",
