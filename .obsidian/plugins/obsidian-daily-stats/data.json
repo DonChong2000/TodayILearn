@@ -14,24 +14,13 @@
     "2023/4/24": 1636,
     "2023/4/26": 71,
     "2023/4/27": 1587,
-    "2023/4/28": 443
+    "2023/4/28": 443,
+    "2023/4/31": 0
   },
   "todaysWordCount": {
-    "01.Productivity/Methodology/How Elon Musk manages his time.md": {
-      "initial": 0,
-      "current": 47
-    },
-    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md": {
-      "initial": 618,
-      "current": 736
-    },
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 196,
-      "current": 196
-    },
-    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md": {
-      "initial": 111,
-      "current": 389
+    "01.Productivity/Physiologic/Diet/Intermittent fasting.md": {
+      "initial": 24,
+      "current": 24
     }
   }
 }
