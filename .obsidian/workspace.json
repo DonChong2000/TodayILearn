@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72d6d7a76083a3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/278. First Bad Version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02.Programming/00. Leetcode/278. First Bad Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02.Programming/00. Leetcode/278. First Bad Version.md"
               }
             }
           },
@@ -190,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72d6d7a76083a3c1",
+  "active": "50a12a720a0d8513",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/278. First Bad Version.md",
     "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/278. First Bad Version.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
