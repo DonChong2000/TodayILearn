@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "50a12a720a0d8513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/Other/CSS Debug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94532aa3ad491e64",
+            "id": "2794b39fc1e22543",
             "type": "leaf",
             "state": {
               "type": "release-notes",
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Other/CSS Debug.md",
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Other/CSS Debug.md",
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Other/CSS Debug.md"
+                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md"
               }
             }
           },
@@ -188,12 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94532aa3ad491e64",
+  "active": "2794b39fc1e22543",
   "lastOpenFiles": [
+    "05. Finance",
+    "02.Programming/Other/CSS Debug.md",
     "z.Images/Pasted image 20230601134226.png",
     "z.Images/Pasted image 20230601134215.png",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
-    "02.Programming/Other/CSS Debug.md",
     "Mottos/mottos to life.md",
     "02.Programming/Others",
     "Mottos/YouTuber Makes Elon Musk CHANGE Rocket Design #shorts.mp4",
@@ -235,7 +223,6 @@
     "02.Programming/00. Leetcode/70. Climbing Stairs.md.part",
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
-    "z.Images/Pasted image 20230524150107.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
