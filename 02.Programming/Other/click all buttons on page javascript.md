@@ -13,3 +13,4 @@ Using `$$('[aria-label*="as complete"]')` We selected all buttons
 
 ![](../../z.Images/Pasted%20image%2020230601164327.png)
 
+Now only the First Element will click. idky, but lets try adding delay logic
