@@ -12,5 +12,8 @@ Here is what ChatGPT saids:
 
 > [Worker threads | Node.js v20.2.0 Documentation (nodejs.org)](https://nodejs.org/api/worker_threads.html)
 
-
+main
 ![](../../z.Images/Pasted%20image%2020230601132040.png)
+
+worker
+![](../../z.Images/Pasted%20image%2020230601132126.png)

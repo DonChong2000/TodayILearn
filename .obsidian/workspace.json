@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/JavaScript/Node.JS Multithreading.md",
+                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/JavaScript/Node.JS Multithreading.md",
+                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/JavaScript/Node.JS Multithreading.md",
+                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/JavaScript/Node.JS Multithreading.md"
+                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md"
               }
             }
           },
@@ -179,9 +180,12 @@
   },
   "active": "50a12a720a0d8513",
   "lastOpenFiles": [
+    "02.Programming/JavaScript/Node.JS Multithreading.md",
+    "Living Skills/Heallth/肌肉的構成與訓練方法.md",
+    "Living Skills/Heallth",
+    "z.Images/Pasted image 20230601132126.png",
     "z.Images/Pasted image 20230601132040.png",
     "02.Programming/JavaScript/JavaScript Tricks.md",
-    "02.Programming/JavaScript/Node.JS Multithreading.md",
     "02.Programming/JavaScript",
     "02.Programming/00. Leetcode/278. First Bad Version.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
@@ -221,10 +225,7 @@
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
-    "02.Programming/00. Leetcode/141. Linked List Cycle.md.part",
     "z.Images/Pasted image 20230521035127.png",
-    "z.Images/Pasted image 20230521034318.png",
-    "z.Images/Pasted image 20230521034009.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",

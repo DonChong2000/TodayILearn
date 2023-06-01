@@ -16,7 +16,7 @@
     "2023/4/27": 1587,
     "2023/4/28": 443,
     "2023/4/31": 0,
-    "2023/5/1": 458
+    "2023/5/1": 514
   },
   "todaysWordCount": {
     "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
@@ -33,7 +33,11 @@
     },
     "02.Programming/JavaScript/Node.JS Multithreading.md": {
       "initial": 1,
-      "current": 105
+      "current": 113
+    },
+    "Living Skills/Heallth/肌肉的構成與訓練方法.md": {
+      "initial": 1,
+      "current": 49
     }
   }
 }
