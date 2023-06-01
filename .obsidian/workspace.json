@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -179,6 +180,8 @@
   },
   "active": "50a12a720a0d8513",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230601134226.png",
+    "z.Images/Pasted image 20230601134215.png",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
     "02.Programming/Other/CSS Debug.md",
     "Mottos/mottos to life.md",
@@ -212,7 +215,6 @@
     "01.Productivity/Physiologic/Diet/Tyrosine.md",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/VS Code Tricks.md",
-    "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
@@ -224,7 +226,6 @@
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
-    "z.Images/Pasted image 20230521035127.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
