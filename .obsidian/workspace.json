@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mottos/mottos to life.md",
+                "file": "02.Programming/Other/CSS Debug.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mottos/mottos to life.md",
+                "file": "02.Programming/Other/CSS Debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mottos/mottos to life.md",
+                "file": "02.Programming/Other/CSS Debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mottos/mottos to life.md"
+                "file": "02.Programming/Other/CSS Debug.md"
               }
             }
           },
@@ -177,8 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "50a12a720a0d8513",
   "lastOpenFiles": [
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
+    "02.Programming/Other/CSS Debug.md",
+    "Mottos/mottos to life.md",
+    "02.Programming/Others",
+    "Mottos/YouTuber Makes Elon Musk CHANGE Rocket Design #shorts.mp4",
     "Mottos",
     "Living Skills/Heallth/肌肉的構成與訓練方法.md",
     "02.Programming/JavaScript/Node.JS Multithreading.md",
@@ -193,7 +198,6 @@
     "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
     "z.Template/leetcode Note.md",
-    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
     "conflict-files-obsidian-git.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
@@ -209,7 +213,6 @@
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/VS Code Tricks.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
-    "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
@@ -218,9 +221,6 @@
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
     "01.Productivity/Physiologic/Bored/你为什么总是觉得无聊？/Caffeine increases striatal dopamine D2 D3 receptor availability in the human brain.pdf",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md.part",
-    "02.Programming/00. Leetcode/383. Ransom Note.md.part",
-    "02.Programming/00. Leetcode/141.  Linked List Cycle.md.part",
-    "02.Programming/Personal website",
     "z.Images/Pasted image 20230524154537.png",
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
