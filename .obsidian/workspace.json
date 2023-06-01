@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md",
+                "file": "Mottos/mottos to life.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md",
+                "file": "Mottos/mottos to life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md",
+                "file": "Mottos/mottos to life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Heallth/肌肉的構成與訓練方法.md"
+                "file": "Mottos/mottos to life.md"
               }
             }
           },
@@ -178,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50a12a720a0d8513",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
-    "02.Programming/JavaScript/Node.JS Multithreading.md",
+    "Mottos",
     "Living Skills/Heallth/肌肉的構成與訓練方法.md",
+    "02.Programming/JavaScript/Node.JS Multithreading.md",
     "Living Skills/Heallth",
     "z.Images/Pasted image 20230601132126.png",
     "z.Images/Pasted image 20230601132040.png",
@@ -210,7 +210,6 @@
     "02.Programming/VS Code Tricks.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md",
-    "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
