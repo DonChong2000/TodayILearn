@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/278. First Bad Version.md",
+                "file": "02.Programming/JavaScript/Node.JS Multithreading.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/278. First Bad Version.md",
+                "file": "02.Programming/JavaScript/Node.JS Multithreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/278. First Bad Version.md",
+                "file": "02.Programming/JavaScript/Node.JS Multithreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/278. First Bad Version.md"
+                "file": "02.Programming/JavaScript/Node.JS Multithreading.md"
               }
             }
           },
@@ -179,13 +179,17 @@
   },
   "active": "50a12a720a0d8513",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230601132040.png",
+    "02.Programming/JavaScript/JavaScript Tricks.md",
+    "02.Programming/JavaScript/Node.JS Multithreading.md",
+    "02.Programming/JavaScript",
+    "02.Programming/00. Leetcode/278. First Bad Version.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
     "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
     "z.Template/leetcode Note.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
-    "02.Programming/00. Leetcode/278. First Bad Version.md",
     "conflict-files-obsidian-git.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
@@ -203,9 +207,6 @@
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
-    "01.Productivity/Methodology/How Elon Musk manages his time.md",
-    "01.Productivity/Methodology/Getting Things Done.md",
-    "Generic skills/Learning/如何正確使用人腦來在幾個月內學會英語.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
@@ -221,7 +222,6 @@
     "z.Images/Pasted image 20230524150110.png",
     "z.Images/Pasted image 20230524150107.png",
     "02.Programming/00. Leetcode/141. Linked List Cycle.md.part",
-    "02.Programming/00. Leetcode/110. Balanced Binary Tree.md.part",
     "z.Images/Pasted image 20230521035127.png",
     "z.Images/Pasted image 20230521034318.png",
     "z.Images/Pasted image 20230521034009.png",
