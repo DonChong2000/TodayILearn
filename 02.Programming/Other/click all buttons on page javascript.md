@@ -5,6 +5,10 @@
 
 # Test
 
-Task: Check all [Grind 75](https://www.techinterviewhandbook.org/grind75)
+Task: Check all [Grind 75](https://www.techinterviewhandbook.org/grind75)boxes
 
+![](../../z.Images/Pasted%20image%2020230601164203.png)
 
+Using `$$('[aria-label*="as complete"]')` We selected all buttons
+
+![](../../z.Images/Pasted%20image%2020230601164327.png)
