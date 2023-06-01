@@ -15,12 +15,17 @@
     "2023/4/26": 71,
     "2023/4/27": 1587,
     "2023/4/28": 443,
-    "2023/4/31": 0
+    "2023/4/31": 0,
+    "2023/5/1": 187
   },
   "todaysWordCount": {
-    "01.Productivity/Physiologic/Diet/Intermittent fasting.md": {
-      "initial": 24,
-      "current": 24
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
+      "initial": 197,
+      "current": 384
+    },
+    "02.Programming/00. Leetcode/278. First Bad Version.md": {
+      "initial": 40,
+      "current": 40
     }
   }
 }

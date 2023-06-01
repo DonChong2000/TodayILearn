@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50a12a720a0d8513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Programming/00. Leetcode/278. First Bad Version.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72d6d7a76083a3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Intermittent fasting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,8 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db192773fc5ef5d2",
+  "active": "72d6d7a76083a3c1",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/278. First Bad Version.md",
+    "conflict-files-obsidian-git.md",
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/0. About LeetCode.md",
+    "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
     "01.Productivity/Physiologic/Diet/Intermittent fasting.md",
     "01.Productivity/About Productivity.md",
     "01.Productivity/Using Computer/Start a new tab by spotlight.md",
@@ -178,8 +208,6 @@
     "01.Productivity/Physiologic/Diet/Tyrosine.md",
     "02.Programming/00. Leetcode/110. Balanced Binary Tree.md",
     "02.Programming/VS Code Tricks.md",
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
-    "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/121. Best Time to Buy and Sell Stock.md",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "02.Programming/00. Leetcode/21. Merge Two Sorted Lists.md",
@@ -194,9 +222,6 @@
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
-    "z.Template/leetcode Note.md",
-    "02.Programming/00. Leetcode/383. Ransom Note.md",
-    "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "z.Images/Pasted image 20230527021536.png",
     "HG-Meditation/Practise/3. Notes - Prana Shuddhi.pdf",
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
