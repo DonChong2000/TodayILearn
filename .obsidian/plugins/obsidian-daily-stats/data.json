@@ -16,56 +16,13 @@
     "2023/4/27": 1587,
     "2023/4/28": 443,
     "2023/4/31": 0,
-    "2023/5/1": 891
+    "2023/5/1": 891,
+    "2023/5/3": 1
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 197,
-      "current": 384
-    },
-    "02.Programming/00. Leetcode/278. First Bad Version.md": {
-      "initial": 40,
-      "current": 207
-    },
-    "z.Template/leetcode Note.md": {
-      "initial": 32,
-      "current": 32
-    },
-    "02.Programming/JavaScript/Node.JS Multithreading.md": {
-      "initial": 1,
-      "current": 113
-    },
-    "Living Skills/Heallth/肌肉的構成與訓練方法.md": {
-      "initial": 1,
-      "current": 153
-    },
-    "02.Programming/Other/CSS Debug.md": {
-      "initial": 7,
-      "current": 52
-    },
-    "05. Finance/Untitled.md": {
-      "initial": 24,
-      "current": 24
-    },
-    "05. Finance/五本最實用嘅投資書 --.md": {
-      "initial": 26,
-      "current": 24
-    },
-    "05. Finance/五本最實用嘅投資書 --阿豬.md": {
-      "initial": 24,
-      "current": 24
-    },
-    "05. Finance/五本最實用嘅投資書 --阿豬/五本最實用嘅投資書 --阿豬.md": {
-      "initial": 30,
-      "current": 167
-    },
-    "02.Programming/Other/Untitled.md": {
-      "initial": 5,
-      "current": 20
-    },
-    "02.Programming/Other/click all buttons on page javascript.md": {
-      "initial": 20,
-      "current": 96
+    "Living Skills/Cooking/煎薄罉.md": {
+      "initial": 41,
+      "current": 42
     }
   }
 }
