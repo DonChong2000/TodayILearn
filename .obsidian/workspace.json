@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ea64619d8a9daf2a",
+        "id": "5a04006279263643",
         "type": "tabs",
         "children": [
           {
-            "id": "c98d06c1ba2cf106",
+            "id": "563f2cf40b747059",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf"
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Planning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf"
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Planning.md"
               }
             }
           },
@@ -163,13 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c98d06c1ba2cf106",
+  "active": "563f2cf40b747059",
   "lastOpenFiles": [
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Exam.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
+    "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Generic skills/Research.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Planning.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Exam.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other",
     "02.Programming/AWS Solution Architect Associate/Passpaper",
@@ -187,12 +190,10 @@
     "05. Finance/五本最實用嘅投資書 --阿豬",
     "01.Productivity/Physiologic/Focus/Brain Drain The Mere Presence of One’s Own.pdf",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
-    "05. Finance",
     "02.Programming/Other/CSS Debug.md",
     "z.Images/Pasted image 20230601134226.png",
     "z.Images/Pasted image 20230601134215.png",
     "Mottos/mottos to life.md",
-    "02.Programming/Others",
     "02.Programming/JavaScript/Node.JS Multithreading.md",
     "z.Images/Pasted image 20230601132126.png",
     "z.Images/Pasted image 20230601132040.png",
@@ -207,7 +208,6 @@
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "01.Productivity/Physiologic/Diet/Intermittent fasting.md",
-    "01.Productivity/About Productivity.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
