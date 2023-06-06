@@ -11,9 +11,11 @@
             "id": "c98d06c1ba2cf106",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02.Programming/AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf"
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf"
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md"
               }
             }
           },
@@ -174,8 +176,8 @@
   },
   "active": "c98d06c1ba2cf106",
   "lastOpenFiles": [
-    "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
     "02.Programming/AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
     "02.Programming/AWS Solution Architect Associate/other",
     "02.Programming/AWS Solution Architect Associate/Outline Planning.md",
     "02.Programming/AWS Solution Architect Associate/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md",
