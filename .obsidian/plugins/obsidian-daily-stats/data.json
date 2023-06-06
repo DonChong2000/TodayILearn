@@ -17,12 +17,21 @@
     "2023/4/28": 443,
     "2023/4/31": 0,
     "2023/5/1": 891,
-    "2023/5/3": 58
+    "2023/5/3": 58,
+    "2023/5/5": 140
   },
   "todaysWordCount": {
-    "Living Skills/Cooking/煎薄罉.md": {
-      "initial": 41,
-      "current": 99
+    "02.Programming/AWS Solution Architect Associate/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md": {
+      "initial": 1,
+      "current": 129
+    },
+    "02.Programming/AWS Solution Architect Associate/Outline Planning.md": {
+      "initial": 0,
+      "current": 12
+    },
+    "02.Programming/AWS Solution Architect Associate/Outline AWS.md": {
+      "initial": 298,
+      "current": 298
     }
   }
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/煎薄罉.md",
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/煎薄罉.md",
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/煎薄罉.md",
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/煎薄罉.md"
+                "file": "02.Programming/AWS Solution Architect Associate/Outline AWS.md"
               }
             }
           },
@@ -176,8 +176,13 @@
   },
   "active": "c98d06c1ba2cf106",
   "lastOpenFiles": [
-    "02.Programming/Other/click all buttons on page javascript.md",
+    "02.Programming/AWS Solution Architect Associate/Outline Planning.md",
+    "02.Programming/AWS Solution Architect Associate/Outline AWS.md",
+    "02.Programming/AWS Solution Architect Associate/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md",
+    "02.Programming/AWS Solution Architect Associate/Passpaper",
     "Living Skills/Cooking/煎薄罉.md",
+    "02.Programming/AWS Solution Architect Associate",
+    "02.Programming/Other/click all buttons on page javascript.md",
     "02.Programming/00. Leetcode/206. Reverse Linked List.md",
     "02.Programming/00. Leetcode/206. Reverse Linked List.md.part",
     "02.Programming/00. Leetcode/70. Climbing Stairs.md.part",
@@ -198,11 +203,9 @@
     "Mottos/YouTuber Makes Elon Musk CHANGE Rocket Design #shorts.mp4",
     "Mottos",
     "02.Programming/JavaScript/Node.JS Multithreading.md",
-    "Living Skills/Heallth",
     "z.Images/Pasted image 20230601132126.png",
     "z.Images/Pasted image 20230601132040.png",
     "02.Programming/JavaScript/JavaScript Tricks.md",
-    "02.Programming/JavaScript",
     "02.Programming/00. Leetcode/278. First Bad Version.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
@@ -216,9 +219,6 @@
     "01.Productivity/About Productivity.md",
     "01.Productivity/Using Computer/Start a new tab by spotlight.md",
     "01.Productivity/Physiologic/Neurochemicals/Dopamine.md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine triphosphate (ATP).md",
-    "01.Productivity/Physiologic/Neurochemicals/Adenosine.md",
-    "01.Productivity/Physiologic/Diet/Superfood.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
