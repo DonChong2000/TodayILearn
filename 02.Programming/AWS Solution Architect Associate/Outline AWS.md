@@ -1,4 +1,8 @@
-**Domain 1: Design Resilient Architectures - 30%**
+
+
+
+**Domain 1: Design Resilient Arc
+hitectures - 30%**
 這個章節要我們了解如何創建有效率的架構，利用 AWS 的基礎資源，如 EC2, VPC, RDS, S3 等，最好的練習是知道何時需要這些架構，建議閱讀 AWS Well-Architected Framework 了解更多。
 
 **Domain 2: Design High-Performing Architectures — 28%**
