@@ -1,4 +1,4 @@
- - Multiple choice and Multiple response (multiple correct ans) only
+ - Multiple choice and Multiple response (2 of 5 correct) only
  - no penalty for guessing
  - Total 65 questions, 15 unscored questions but not identified
  - Pass or fail exam

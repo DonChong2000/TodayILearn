@@ -18,36 +18,17 @@
     "2023/4/31": 0,
     "2023/5/1": 891,
     "2023/5/3": 58,
-    "2023/5/5": 280
+    "2023/5/5": 280,
+    "2023/5/6": 5
   },
   "todaysWordCount": {
-    "02.Programming/AWS Solution Architect Associate/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md": {
-      "initial": 1,
-      "current": 129
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Exam.md": {
+      "initial": 332,
+      "current": 335
     },
-    "02.Programming/AWS Solution Architect Associate/Outline Planning.md": {
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02 Fundamentals.md": {
       "initial": 0,
-      "current": 21
-    },
-    "02.Programming/AWS Solution Architect Associate/Outline AWS.md": {
-      "initial": 298,
-      "current": 331
-    },
-    "02.Programming/AWS Solution Architect Associate/Outline Exam.md": {
-      "initial": 331,
-      "current": 334
-    },
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Planning.md": {
-      "initial": 29,
-      "current": 55
-    },
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/Untitled.md": {
-      "initial": 54,
-      "current": 55
-    },
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/AWS Certified Solutions Architect — Associate (SAA)介紹以及準備心得.md": {
-      "initial": 55,
-      "current": 123
+      "current": 2
     }
   }
 }
