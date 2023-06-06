@@ -11,3 +11,4 @@ First week all in First Domain: Design Resilient Architectures
  
 
 # Exam Detail
+- 150 USD
