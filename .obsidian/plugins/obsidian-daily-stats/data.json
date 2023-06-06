@@ -10,13 +10,22 @@
     "2023/4/18": 186,
     "2023/4/20": 3,
     "2023/4/21": 977,
-    "2023/4/22": 0,
-    "2023/4/23": 435
+    "2023/4/23": 0,
+    "2023/4/24": 1636,
+    "2023/4/26": 71,
+    "2023/4/27": 1587,
+    "2023/4/28": 443,
+    "2023/4/31": 0,
+    "2023/5/1": 187
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/141. Linked List Cycle.md": {
-      "initial": 42,
-      "current": 477
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
+      "initial": 197,
+      "current": 384
+    },
+    "02.Programming/00. Leetcode/278. First Bad Version.md": {
+      "initial": 40,
+      "current": 40
     }
   }
 }
