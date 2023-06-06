@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02 Fundamentals.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02 Fundamentals.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02 Fundamentals.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02 Fundamentals.md"
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "563f2cf40b747059",
   "lastOpenFiles": [
+    "z.Images/Pasted image 20230606140432.png",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Planning/Outline Planning.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
@@ -174,7 +177,6 @@
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Planning/Outline Exam.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Planning/AWS Certified Solutions Architect — Associate (SAA)介紹以及準備心得.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02 Fundamentals.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
@@ -208,7 +210,6 @@
     "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
     "z.Template/leetcode Note.md",
     "conflict-files-obsidian-git.md",
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "z.Images/Pasted image 20230527043422.png",
     "z.Images/Pasted image 20230527043334.png",
     "z.Images/Pasted image 20230527032159.png",
