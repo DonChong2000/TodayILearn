@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -179,6 +178,7 @@
   },
   "active": "563f2cf40b747059",
   "lastOpenFiles": [
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
     "z.Images/Pasted image 20230606142042.png",
