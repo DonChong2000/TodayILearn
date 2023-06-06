@@ -1,9 +1,8 @@
  - Multiple choice and Multiple response (multiple correct ans) only
  - no penalty for guessing
- - 15 unscored questions but not identified
+ - Total 65 questions, 15 unscored questions but not identified
  - Pass or fail exam
- - Score from 100-1000, passing is 720+, 80
-
+ - Score from 100-1000, passing is 720+, 80% up]
 
 **Domain 1: Design Resilient Arc
 hitectures - 30%**
