@@ -19,7 +19,7 @@
     "2023/5/1": 891,
     "2023/5/3": 58,
     "2023/5/5": 280,
-    "2023/5/6": 151
+    "2023/5/6": 202
   },
   "todaysWordCount": {
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Outline Exam.md": {
@@ -32,7 +32,11 @@
     },
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md": {
       "initial": 23,
-      "current": 148
+      "current": 168
+    },
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md": {
+      "initial": 36,
+      "current": 67
     }
   }
 }
