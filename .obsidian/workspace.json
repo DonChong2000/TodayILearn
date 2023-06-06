@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md"
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md"
               }
             }
           },
@@ -179,9 +179,10 @@
   },
   "active": "667df07c5fa0be05",
   "lastOpenFiles": [
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
     "z.Images/Pasted image 20230606142042.png",
     "z.Images/Pasted image 20230606141203.png",
     "z.Images/Pasted image 20230606140432.png",
