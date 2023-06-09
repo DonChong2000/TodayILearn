@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3f3fa34323bfb78",
+            "id": "0684b530a5bc4db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md"
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md"
               }
             }
           },
@@ -165,13 +164,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3f3fa34323bfb78",
+  "active": "0684b530a5bc4db7",
   "lastOpenFiles": [
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/2. Reframing Goals to Actions.md",
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)",
+    "HG-Meditation/Practise/0. Index and Notes.md",
+    "HG-Meditation/Practise/5. Tratake (Fixed Point Gazing).pdf",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
+    "HG-Meditation/Practise/6. Yantra (Internal Trataka).md",
+    "HG-Meditation/Practise/5. Tratake (Fixed Point Gazing).md",
+    "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/Untitled.md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/2. Reframing Goals to Actions.md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)",
     "HG-Meditation/6. Different Path.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
@@ -192,9 +197,7 @@
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Generic skills/Research.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other",
-    "02.Programming/AWS Solution Architect Associate/Passpaper",
     "Living Skills/Cooking/煎薄罉.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate",
     "02.Programming/Other/click all buttons on page javascript.md",
     "02.Programming/00. Leetcode/206. Reverse Linked List.md",
     "z.Images/Pasted image 20230601164327.png",
@@ -206,13 +209,8 @@
     "02.Programming/Other/CSS Debug.md",
     "z.Images/Pasted image 20230601134226.png",
     "z.Images/Pasted image 20230601134215.png",
-    "Mottos/mottos to life.md",
-    "02.Programming/JavaScript/Node.JS Multithreading.md",
     "z.Images/Pasted image 20230601132126.png",
     "z.Images/Pasted image 20230601132040.png",
-    "02.Programming/JavaScript/JavaScript Tricks.md",
-    "02.Programming/00. Leetcode/278. First Bad Version.md",
-    "02.Programming/00. Leetcode/2. Add two numbers.md",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",

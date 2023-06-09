@@ -2,12 +2,20 @@
   "dayCounts": {
     "2023/5/6": 257,
     "2023/5/8": 0,
-    "2023/5/9": 160
+    "2023/5/9": 177
   },
   "todaysWordCount": {
     "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md": {
       "initial": 0,
-      "current": 160
+      "current": 167
+    },
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md": {
+      "initial": 167,
+      "current": 177
+    },
+    "HG-Meditation/Practise/0. Index and Notes.md": {
+      "initial": 381,
+      "current": 381
     }
   }
 }
