@@ -1,20 +1,13 @@
 {
   "dayCounts": {
     "2023/5/6": 257,
-    "2023/5/8": 0
+    "2023/5/8": 0,
+    "2023/5/9": 23
   },
   "todaysWordCount": {
-    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha).md": {
-      "initial": 413,
-      "current": 413
-    },
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/Path of Accomplishmnet (Siddhi Padha).md": {
-      "initial": 336,
-      "current": 19
-    },
-    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md": {
-      "initial": 19,
-      "current": 19
+    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md": {
+      "initial": 0,
+      "current": 23
     }
   }
 }
