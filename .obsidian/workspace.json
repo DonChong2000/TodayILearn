@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aed3e672f63a6e30",
+        "id": "869db231e70e4034",
         "type": "tabs",
         "children": [
           {
-            "id": "0684b530a5bc4db7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HG-Meditation/Practise/5.2 Notes - Yantra.pdf"
-              }
-            }
-          },
-          {
-            "id": "529a72e844d1a51c",
+            "id": "14273bdfab73a210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md"
+                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md"
               }
             }
           },
@@ -175,12 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "529a72e844d1a51c",
+  "active": "14273bdfab73a210",
   "lastOpenFiles": [
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3 (conflicted).md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md.part",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
+    "HG-Meditation/Practise/0. Index and Notes.md",
     "z.Images/Pasted image 20230609005120.png",
     "HG-Meditation/Practise/5.1 Tratake (Fixed Point Gazing).pdf",
     "HG-Meditation/Practise/5.2 Notes - Yantra.pdf",
-    "HG-Meditation/Practise/0. Index and Notes.md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
     "HG-Meditation/Practise/6. Yantra (Internal Trataka).md",
@@ -206,7 +199,6 @@
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/Planning/AWS Certified Solutions Architect — Associate (SAA)介紹以及準備心得.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
-    "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Generic skills/Research.md",
     "Living Skills/Cooking/煎薄罉.md",
@@ -218,11 +210,9 @@
     "05. Finance/五本最實用嘅投資書 --阿豬/五本最實用嘅投資書 --阿豬.md",
     "Living Skills/Heallth/肌肉的構成與訓練方法.md",
     "Generic skills/Learning/Why Don't We Learn From Our Mistakes/0. Why Don't We Learn From Our Mistakes.md",
-    "02.Programming/Other/CSS Debug.md",
     "z.Images/Pasted image 20230601134226.png",
     "z.Images/Pasted image 20230601134215.png",
     "z.Images/Pasted image 20230601132126.png",
-    "z.Images/Pasted image 20230601132040.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
