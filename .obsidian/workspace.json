@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a04006279263643",
+        "id": "aed3e672f63a6e30",
         "type": "tabs",
         "children": [
           {
-            "id": "563f2cf40b747059",
+            "id": "b3f3fa34323bfb78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "667df07c5fa0be05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
+                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
+                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
+                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md"
+                "file": "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md"
               }
             }
           },
@@ -178,11 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "667df07c5fa0be05",
+  "active": "b3f3fa34323bfb78",
   "lastOpenFiles": [
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
+    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
+    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
+    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/2. Reframing Goals to Actions.md",
+    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
+    "HG-Meditation/Practise/Path of Accomplishmnet (Siddhi Padha)",
+    "HG-Meditation/6. Different Path.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "z.Images/Pasted image 20230606142042.png",
     "z.Images/Pasted image 20230606141203.png",
@@ -204,7 +197,6 @@
     "02.Programming/SAA-C03 AWS Solution Architect Associate",
     "02.Programming/Other/click all buttons on page javascript.md",
     "02.Programming/00. Leetcode/206. Reverse Linked List.md",
-    "02.Programming/00. Leetcode/206. Reverse Linked List.md.part",
     "z.Images/Pasted image 20230601164327.png",
     "z.Images/Pasted image 20230601164323.png",
     "z.Images/Pasted image 20230601164203.png",
@@ -221,11 +213,6 @@
     "02.Programming/JavaScript/JavaScript Tricks.md",
     "02.Programming/00. Leetcode/278. First Bad Version.md",
     "02.Programming/00. Leetcode/2. Add two numbers.md",
-    "02.Programming/00. Leetcode/20. Valid Parentheses.md",
-    "02.Programming/00. Leetcode/226. Invert Binary Tree.md",
-    "02.Programming/00. Leetcode/141.  Linked List Cycle.md",
-    "z.Template/leetcode Note.md",
-    "conflict-files-obsidian-git.md",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
