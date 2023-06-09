@@ -11,11 +11,9 @@
             "id": "0684b530a5bc4db7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HG-Meditation/Practise/0. Index and Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "HG-Meditation/Practise/5.2 Notes - Yantra.pdf"
               }
             }
           },
@@ -23,13 +21,16 @@
             "id": "529a72e844d1a51c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Practise/5. Tratake (Fixed Point Gazing).pdf"
+                "file": "HG-Meditation/Practise/0. Index and Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,9 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0684b530a5bc4db7",
+  "active": "529a72e844d1a51c",
   "lastOpenFiles": [
-    "HG-Meditation/Practise/5. Tratake (Fixed Point Gazing).pdf",
+    "z.Images/Pasted image 20230609005120.png",
+    "HG-Meditation/Practise/5.1 Tratake (Fixed Point Gazing).pdf",
+    "HG-Meditation/Practise/5.2 Notes - Yantra.pdf",
     "HG-Meditation/Practise/0. Index and Notes.md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
@@ -206,7 +209,6 @@
     "01.Productivity/Physiologic/Sleep/Paper/Effects of Evening Tablet Use on Sleep and Alertness.pdf",
     "01.Productivity/Physiologic/Sleep/Why You're Always Tired - 7 Myths Ruining Your Sleep.md",
     "Generic skills/Research.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/other",
     "Living Skills/Cooking/煎薄罉.md",
     "02.Programming/Other/click all buttons on page javascript.md",
     "02.Programming/00. Leetcode/206. Reverse Linked List.md",
