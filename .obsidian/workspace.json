@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "290aec5a5b1c87d4",
+        "id": "b0a286f3e1090bda",
         "type": "tabs",
         "children": [
           {
-            "id": "647e0b6693fa70d5",
+            "id": "a9eb3688236d974e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "647e0b6693fa70d5",
+  "active": "a9eb3688236d974e",
   "lastOpenFiles": [
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
     "z.Images/Pasted image 20230609134859.png",
