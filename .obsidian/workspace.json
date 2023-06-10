@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "869db231e70e4034",
+        "id": "290aec5a5b1c87d4",
         "type": "tabs",
         "children": [
           {
-            "id": "14273bdfab73a210",
+            "id": "647e0b6693fa70d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,13 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14273bdfab73a210",
+  "active": "647e0b6693fa70d5",
   "lastOpenFiles": [
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
     "z.Images/Pasted image 20230609134859.png",
     "z.Images/Pasted image 20230609132327.png",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3 (conflicted).md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md.part",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
     "HG-Meditation/Practise/0. Index and Notes.md",
     "z.Images/Pasted image 20230609005120.png",
     "HG-Meditation/Practise/5.1 Tratake (Fixed Point Gazing).pdf",
@@ -212,7 +204,6 @@
     "05. Finance/五本最實用嘅投資書 --阿豬/五本最實用嘅投資書 --阿豬.md",
     "Living Skills/Heallth/肌肉的構成與訓練方法.md",
     "z.Images/Pasted image 20230601134226.png",
-    "z.Images/Pasted image 20230601134215.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
