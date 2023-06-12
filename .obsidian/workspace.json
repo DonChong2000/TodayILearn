@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "1bbde5f620e14cd9",
   "lastOpenFiles": [
     "05. Finance/Decision History",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",

@@ -10,4 +10,6 @@
 
 # 5. 所有投資都要假設最壞結果，並且能接受最壞結果
 
-# 6. 
+# 6. 投入資本設立界限
+REF: [淨係倉位控制已可提高回報！專業股票交易員必修課 - YouTube](https://www.youtube.com/watch?v=YVBflwKUC2M&list=PLUcrJF0zjMSBYJXCPyOuvo7Y1y5-9fFSR&index=23&ab_channel=%E9%98%BF%E8%B1%ACAhJu)
+REF: [The "Just One More" Paradox - YouTube](https://www.youtube.com/watch?v=_FuuYSM7yOo&ab_channel=MarcinAnforowicz)
