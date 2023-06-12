@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
+                "file": "05. Finance/Rule of Conduct.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
+                "file": "05. Finance/Rule of Conduct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
+                "file": "05. Finance/Rule of Conduct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md"
+                "file": "05. Finance/Rule of Conduct.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "1bbde5f620e14cd9",
   "lastOpenFiles": [
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
+    "05. Finance/Rule of Conduct.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3 (conflicted).md",
     "Living Skills/剪頭髮.md",
     "z.Images/Pasted image 20230609134859.png",
@@ -211,7 +212,6 @@
     "z.Images/Pasted image 20230601164327.png",
     "z.Images/Pasted image 20230601164323.png",
     "z.Images/Pasted image 20230601164203.png",
-    "05. Finance/五本最實用嘅投資書 --阿豬/五本最實用嘅投資書 --阿豬.md",
     "z.Images/Pasted image 20230601134226.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
