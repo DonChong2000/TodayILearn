@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -165,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bbde5f620e14cd9",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "05. Finance/Decision History",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
     "05. Finance/Rule of Conduct.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
@@ -208,7 +208,6 @@
     "Generic skills/Research.md",
     "Living Skills/Cooking/煎薄罉.md",
     "02.Programming/Other/click all buttons on page javascript.md",
-    "02.Programming/00. Leetcode/206. Reverse Linked List.md",
     "z.Images/Pasted image 20230601164327.png",
     "z.Images/Pasted image 20230601164323.png",
     "z.Images/Pasted image 20230601164203.png",
