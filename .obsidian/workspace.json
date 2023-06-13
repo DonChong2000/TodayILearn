@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dhama",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bbde5f620e14cd9",
+  "active": "23ed05f803672778",
   "lastOpenFiles": [
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2 (conflicted).md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
