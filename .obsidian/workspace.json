@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -168,11 +167,14 @@
   "active": "1bbde5f620e14cd9",
   "lastOpenFiles": [
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2 (conflicted).md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
+    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md.part",
     "05. Finance/Rule of Conduct.md",
     "05. Finance/Decision History",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3 (conflicted).md",
     "Living Skills/剪頭髮.md",
     "z.Images/Pasted image 20230609134859.png",
@@ -192,9 +194,6 @@
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)",
     "HG-Meditation/6. Different Path.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/02. Fundamentals.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/03. IAM.md",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/0. Glossary.md",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "z.Images/Pasted image 20230606142042.png",
     "z.Images/Pasted image 20230606141203.png",
