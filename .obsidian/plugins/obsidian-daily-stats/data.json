@@ -5,16 +5,13 @@
     "2023/5/9": 1091,
     "2023/5/10": 43,
     "2023/5/11": 200,
-    "2023/5/12": 1311
+    "2023/5/12": 1311,
+    "2023/5/16": 0
   },
   "todaysWordCount": {
-    "05. Finance/Rule of Conduct.md": {
-      "initial": 0,
-      "current": 243
-    },
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md": {
-      "initial": 201,
-      "current": 1269
+    "05. Finance/五本最實用嘅投資書 --阿豬/漫步華爾街 A Random Walk Down Wall Street.md": {
+      "initial": 85,
+      "current": 85
     }
   }
 }
