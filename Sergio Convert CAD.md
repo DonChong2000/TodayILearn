@@ -15,5 +15,13 @@ Content: Pay Rent and others (listed), then convert the rest to CAD
 
 # 3. Since bank limit
 Will transfer by blocks
-Don: 2000+2000+1078.7 (CAD)
-Sergio: 10000+10000+10000+5000
+Don: (CAD)
+2000 Sent
+2000
+1078.7
+
+Sergio: 
+10000
+10000
+10000
+5000
