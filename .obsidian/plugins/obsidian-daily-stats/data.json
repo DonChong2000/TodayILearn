@@ -7,12 +7,13 @@
     "2023/5/11": 200,
     "2023/5/12": 1311,
     "2023/5/16": 0,
-    "2023/7/3": 80
+    "2023/7/3": 80,
+    "2023/7/7": 3
   },
   "todaysWordCount": {
-    "Sergio Convert CAD.md": {
-      "initial": 2,
-      "current": 82
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/03 Azure Administration.md": {
+      "initial": 0,
+      "current": 3
     }
   }
 }
