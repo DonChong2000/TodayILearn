@@ -1,11 +1,19 @@
 # Azure Resource Manager
 
-We can access ARM by Azure portal, Azure CLI, and ?? to access ARM through **REST API**.
+We can access ARM by Azure Portal, Azure CLI, and Azure PowerShell to access ARM through **REST API**.
 
 Smallest unit: Resources
 - e.g. VM, storages accounts...
 - Each resources has a resources provider
-Resources < Resources Group < Subscription < Azure Resources Manager (ARM). 
 
-- Azure ensure only tanant with trust relation can intereact with subscription
+Resources < Resources Group < Subscription < Azure Resources Manager (ARM). 
+![](../../../z.Images/Pasted%20image%2020230807173024.png)
+
+A subscription can only have a relationship with one Tenant at a time,
+which make sure only we have access to ARM
+
+
+# Using Azure Portal and Portal Cloud Shell
+
+
 
