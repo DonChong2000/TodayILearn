@@ -10,10 +10,10 @@ Resources < Resources Group < Subscription < Azure Resources Manager (ARM).
 ![](../../../z.Images/Pasted%20image%2020230807173024.png)
 
 A subscription can only have a relationship with one Tenant at a time,
-which make sure only we have access to ARM
+which make sure only we have access to ARM (By AD identity)
 
 
 # Using Azure Portal and Portal Cloud Shell
-
+- We use Azure AD to login to Azure
 
 
