@@ -15,5 +15,6 @@ which make sure only we have access to ARM (By AD identity)
 
 # Using Azure Portal and Portal Cloud Shell
 - We use Azure AD to login to Azure
+- Since Powershell is Object Oriented, we can script our environment install process
 
 
