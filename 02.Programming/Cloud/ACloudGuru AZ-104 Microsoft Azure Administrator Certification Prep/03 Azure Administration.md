@@ -21,3 +21,8 @@ which make sure only we have access to ARM (By AD identity)
 
 # Using ARM Templates
 
+ARM template 
+- Declarative JSON (Infrastructure as Code)
+- We can use it to Quickly deploy repeatable and modular enviroments
+- Skeleton template
+- ![](../../../z.Images/Pasted%20image%2020230807191831.png)
