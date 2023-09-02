@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+                "file": "HG-Meditation/6. Different Path.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "17594ba4521e2a5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5026054382324,
-    "collapsed": true
+    "width": 292.5026054382324
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+                "file": "HG-Meditation/6. Different Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+                "file": "HG-Meditation/6. Different Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md"
+                "file": "HG-Meditation/6. Different Path.md"
               }
             }
           },
@@ -165,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13a2ea2bb0322892",
+  "active": "17594ba4521e2a5f",
   "lastOpenFiles": [
+    "HG-Meditation/5. Metaphysics of Meditation.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/03 Azure Administration.md",
     "02.Programming/VS Code Tricks.md",
@@ -209,7 +220,6 @@
     "HG-Meditation/Practise/6. Yantra (Internal Trataka).md",
     "HG-Meditation/Practise/5. Tratake (Fixed Point Gazing).md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/Untitled.md",
-    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)",
     "z.Images/Pasted image 20230606142042.png",
     "z.Images/Pasted image 20230606141203.png",
