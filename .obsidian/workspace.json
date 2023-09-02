@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5026054382324
+    "width": 292.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md"
+                "file": "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md"
               }
             }
           },
@@ -166,6 +167,7 @@
   },
   "active": "13a2ea2bb0322892",
   "lastOpenFiles": [
+    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
     "HG-Meditation/6. Different Path.md",
     "HG-Meditation/5. Metaphysics of Meditation.md",
@@ -208,7 +210,6 @@
     "HG-Meditation/Practise/5.2 Notes - Yantra.pdf",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
-    "HG-Meditation/Practise/6. Yantra (Internal Trataka).md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)",
     "z.Images/Pasted image 20230606142042.png",
     "z.Images/Pasted image 20230606141203.png",
