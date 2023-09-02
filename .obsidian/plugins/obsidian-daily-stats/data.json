@@ -11,12 +11,16 @@
     "2023/7/7": 137,
     "2023/7/23": 324,
     "2023/7/29": 122,
-    "2023/8/2": 91
+    "2023/8/2": 103
   },
   "todaysWordCount": {
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md": {
       "initial": 19,
       "current": 110
+    },
+    "HG-Meditation/Path of Self (Atman Padha).md": {
+      "initial": 1,
+      "current": 13
     }
   }
 }
