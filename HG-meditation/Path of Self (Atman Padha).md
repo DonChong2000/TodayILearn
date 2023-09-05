@@ -41,5 +41,7 @@ Confidence comes from surviving failure.
 Ego is who we are from others eyes. 
 Ego grows when we compare ourself to others
 
+conclusion: Spend less time on social media, since it encourage comparison, and let everyone take part in every part in your life.
+
 
 #HG
