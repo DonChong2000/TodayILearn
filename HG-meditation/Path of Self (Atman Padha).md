@@ -38,7 +38,8 @@ Most important key to successi take care of yoursekf, optimise the 5 layers. How
 Confidence is the ability to dealing with uncertainty
 Confidence comes from surviving failure.
 
-
+Ego is who we are from others eyes. 
+Ego grows when we compare ourself to others
 
 
 #HG
