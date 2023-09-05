@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HG-Meditation/Path of Self (Atman Padha).md",
+                "file": "HG-Meditation/Take away.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HG-Meditation/Path of Self (Atman Padha).md",
+                "file": "HG-Meditation/Take away.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HG-Meditation/Path of Self (Atman Padha).md",
+                "file": "HG-Meditation/Take away.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HG-Meditation/Path of Self (Atman Padha).md"
+                "file": "HG-Meditation/Take away.md"
               }
             }
           },
@@ -167,6 +166,8 @@
   },
   "active": "13a2ea2bb0322892",
   "lastOpenFiles": [
+    "HG-Meditation/Path of Self (Atman Padha).md",
+    "HG-Meditation/Take away.md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/0. Path of Accomplishmnet (Siddhi Padha).md",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
     "HG-Meditation/6. Different Path.md",
@@ -204,11 +205,9 @@
     "z.Images/Pasted image 20230609134859.png",
     "z.Images/Pasted image 20230609132327.png",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md.part",
-    "HG-Meditation/Practise/0. Index and Notes.md",
     "z.Images/Pasted image 20230609005120.png",
     "HG-Meditation/Practise/5.1 Tratake (Fixed Point Gazing).pdf",
     "HG-Meditation/Practise/5.2 Notes - Yantra.pdf",
-    "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/3. Origin of Motivation.md",
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)",
     "z.Images/Pasted image 20230606142042.png",
