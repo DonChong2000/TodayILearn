@@ -36,4 +36,7 @@ Most important key to successi take care of yoursekf, optimise the 5 layers. How
 
 # 3. Confidence vs. Ego
 
+
+
+
 #HG
