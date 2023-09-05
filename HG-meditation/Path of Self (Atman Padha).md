@@ -21,9 +21,14 @@ Most important key to successi take care of yoursekf, optimise the 5 layers. How
 	2. Sun Exposure
 	3. Exercise and diet, Eat one extra vege/fruit a day
 2. Energy
-	1. Do Pranayama or breathing practices
-3. Emotion,
-4. Intellectual,
+	1. Do Pranayama breathing practices and Yoga
+3. Emotion
+	1. Psychotherapy
+	2. Any self-reflecting activity, e.g. time in nature, journaling, meditation. Or try to create influences that are emotionally supportive and positive
+4. Intellectual
+	1. Do Pratyahara
+	2. Reading and do intellectually stimulating things
+	3. Expose yourself to new i
 5. Spiritual,
 
 # 3. Confidence vs. Ego
