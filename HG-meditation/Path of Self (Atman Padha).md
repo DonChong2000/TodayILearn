@@ -8,7 +8,7 @@ The experiencer within you.
 The more we become centered in that witnesser, the more content we are.
 # 2. Panchakosha Theroy
 
-We are 
+Human being made of 5 layer pancha (five) kosha(layer)
 
 # 3. Confidence vs. Ego
 
