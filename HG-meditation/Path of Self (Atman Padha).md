@@ -16,8 +16,12 @@ Human being made of 5 layer pancha (five) kosha(layer).
 5. Spiritual (anandamaya)
 
 Most important key to successi take care of yoursekf, optimise the 5 layers. How?
-1. Physical, Do Suryo namaskara yoga
-2. Energy,
+1. Physical
+	1. Do Suryo namaskara yoga
+	2. Sun Exposure
+	3. Exercise and diet, Eat one extra vege/fruit a day
+2. Energy
+	1. Do Pranayama or breathing practices
 3. Emotion,
 4. Intellectual,
 5. Spiritual,
