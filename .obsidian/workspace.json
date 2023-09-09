@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5086555480957,
-    "collapsed": true
+    "width": 331.5086555480957
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md"
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md"
               }
             }
           },
@@ -167,6 +166,8 @@
   },
   "active": "13a2ea2bb0322892",
   "lastOpenFiles": [
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
     "HG-Meditation/Take away.md",
     "HG-Meditation/Path of Self (Atman Padha).md",
@@ -174,7 +175,6 @@
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)/1. Karma Fal.md",
     "HG-Meditation/6. Different Path.md",
     "HG-Meditation/5. Metaphysics of Meditation.md",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/03 Azure Administration.md",
     "02.Programming/VS Code Tricks.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/Untitled",
@@ -202,7 +202,6 @@
     "05. Finance/Rule of Conduct.md",
     "05. Finance/Decision History",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3 (conflicted).md",
-    "Living Skills/剪頭髮.md",
     "z.Images/Pasted image 20230609134859.png",
     "z.Images/Pasted image 20230609132327.png",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md.part",
