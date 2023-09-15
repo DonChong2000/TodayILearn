@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58fc6e7971ad6df9",
+        "id": "b8e5340be3c6f493",
         "type": "tabs",
         "children": [
           {
-            "id": "13a2ea2bb0322892",
+            "id": "7ad95e8c84ca484c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC (Role Base Access Control).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC (Role Base Access Control).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC (Role Base Access Control).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md"
+                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC (Role Base Access Control).md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13a2ea2bb0322892",
+  "active": "7ad95e8c84ca484c",
   "lastOpenFiles": [
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC (Role Base Access Control).md",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md",
     "HG-Meditation/Take away.md",
     "HG-Meditation/Path of Self (Atman Padha).md",
@@ -178,7 +180,6 @@
     "HG-Meditation/5. Metaphysics of Meditation.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/03 Azure Administration.md",
     "02.Programming/VS Code Tricks.md",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/Untitled",
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",
     "02.Programming/Cloud",
@@ -202,7 +203,6 @@
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md.part",
     "05. Finance/Rule of Conduct.md",
     "05. Finance/Decision History",
-    "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3 (conflicted).md",
     "z.Images/Pasted image 20230609134859.png",
     "z.Images/Pasted image 20230609132327.png",
     "02.Programming/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/04. S3.md.part",
