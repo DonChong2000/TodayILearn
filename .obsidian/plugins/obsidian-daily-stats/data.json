@@ -14,7 +14,7 @@
     "2023/8/2": 103,
     "2023/8/5": 216,
     "2023/8/9": 94,
-    "2023/8/14": 19
+    "2023/8/14": 31
   },
   "todaysWordCount": {
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md": {
@@ -27,7 +27,11 @@
     },
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC (Role Base Access Control).md": {
       "initial": 0,
-      "current": 19
+      "current": 30
+    },
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md": {
+      "initial": 36,
+      "current": 37
     }
   }
 }
