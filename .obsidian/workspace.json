@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e5340be3c6f493",
+        "id": "1131a48ee41cb8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad95e8c84ca484c",
+            "id": "8a0a204570d5291c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e757cb41c0b7207b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.13"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,6 +147,16 @@
             "state": {
               "type": "stats-tracker",
               "state": {}
+            }
+          },
+          {
+            "id": "9250a5ebbab01815",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -165,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ad95e8c84ca484c",
+  "active": "e757cb41c0b7207b",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20230914235628.png",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
+    "z.Images/Pasted image 20230914235628.png",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/04. Governance and Compliance.md",
@@ -212,7 +225,6 @@
     "HG-Meditation/Practise/4.  Notes - Following the Breath.pdf",
     "HG-Meditation/Path of Accomplishmnet (Siddhi Padha)",
     "z.Images/Pasted image 20230606142042.png",
-    "z.Images/Pasted image 20230606141203.png",
     "TodayILearn.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
