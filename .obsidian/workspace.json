@@ -11,22 +11,15 @@
             "id": "8a0a204570d5291c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e757cb41c0b7207b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5086555480957,
-    "collapsed": true
+    "width": 331.5086555480957
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md"
+              }
             }
           },
           {
@@ -178,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e757cb41c0b7207b",
+  "active": "8a0a204570d5291c",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
     "z.Images/Pasted image 20230914235628.png",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06.RBAC",
