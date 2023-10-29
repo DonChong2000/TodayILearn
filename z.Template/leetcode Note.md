@@ -32,4 +32,4 @@ Code:
 ```js
 
 ```
-Explanation::
+Explanation:

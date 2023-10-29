@@ -1,0 +1,7 @@
+.theme-light {
+    --bold-color: #010F59;
+ }
+ .theme-dark {
+    --bold-color: #8087AB;
+    --bold-weight: 700;
+ }
