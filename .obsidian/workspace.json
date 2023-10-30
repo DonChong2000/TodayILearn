@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/燒肉DIY.md",
+                "file": "Living Skills/Cooking/粟米肉粒飯.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/燒肉DIY.md",
+                "file": "Living Skills/Cooking/粟米肉粒飯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/燒肉DIY.md",
+                "file": "Living Skills/Cooking/粟米肉粒飯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/燒肉DIY.md"
+                "file": "Living Skills/Cooking/粟米肉粒飯.md"
               }
             }
           },
@@ -185,11 +185,12 @@
   },
   "active": "2f75e3d26ef657e7",
   "lastOpenFiles": [
+    "Living Skills/Cooking/燒肉DIY.md",
+    "Living Skills/Cooking/粟米肉粒飯.md",
     "Living Skills/Cooking/Recipe Tech Tree.md",
     "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
     "Living Skills/Cooking/日式照燒雞.md",
     "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
-    "Living Skills/Cooking/燒肉DIY.md",
     "05. Finance/Rule of Conduct.md",
     "Living Skills/剪頭髮.md",
     "02.Programming/00. Leetcode/278. First Bad Version.md",
@@ -222,7 +223,6 @@
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep",
     "02.Programming/Cloud",
