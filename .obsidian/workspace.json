@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
+                "file": "Living Skills/Cooking/燒肉DIY.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
+                "file": "Living Skills/Cooking/燒肉DIY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
+                "file": "Living Skills/Cooking/燒肉DIY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md"
+                "file": "Living Skills/Cooking/燒肉DIY.md"
               }
             }
           },
@@ -185,6 +185,10 @@
   },
   "active": "2f75e3d26ef657e7",
   "lastOpenFiles": [
+    "Living Skills/Cooking/Recipe Tech Tree.md",
+    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
+    "Living Skills/Cooking/日式照燒雞.md",
+    "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
     "Living Skills/Cooking/燒肉DIY.md",
     "05. Finance/Rule of Conduct.md",
     "Living Skills/剪頭髮.md",
@@ -192,8 +196,6 @@
     "Living Skills/Cooking/蕃薯粉.md",
     "Living Skills/Cooking/Pancake.md",
     "Living Skills/Cooking/煎薄罉.md",
-    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
-    "Living Skills/Cooking/日式照燒雞.md",
     "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
@@ -221,8 +223,6 @@
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/03 Azure Administration.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep",
     "02.Programming/Cloud",
