@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/番茄炒蛋.md",
+                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -233,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/番茄炒蛋.md",
+                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/番茄炒蛋.md",
+                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/番茄炒蛋.md"
+                "file": "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md"
               }
             }
           },
@@ -291,16 +290,6 @@
             "state": {
               "type": "stats-tracker",
               "state": {}
-            }
-          },
-          {
-            "id": "41ed3a77d37161bd",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
             }
           }
         ],
@@ -325,17 +314,12 @@
   "active": "f67fa524928d4f6d",
   "lastOpenFiles": [
     "Living Skills/Cooking/BEST 薯蓉.md",
+    "01.Productivity/Methodology/5 steps of working on a project.md",
     "Living Skills/Cooking/粟米肉粒飯.md",
-    "Living Skills/Cooking/蕃薯粉.md",
     "Living Skills/Cooking/番茄炒蛋.md",
-    "Living Skills/Cooking/燒肉DIY.md",
-    "Living Skills/Cooking/煎薄罉.md",
-    "Living Skills/Cooking/日式照燒雞.md",
-    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
-    "Living Skills/Cooking/Recipe Tech Tree.md",
-    "Living Skills/Cooking/Pancake.md",
-    "Living Skills/Cooking/Carbonara.md",
     "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md",
+    "Living Skills/Cooking/日式照燒雞.md",
+    "Living Skills/Cooking/Carbonara.md",
     "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
@@ -362,9 +346,14 @@
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/05. Idendity.md",
+    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/03 Azure Administration.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep",
     "02.Programming/Cloud",
+    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
+    "Living Skills/剪頭髮.md",
     "z.Images/Pasted image 20230403163810.png",
     "z.Images/Pasted image 20230609134859.png",
     "z.Images/Pasted image 20230609132327.png",
