@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/BEST 薯蓉.md",
+                "file": "Living Skills/Cooking/番茄炒蛋.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -232,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/BEST 薯蓉.md",
+                "file": "Living Skills/Cooking/番茄炒蛋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/BEST 薯蓉.md",
+                "file": "Living Skills/Cooking/番茄炒蛋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/BEST 薯蓉.md"
+                "file": "Living Skills/Cooking/番茄炒蛋.md"
               }
             }
           },
@@ -323,8 +324,8 @@
   },
   "active": "f67fa524928d4f6d",
   "lastOpenFiles": [
-    "Living Skills/Cooking/粟米肉粒飯.md",
     "Living Skills/Cooking/BEST 薯蓉.md",
+    "Living Skills/Cooking/粟米肉粒飯.md",
     "Living Skills/Cooking/蕃薯粉.md",
     "Living Skills/Cooking/番茄炒蛋.md",
     "Living Skills/Cooking/燒肉DIY.md",
