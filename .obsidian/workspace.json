@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/粟米肉粒飯.md",
+                "file": "Living Skills/Cooking/BEST 薯蓉.md",
                 "mode": "source",
                 "source": false
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/粟米肉粒飯.md",
+                "file": "Living Skills/Cooking/BEST 薯蓉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/粟米肉粒飯.md",
+                "file": "Living Skills/Cooking/BEST 薯蓉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/粟米肉粒飯.md"
+                "file": "Living Skills/Cooking/BEST 薯蓉.md"
               }
             }
           },
@@ -323,8 +323,9 @@
   },
   "active": "f67fa524928d4f6d",
   "lastOpenFiles": [
-    "Living Skills/Cooking/蕃薯粉.md",
     "Living Skills/Cooking/粟米肉粒飯.md",
+    "Living Skills/Cooking/BEST 薯蓉.md",
+    "Living Skills/Cooking/蕃薯粉.md",
     "Living Skills/Cooking/番茄炒蛋.md",
     "Living Skills/Cooking/燒肉DIY.md",
     "Living Skills/Cooking/煎薄罉.md",
@@ -360,7 +361,6 @@
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep/06. RBAC (Role Base Access Control).md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate",
     "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep",
     "02.Programming/Cloud",
