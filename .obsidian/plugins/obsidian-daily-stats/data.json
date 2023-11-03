@@ -17,12 +17,16 @@
     "2023/9/18": 65,
     "2023/9/26": 0,
     "2023/9/28": 0,
-    "2023/10/3": 142
+    "2023/10/3": 149
   },
   "todaysWordCount": {
     "02.Programming/00. Leetcode/70. Climbing Stairs.md": {
       "initial": 108,
-      "current": 250
+      "current": 257
+    },
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
+      "initial": 385,
+      "current": 385
     }
   }
 }

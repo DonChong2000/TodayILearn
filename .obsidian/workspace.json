@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5c963087ec9e1e",
+        "id": "4489c525506bec90",
         "type": "tabs",
         "children": [
           {
-            "id": "81d8d1bf83a81ae7",
+            "id": "f0d5de1db2c5a06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/70. Climbing Stairs.md"
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md"
               }
             }
           },
@@ -182,8 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81d8d1bf83a81ae7",
+  "active": "f0d5de1db2c5a06a",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/1. Two Sum.md",
+    "02.Programming/00. Leetcode/2. Add two numbers.md",
+    "02.Programming/00. Leetcode/70. Climbing Stairs.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/206. Reverse Linked List.md",
@@ -213,12 +216,9 @@
     "z.Images/Pasted image 20230803155710.png",
     "HG-meditation/Take away.md",
     "05. Finance/五本最實用嘅投資書 --阿豬/漫步華爾街 A Random Walk Down Wall Street.md",
-    "05. Finance/glossary.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
-    "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning/【考試篇】三個月考過 AWS Solution Architect Associate (SAA-C02)—考試重點與心得、線上考試注意事項.md",
-    "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning/Outline Planning.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
