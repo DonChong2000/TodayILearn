@@ -16,17 +16,16 @@
     "2023/8/15": 34,
     "2023/9/18": 65,
     "2023/9/26": 0,
-    "2023/9/28": 0,
-    "2023/10/3": 149
+    "2023/9/29": 249
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/70. Climbing Stairs.md": {
-      "initial": 108,
-      "current": 257
+    "Living Skills/Cooking/肉醬意粉 Spaghetti Alla Bologonese.md": {
+      "initial": 56,
+      "current": 165
     },
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 385,
-      "current": 385
+    "Living Skills/Cooking/粟米肉粒飯.md": {
+      "initial": 1,
+      "current": 141
     }
   }
 }
