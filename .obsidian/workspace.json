@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Skills/Cooking/湯種.md",
+                "file": "Living Skills/Cooking/港式腸仔包.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Skills/Cooking/湯種.md",
+                "file": "Living Skills/Cooking/港式腸仔包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Skills/Cooking/湯種.md",
+                "file": "Living Skills/Cooking/港式腸仔包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Skills/Cooking/湯種.md"
+                "file": "Living Skills/Cooking/港式腸仔包.md"
               }
             }
           },
@@ -182,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db79febf96255a6e",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
+    "Living Skills/Cooking/湯種.md",
     "z.Images/Pasted image 20231106172328.png",
     "Living Skills/Cooking/港式腸仔包.md",
-    "Living Skills/Cooking/湯種.md",
     "Living Skills/Untitled.md",
     "Living Skills/Cooking/燒肉DIY.md",
     "05. Finance/Rule of Conduct.md",
@@ -228,7 +229,6 @@
     "z.Images/Pasted image 20230403163810.png",
     "z.Images/Pasted image 20230609134859.png",
     "z.Images/Pasted image 20230609132327.png",
-    "z.Images/Pasted image 20230609005120.png",
     "Mottos/YouTuber Makes Elon Musk CHANGE Rocket Design #shorts.mp4",
     "TodayILearn.canvas",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
