@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
+                "file": "02.Programming/00. Leetcode/409. Longest Palindrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
+                "file": "02.Programming/00. Leetcode/409. Longest Palindrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md",
+                "file": "02.Programming/00. Leetcode/409. Longest Palindrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/242. Valid Anagram.md"
+                "file": "02.Programming/00. Leetcode/409. Longest Palindrome.md"
               }
             }
           },
@@ -184,6 +185,8 @@
   },
   "active": "5d67b4af510e2bb5",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/242. Valid Anagram.md",
+    "02.Programming/00. Leetcode/409. Longest Palindrome.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
@@ -216,8 +219,6 @@
     "z.Images/Pasted image 20230803155900.png",
     "z.Images/Pasted image 20230803155756.png",
     "z.Images/Pasted image 20230803155710.png",
-    "HG-meditation/Take away.md",
-    "05. Finance/五本最實用嘅投資書 --阿豬/漫步華爾街 A Random Walk Down Wall Street.md",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",

@@ -17,20 +17,13 @@
     "2023/9/18": 65,
     "2023/9/26": 0,
     "2023/9/29": 249,
-    "2023/10/6": 596
+    "2023/10/6": 596,
+    "2023/10/7": 202
   },
   "todaysWordCount": {
-    "Living Skills/Cooking/港式腸仔包.md": {
-      "initial": 84,
-      "current": 479
-    },
-    "Living Skills/Cooking/湯種.md": {
-      "initial": 27,
-      "current": 228
-    },
-    "Living Skills/Cooking/Untitled.md": {
-      "initial": 41,
-      "current": 41
+    "02.Programming/00. Leetcode/409. Longest Palindrome.md": {
+      "initial": 32,
+      "current": 234
     }
   }
 }
