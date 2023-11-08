@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -184,6 +185,7 @@
   },
   "active": "5d67b4af510e2bb5",
   "lastOpenFiles": [
+    "02.Programming/Fundamentals",
     "z.Images/Pasted image 20231107195044.png",
     "z.Images/Pasted image 20231107195034.png",
     "z.Images/Pasted image 20231107194922.png",
@@ -219,7 +221,6 @@
     "z.Images/Pasted image 20230807173024.png",
     "z.Images/Pasted image 20230803155900.png",
     "z.Images/Pasted image 20230803155756.png",
-    "z.Images/Pasted image 20230803155710.png",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
