@@ -18,7 +18,7 @@
     "2023/9/26": 0,
     "2023/9/29": 249,
     "2023/10/6": 596,
-    "2023/10/7": 548
+    "2023/10/7": 639
   },
   "todaysWordCount": {
     "02.Programming/00. Leetcode/409. Longest Palindrome.md": {
@@ -31,7 +31,7 @@
     },
     "02.Programming/00. Leetcode/206. Reverse Linked List.md": {
       "initial": 5,
-      "current": 135
+      "current": 226
     }
   }
 }
