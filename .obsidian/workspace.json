@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5a52e077e7dd15",
+        "id": "af5f7fb2ab5697f0",
         "type": "tabs",
         "children": [
           {
-            "id": "5d67b4af510e2bb5",
+            "id": "36b12fdbd8989480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/206. Reverse Linked List.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/206. Reverse Linked List.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/206. Reverse Linked List.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/206. Reverse Linked List.md"
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md"
               }
             }
           },
@@ -183,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d67b4af510e2bb5",
+  "active": "36b12fdbd8989480",
   "lastOpenFiles": [
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/1. Two Sum.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
+    "02.Programming/00. Leetcode/206. Reverse Linked List.md",
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/409. Longest Palindrome.md",
     "02.Programming/Fundamentals",
     "z.Images/Pasted image 20231107195044.png",
@@ -194,7 +195,6 @@
     "z.Images/Pasted image 20231107194922.png",
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
-    "02.Programming/00. Leetcode/1. Two Sum.md",
     "Living Skills/Cooking/港式腸仔包.md",
     "Living Skills/Cooking/菠蘿皮.md",
     "z.Images/Pasted image 20231106172856.png",
