@@ -20,12 +20,13 @@
     "2023/10/6": 596,
     "2023/10/7": 795,
     "2023/10/9": 690,
-    "2023/10/10": 67
+    "2023/10/10": 67,
+    "2023/10/11": 0
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/169. Major Element.md": {
-      "initial": 690,
-      "current": 757
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
+      "initial": 388,
+      "current": 388
     }
   }
 }

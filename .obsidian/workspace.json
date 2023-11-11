@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/169. Major Element.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/169. Major Element.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/169. Major Element.md",
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/169. Major Element.md"
+                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md"
               }
             }
           },
@@ -185,8 +184,8 @@
   },
   "active": "36b12fdbd8989480",
   "lastOpenFiles": [
-    "Untitled.md",
     "02.Programming/00. Leetcode/169. Major Element.md",
+    "Untitled.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/409. Longest Palindrome.md",
