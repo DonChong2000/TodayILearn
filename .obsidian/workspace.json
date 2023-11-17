@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/67. Add Binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/67. Add Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+                "file": "02.Programming/00. Leetcode/67. Add Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/0. How to practise leetcode.md"
+                "file": "02.Programming/00. Leetcode/67. Add Binary.md"
               }
             }
           },
@@ -184,9 +185,10 @@
   },
   "active": "36b12fdbd8989480",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/67. Add Binary.md",
     "02.Programming/00. Leetcode/169. Major Element.md",
     "Untitled.md",
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/0. About LeetCode.md",
     "02.Programming/00. Leetcode/409. Longest Palindrome.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
@@ -215,7 +217,6 @@
     "Living Skills/Cooking/BEST 薯蓉.md",
     "Living Skills/Cooking/粟米肉粒飯.md",
     "Living Skills/Cooking/日式照燒雞.md",
-    "Living Skills/Cooking/Recipe Tech Tree.md",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",

@@ -22,12 +22,13 @@
     "2023/10/9": 690,
     "2023/10/10": 67,
     "2023/10/11": 0,
-    "2023/10/12": 0
+    "2023/10/12": 0,
+    "2023/10/16": 35
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 379,
-      "current": 379
+    "02.Programming/00. Leetcode/67. Add Binary.md": {
+      "initial": 102,
+      "current": 137
     }
   }
 }
