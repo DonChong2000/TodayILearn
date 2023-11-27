@@ -25,12 +25,12 @@
     "2023/10/12": 0,
     "2023/10/16": 197,
     "2023/10/19": 0,
-    "2023/10/27": 0
+    "2023/10/27": 122
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 381,
-      "current": 381
+    "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md": {
+      "initial": 32,
+      "current": 154
     }
   }
 }
