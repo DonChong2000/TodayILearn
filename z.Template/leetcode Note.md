@@ -19,7 +19,7 @@ Code:
 ```js
 
 ```
-Explanation::
+Explanation:
 
 # My solution After studying others answer
 
