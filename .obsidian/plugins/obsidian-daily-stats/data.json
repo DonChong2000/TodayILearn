@@ -26,12 +26,16 @@
     "2023/10/16": 197,
     "2023/10/19": 0,
     "2023/10/27": 597,
-    "2023/10/28": 298
+    "2023/10/28": 455
   },
   "todaysWordCount": {
     "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md": {
       "initial": 619,
       "current": 917
+    },
+    "02.Programming/00. Leetcode/876. Middle of the Linked List.md": {
+      "initial": 32,
+      "current": 189
     }
   }
 }
