@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/876. Middle of the Linked List.md"
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md"
               }
             }
           },
@@ -185,9 +184,10 @@
   },
   "active": "36b12fdbd8989480",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20231128033257.png",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
     "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+    "z.Images/Pasted image 20231128033257.png",
     "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
     "conflict-files-obsidian-git.md",
     "z.Template/leetcode Note.md",
@@ -221,7 +221,6 @@
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",
     "z.Images/Pasted image 20230803155900.png",
-    "z.Images/Pasted image 20230803155756.png",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
