@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md"
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md"
               }
             }
           },
@@ -185,10 +185,13 @@
   },
   "active": "36b12fdbd8989480",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
-    "z.Template/leetcode Note.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
+    "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+    "z.Images/Pasted image 20231128033257.png",
+    "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
+    "conflict-files-obsidian-git.md",
+    "z.Template/leetcode Note.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
     "02.Programming/00. Leetcode/67. Add Binary.md",
     "02.Programming/00. Leetcode/169. Major Element.md",
@@ -215,13 +218,10 @@
     "Living Skills/Cooking/蕃薯粉.md",
     "Living Skills/Cooking/Pancake.md",
     "Living Skills/Cooking/煎薄罉.md",
-    "Living Skills/Cooking/卵焼き玉子燒Tamagoyaki.md",
-    "Living Skills/Cooking/番茄炒蛋.md",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",
     "z.Images/Pasted image 20230803155900.png",
-    "z.Images/Pasted image 20230803155756.png",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
