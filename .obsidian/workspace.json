@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diameter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -186,12 +185,11 @@
   "active": "36b12fdbd8989480",
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
-    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
-    "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
-    "z.Images/Pasted image 20231128033257.png",
-    "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
     "conflict-files-obsidian-git.md",
-    "z.Template/leetcode Note.md",
+    "z.Images/Pasted image 20231128033257.png",
+    "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
+    "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
     "02.Programming/00. Leetcode/67. Add Binary.md",
     "02.Programming/00. Leetcode/169. Major Element.md",
