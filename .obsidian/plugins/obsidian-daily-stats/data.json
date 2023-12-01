@@ -26,24 +26,13 @@
     "2023/10/16": 197,
     "2023/10/19": 0,
     "2023/10/27": 597,
-    "2023/10/28": 825
+    "2023/10/28": 887,
+    "2023/10/30": 4
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md": {
-      "initial": 619,
-      "current": 917
-    },
-    "02.Programming/00. Leetcode/876. Middle of the Linked List.md": {
-      "initial": 32,
-      "current": 410
-    },
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 382,
-      "current": 382
-    },
-    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md": {
-      "initial": 18,
-      "current": 167
+    "02.Programming/Other/Software Must Install.md": {
+      "initial": 0,
+      "current": 4
     }
   }
 }
