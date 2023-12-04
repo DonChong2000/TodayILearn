@@ -34,7 +34,15 @@ https://www.christinesrecipes.com/2012/10/pizza-dough.html?m=1
 # 配料
 
 玛格丽特披薩（Margherita）：番茄醬、馬祖拉拉起司（mozzarella）、橄欖油和罗勒葉**。
+將披薩醬均勻塗抹在餅皮上，鋪上新鮮番茄切片，擺上幾片九層塔葉，再撒上滿滿的乳酪絲。
 
-夏威夷披薩（Hawaiian）：鳳梨和火腿
+夏威夷披薩（Hawaiian）：
+- 菠蘿（鳳梨，新鮮或罐頭均可）1至 2片
+- 火腿 (ham) 1至 2片
+- 辣味的莎樂美腸（salami 或稱義大利香腸）6片
+- 芝士 (Mozzarella cheese) 酌量
+- 橄欖油 酌量
+- 鹹橄欖（preserved olive 切片，或可不加） 少許
+ref: [香辣夏威夷披薩【用自家Pizza醬】Spicy Hawaiian Pizza | 簡易食譜 - 基絲汀: 中西各式家常菜譜 (christinesrecipes.com)](https://www.christinesrecipes.com/2010/04/pizzaspicy-hawaiian-pizza.html)
 
 肉醬披薩（Meat Sauce）：**肉醬、起司和番茄醬**。肉醬通常是用牛肉或豬肉製成的，有時還會加上**香料、蔬菜或蘑菇**等食材。
