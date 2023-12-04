@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/217. Contains Duplicate.md",
+                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/217. Contains Duplicate.md",
+                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/217. Contains Duplicate.md",
+                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/217. Contains Duplicate.md"
+                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   "active": "c3a4cb335e46af3f",
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/217. Contains Duplicate.md",
     "Open Courses Note.md",
     "Living Skills/High quality IG upload.md",
     "Living Skills/Cooking/Pizza.md",
@@ -216,7 +217,6 @@
     "Living Skills/Cooking/湯種.md",
     "z.Images/Pasted image 20231106172328.png",
     "Living Skills/Untitled.md",
-    "Living Skills/Cooking/燒肉DIY.md",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",
