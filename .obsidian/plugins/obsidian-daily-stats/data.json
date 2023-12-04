@@ -29,7 +29,7 @@
     "2023/10/28": 887,
     "2023/10/30": 4,
     "2023/11/1": 355,
-    "2023/11/4": 22
+    "2023/11/4": 126
   },
   "todaysWordCount": {
     "02.Programming/00. Leetcode/217. Contains Duplicate.md": {
@@ -42,7 +42,7 @@
     },
     "02.Programming/00. Leetcode/53. Maximum Subarray.md": {
       "initial": 13,
-      "current": 24
+      "current": 128
     }
   }
 }
