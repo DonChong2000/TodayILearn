@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccaad0d40d26c62d",
+        "id": "af5f7fb2ab5697f0",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a4cb335e46af3f",
+            "id": "36b12fdbd8989480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diameter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md"
+                "file": "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md"
               }
             }
           },
@@ -182,23 +182,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3a4cb335e46af3f",
+  "active": "36b12fdbd8989480",
   "lastOpenFiles": [
     "z.Images/Pasted image 20231204015410.png",
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "02.Programming/00. Leetcode/57. Insert Interval.md",
+    "02.Programming/00. Leetcode/53. Maximum Subarray.md",
     "02.Programming/00. Leetcode/217. Contains Duplicate.md",
-    "Open Courses Note.md",
-    "Living Skills/High quality IG upload.md",
     "Living Skills/Cooking/Pizza.md",
-    "Living Skills/Cooking/Theory/Choosing Ingredients/Egg.md",
-    "Living Skills/Cooking/Theory/interested.md",
-    "conflict-files-obsidian-git.md",
     "02.Programming/Other/Software Must Install.md",
-    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
-    "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+    "02.Programming/00. Leetcode/0. How to practise leetcode.md",
+    "conflict-files-obsidian-git.md",
     "z.Images/Pasted image 20231128033257.png",
+    "02.Programming/00. Leetcode/876. Middle of the Linked List.md",
+    "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
     "02.Programming/00. Leetcode/543. Diameter of Binary Tree.md",
-    "z.Template/leetcode Note.md",
     "02.Programming/00. Leetcode/1. Two Sum.md",
     "02.Programming/00. Leetcode/67. Add Binary.md",
     "02.Programming/00. Leetcode/169. Major Element.md",
@@ -217,6 +214,9 @@
     "z.Images/Pasted image 20231106172856.png",
     "Living Skills/Cooking/湯種.md",
     "z.Images/Pasted image 20231106172328.png",
+    "Living Skills/Untitled.md",
+    "Living Skills/Cooking/燒肉DIY.md",
+    "05. Finance/Rule of Conduct.md",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",
