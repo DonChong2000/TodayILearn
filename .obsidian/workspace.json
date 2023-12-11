@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -182,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b777445c898f2f7b",
+  "active": "bed970ec0ea68fbe",
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/104. Maximum Depth of Binary Tree.md",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
