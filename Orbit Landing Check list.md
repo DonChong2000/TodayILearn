@@ -24,7 +24,7 @@ Certainly! Here's a summarized list of items you need to bring for your first ro
    - ==Inserters, power poles, and substations==
 
 4. Production in Space:
-   - e
+   - ==Space assembling machines==
 
 5. Defense:
    - Meteor defense and ammo, ==unless ground installations already cover it==
