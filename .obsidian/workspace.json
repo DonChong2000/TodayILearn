@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c25b69b3628dcdec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -182,8 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3a4cb335e46af3f",
+  "active": "c25b69b3628dcdec",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+    "Untitled 1.md",
     "z.Images/Pasted image 20231204015410.png",
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "02.Programming/00. Leetcode/217. Contains Duplicate.md",
@@ -215,12 +230,10 @@
     "Living Skills/Cooking/港式腸仔包.md",
     "Living Skills/Cooking/菠蘿皮.md",
     "z.Images/Pasted image 20231106172856.png",
-    "Living Skills/Cooking/湯種.md",
     "z.Images/Pasted image 20231106172328.png",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
     "z.Images/Pasted image 20230807173024.png",
-    "z.Images/Pasted image 20230803155900.png",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
