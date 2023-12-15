@@ -2,8 +2,8 @@
 
 # Science to Upgrade
 
-- Scaffolding
-- Space Navigation
+- Scaffolding, 100
+- Space Navigation, 50
   
   
 
