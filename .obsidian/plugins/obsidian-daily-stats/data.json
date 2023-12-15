@@ -25,24 +25,14 @@
     "2023/10/12": 0,
     "2023/10/16": 197,
     "2023/10/19": 0,
-    "2023/10/27": 597,
-    "2023/10/28": 887,
-    "2023/10/30": 4,
-    "2023/11/1": 355,
-    "2023/11/4": 142
+    "2023/10/27": 0,
+    "2023/10/28": 0,
+    "2023/11/11": 87
   },
   "todaysWordCount": {
-    "02.Programming/00. Leetcode/217. Contains Duplicate.md": {
-      "initial": 11,
-      "current": 22
-    },
-    "02.Programming/00. Leetcode/0. How to practise leetcode.md": {
-      "initial": 383,
-      "current": 383
-    },
     "02.Programming/00. Leetcode/53. Maximum Subarray.md": {
-      "initial": 13,
-      "current": 144
+      "initial": 121,
+      "current": 208
     }
   }
 }
