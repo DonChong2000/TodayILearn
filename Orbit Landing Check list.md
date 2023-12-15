@@ -15,22 +15,22 @@ Certainly! Here's a summarized list of items you need to bring for your first ro
    - No accumulators needed
 
 2. Infrastructure:
-   - Landing pad for safe rocket landings
+   - ==Landing pad== for safe rocket landings
    - Delivery cannons chests for early automation and storage
 
 3. Logistics and Automation:
-   - Roboports and construction bots
-   - Storage logistic chests
-   - Inserters, power poles, and substations
+   - ==Roboports and construction bots==
+   - ==Storage logistic chests==
+   - ==Inserters, power poles, and substations==
 
 4. Production in Space:
    - Space assembling machines
 
 5. Defense:
-   - Meteor defense and ammo, unless ground installations already cover it
+   - Meteor defense and ammo, ==unless ground installations already cover it==
 
 6. Research:
-   - Ground science packs for initial space research
+   ==- Ground science packs for initial space research==, got 1k
 
 7. Ingredients for Space Mall:
    - Small electric motors, LDS, steel, plastic, glass, and lubricant
@@ -43,7 +43,7 @@ Certainly! Here's a summarized list of items you need to bring for your first ro
    - LDS, heat shielding, and steel
 
 10. Productivity Modules:
-    - At least 6 of the highest productivity modules for the space lab
+    - ==At least 6 of the highest productivity modules for the space lab==
 
 11. Tools for Resource Gathering:
     - Drills for water ice
