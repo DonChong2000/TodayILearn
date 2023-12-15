@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "31dec143612b6267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c25b69b3628dcdec",
             "type": "leaf",
             "state": {
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Orbit Landing Check list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Orbit Landing Check list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Orbit Landing Check list.md"
               }
             }
           },
@@ -208,9 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31dec143612b6267",
+  "active": "c25b69b3628dcdec",
   "lastOpenFiles": [
     "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+    "Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "Orbit Landing Check list.md",
     "z.Images/Pasted image 20231204015410.png",
@@ -241,7 +230,6 @@
     "02.Programming/00. Leetcode/242. Valid Anagram.md",
     "02.Programming/00. Leetcode/20. Valid Parentheses.md",
     "Living Skills/Cooking/港式腸仔包.md",
-    "Living Skills/Cooking/菠蘿皮.md",
     "z.Images/Pasted image 20231106172856.png",
     "z.Images/Pasted image 20231106172328.png",
     "z.Images/Pasted image 20230914235628.png",
