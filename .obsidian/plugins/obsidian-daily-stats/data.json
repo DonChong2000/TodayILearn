@@ -25,24 +25,13 @@
     "2023/10/12": 0,
     "2023/10/16": 197,
     "2023/10/19": 0,
-    "2023/10/27": 597,
-    "2023/10/28": 887,
-    "2023/10/30": 4,
-    "2023/11/1": 355,
-    "2023/11/4": 142,
-    "2023/11/15": 210
+    "2023/10/27": 0,
+    "2023/10/28": 0,
+    "2023/11/11": 87
   },
   "todaysWordCount": {
-    "Orbit Landing Check list.md": {
-      "initial": 0,
-      "current": 210
-    },
-    "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru/05. EC2.md": {
-      "initial": 1269,
-      "current": 1269
-    },
     "02.Programming/00. Leetcode/53. Maximum Subarray.md": {
-      "initial": 208,
+      "initial": 121,
       "current": 208
     }
   }
