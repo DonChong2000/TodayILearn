@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9d10ad28875961f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/00. Leetcode/53. Maximum Subarray.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -180,11 +193,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "whisper:Open recording controls": false
     }
   },
-  "active": "bed970ec0ea68fbe",
+  "active": "f9d10ad28875961f",
   "lastOpenFiles": [
+    "02.Programming/00. Leetcode/53. Maximum Subarray.md",
+    "Untitled 1.md",
     "z.Images/Pasted image 20231215010426.png",
     "Orbit Landing Check list.md",
     "Living Skills/Cooking/黃金糕.md",
@@ -195,7 +211,6 @@
     "02.Programming/00. Leetcode/0. How to practise leetcode.md",
     "z.Images/Pasted image 20231204015410.png",
     "02.Programming/00. Leetcode/57. Insert Interval.md",
-    "02.Programming/00. Leetcode/53. Maximum Subarray.md",
     "02.Programming/00. Leetcode/217. Contains Duplicate.md",
     "Living Skills/Cooking/Pizza.md",
     "02.Programming/Other/Software Must Install.md",
@@ -222,7 +237,6 @@
     "z.Images/Pasted image 20231106172328.png",
     "z.Images/Pasted image 20230914235628.png",
     "z.Images/Pasted image 20230807191831.png",
-    "z.Images/Pasted image 20230807173024.png",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/wellarchitected-reliability-pillar.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other/AWS Certified Solutions Architect Practice Tests (Brett McLaughlin) (Z-Library).pdf",
