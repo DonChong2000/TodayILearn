@@ -31,12 +31,17 @@
     "2023/11/1": 355,
     "2023/11/4": 142,
     "2023/11/15": 210,
-    "2023/11/26": 0
+    "2023/11/26": 0,
+    "2023/11/27": 71
   },
   "todaysWordCount": {
-    "02.Programming/Other/Computer Fix 101/Software needed.md": {
-      "initial": 1,
-      "current": 1
+    "02.Programming/Other/Computer Fix 101/中文路徑轉英文（桌面Desktop）.md": {
+      "initial": 16,
+      "current": 61
+    },
+    "02.Programming/AI/RVC/Useful Resources.md": {
+      "initial": 32,
+      "current": 58
     }
   }
 }

@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3a4cb335e46af3f",
+            "id": "6aca6d6924149f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Programming/Other/Computer Fix 101/Software needed.md",
+                "file": "02.Programming/AI/RVC/Useful Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6aca6d6924149f1c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ada07d4c2cecc90c",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Programming/Other/Computer Fix 101/Software needed.md",
+                "file": "02.Programming/AI/RVC/Useful Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Programming/Other/Computer Fix 101/Software needed.md",
+                "file": "02.Programming/AI/RVC/Useful Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Programming/Other/Computer Fix 101/Software needed.md"
+                "file": "02.Programming/AI/RVC/Useful Resources.md"
               }
             }
           },
@@ -198,8 +188,13 @@
   },
   "active": "6aca6d6924149f1c",
   "lastOpenFiles": [
-    "Orbit Landing Check list.md",
+    "02.Programming/Other/Computer Fix 101/中文路徑轉英文（桌面Desktop）.md",
+    "02.Programming/AI/RVC/Useful Resources.md",
+    "02.Programming/AI/LLM",
+    "02.Programming/AI/RVC",
+    "02.Programming/AI",
     "02.Programming/Other/Computer Fix 101/Software needed.md",
+    "Orbit Landing Check list.md",
     "02.Programming/00. Leetcode/53. Maximum Subarray.md",
     "Generic skills/Innovating.md",
     "Untitled 1.md",
@@ -225,8 +220,6 @@
     "02.Programming/00. Leetcode/67. Add Binary.md",
     "02.Programming/00. Leetcode/169. Major Element.md",
     "Untitled.md",
-    "02.Programming/00. Leetcode/0. About LeetCode.md",
-    "02.Programming/00. Leetcode/409. Longest Palindrome.md",
     "02.Programming/Fundamentals",
     "z.Images/Pasted image 20231107195044.png",
     "z.Images/Pasted image 20231107195034.png",
@@ -241,9 +234,6 @@
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/other",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/Planning",
     "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate/A Cloud Guru",
-    "02.Programming/Cloud/SAA-C03 AWS Solution Architect Associate",
-    "02.Programming/Cloud/ACloudGuru AZ-104 Microsoft Azure Administrator Certification Prep",
-    "02.Programming/Cloud",
     "TodayILearn.canvas",
     "03. Value/幸福/大问题：躺平时代，卷还有意义吗？/Mindmap - 大问题：躺平时代，卷还有意义吗？.canvas"
   ]
