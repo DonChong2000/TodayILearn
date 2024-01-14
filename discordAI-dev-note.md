@@ -4,9 +4,12 @@ Todo:
 
 2024-01-12
 1. Support Real time with timezone conversion
+![](z.Images/Pasted%20image%2020240114034911.png)
 2. support positioning coordinate from address
-3. ![](z.Images/Screenshot%202024-01-12%20at%2003.09.59.png)
-4. support real weather 
+![](z.Images/Pasted%20image%2020240114035028.png)
+3. support real weather 
+4. Support multi function calling ![](z.Images/Screenshot%202024-01-12%20at%2003.09.59.png)
+
 2024-01-10
 1. Support for multi-message input (todo: a timeout should be added)
 	1. Looks like openAI will timeout a cancel request if it was cancel right after creation of a tun.
