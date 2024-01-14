@@ -15,3 +15,8 @@ Todo:
 2. Support for multi-function calling 
 ![](z.Images/Screenshot%202024-01-10%20at%2003.17.49.png)
 
+2024-01-6
+1. Multi-user
+![](z.Images/Pasted%20image%2020240114030954.png)
+
+

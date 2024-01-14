@@ -35,20 +35,13 @@
     "2023/11/27": 71,
     "2024/0/10": 58,
     "2024/0/12": 30,
-    "2024/0/13": 246
+    "2024/0/13": 246,
+    "2024/0/14": 12
   },
   "todaysWordCount": {
     "discordAI-dev-note.md": {
-      "initial": 91,
-      "current": 101
-    },
-    "Living Skills/Cooking/煲仔飯.md": {
-      "initial": 44,
-      "current": 280
-    },
-    "Living Skills/Cooking/粟米肉粒飯.md": {
-      "initial": 141,
-      "current": 141
+      "initial": 101,
+      "current": 113
     }
   }
 }
