@@ -3,7 +3,7 @@ Todo:
 2. Bot join voice channel, TTS, whisper
 
 2024-01-12
-1. Support time conversion
+1. Support Real time with timezone conversion
 2. support positioning coordinate from address
 3. ![](z.Images/Screenshot%202024-01-12%20at%2003.09.59.png)
 4. support real weather 
