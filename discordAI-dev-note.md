@@ -1,8 +1,8 @@
 Todo:
 1. Jest
 2. Bot join voice channel, TTS, whisper
-3. Read youtube from this https://github.com/fent/node-ytdl-core/blob/master/example/captions.js
-
+2024-01-14
+1. Implemented get_yt function, and able to retrieve content from caption, also exrtact the text from transcript to save almost half tokens![](z.Images/Pasted%20image%2020240114195747.png)
 2024-01-12
 1. Support Real time with timezone conversion![](z.Images/Pasted%20image%2020240114034911.png)
 2. support positioning coordinate from address![](z.Images/Pasted%20image%2020240114035028.png)

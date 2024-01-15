@@ -32,16 +32,13 @@
     "2023/11/4": 142,
     "2023/11/15": 210,
     "2023/11/26": 0,
-    "2023/11/27": 71
+    "2023/11/27": 71,
+    "2024/0/14": 11
   },
   "todaysWordCount": {
-    "02.Programming/Other/Computer Fix 101/中文路徑轉英文（桌面Desktop）.md": {
-      "initial": 16,
-      "current": 61
-    },
-    "02.Programming/AI/RVC/Useful Resources.md": {
-      "initial": 32,
-      "current": 58
+    "discordAI-dev-note.md": {
+      "initial": 147,
+      "current": 158
     }
   }
 }
