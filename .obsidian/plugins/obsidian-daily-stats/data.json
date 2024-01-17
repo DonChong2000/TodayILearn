@@ -33,12 +33,13 @@
     "2023/11/15": 210,
     "2023/11/26": 0,
     "2023/11/27": 71,
-    "2024/0/14": 11
+    "2024/0/14": 11,
+    "2024/0/17": 5
   },
   "todaysWordCount": {
-    "discordAI-dev-note.md": {
-      "initial": 147,
-      "current": 158
+    "02.Programming/Other/Computer Fix 101/My Softwares.md": {
+      "initial": 11,
+      "current": 16
     }
   }
 }
