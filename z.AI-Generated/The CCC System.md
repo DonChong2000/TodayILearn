@@ -1,1 +1,0 @@
-![](The%20CCC%20System)
