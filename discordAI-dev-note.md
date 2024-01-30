@@ -1,8 +1,14 @@
 Todo:
 1. Jest
 2. Bot join voice channel, TTS, whisper
+3. 
+2024-01-21
+1. PDF support
+![](z.Images/Pasted%20image%2020240128020213.png)
+2024-01-21
+1. Voice message Support ![](z.Images/Pasted%20image%2020240128020344.png)
 2024-01-14
-1. Implemented get_yt function, and able to retrieve content from caption, also exrtact the text from transcript to save almost half tokens![](z.Images/Pasted%20image%2020240114195747.png)
+3. Implemented get_yt function, and able to retrieve content from caption, also exrtact the text from transcript to save almost half tokens![](z.Images/Pasted%20image%2020240114195747.png)
 2024-01-12
 1. Support Real time with timezone conversion![](z.Images/Pasted%20image%2020240114034911.png)
 2. support positioning coordinate from address![](z.Images/Pasted%20image%2020240114035028.png)

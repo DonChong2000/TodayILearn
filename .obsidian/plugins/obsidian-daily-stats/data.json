@@ -33,16 +33,20 @@
     "2023/11/15": 210,
     "2023/11/26": 0,
     "2023/11/27": 71,
-    "2024/0/10": 58,
-    "2024/0/12": 30,
-    "2024/0/13": 246,
-    "2024/0/14": 43,
-    "2024/0/29": 0
+    "2024/0/14": 11,
+    "2024/0/17": 5,
+    "2024/0/21": 0,
+    "2024/0/28": 237,
+    "2024/0/29": 159
   },
   "todaysWordCount": {
-    "04. Career/HR stuff/Untitled.md": {
-      "initial": 248,
-      "current": 248
+    "02.Programming/Other/Computer Fix 101/Useful Command.md": {
+      "initial": 1,
+      "current": 12
+    },
+    "02.Programming/Other/Computer Fix 101/npx http-server.md": {
+      "initial": 7,
+      "current": 155
     }
   }
 }
