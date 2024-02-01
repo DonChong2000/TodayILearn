@@ -23,9 +23,14 @@
 - How will the market react?
 	- Stock stay the same, as the market has no significant change
 	- Stock varies by:
-		- 
+		- SEC view on market (growing stably)
+		- When will interest rate drop (in this year)
+		- SEC expect the stock to stay the same, by stating the economic data is good (unemployment rate, growth, etc), and not giving an exact date of lowering interest rate (unclear future = stay the same). 
 ### Action:
--  
+-  See if tmr market drop even more, if the market stay the same, sell SDOW.
+- Reason:
+	- Buying it was not in a clear mind manner
+	- The market is not dropping more.
 ---
 
 
