@@ -1,4 +1,6 @@
-# LCP - Largest Contentful paint
+
+# Measuring Matrixs
+## LCP - Largest Contentful paint
 - Time it takes to load the single largest visible element in the viewport.
 - Good <2.5s, mid < 4s, poor >4s
 - Improve ways
@@ -19,7 +21,13 @@
 
 
 ## CLS - Cumulative layout shift
-- Element should not jumping around in the page
-- Good <0.1, mid < 250ms, poor > 250ms
+- Visual stability of a page as it loads, or simply saying Element should not jumping around in the page
+- Good <0.1, mid < 0.25, poor > 0.25
 - Improve ways
 	- Image should always have width and height / CSS aspect-ration
+	- Handle Ads injection
+
+
+
+# Tools
+#
