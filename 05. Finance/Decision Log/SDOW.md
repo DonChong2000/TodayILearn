@@ -15,13 +15,15 @@
 - SEC is not going to lower interest rate on March
 - Stock have worst day in 4 months
 - SDOW will depreciate in long term
-- Is the Market over valued? Kind of, shiller >=30 -> 
+- Is the Market over valued? Kind of, shiller >=30 -> -0.3%, yet data is since 1881
 	- Current Shiller PE: 32.61
 	- Relationship between CAPE and Average Real Returns of the Subsequent 10 Years
 		- ![](../../z.Images/Pasted%20image%2020240201024053.png)
 ### Assumption:
 - How will the market react?
 	- Stock stay the same, as the market has no significant change
+	- Stock varies by:
+		- 
 ### Action:
 -  
 ---
