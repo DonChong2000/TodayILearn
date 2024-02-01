@@ -38,7 +38,7 @@
     "2024/0/21": 0,
     "2024/0/28": 237,
     "2024/0/29": 159,
-    "2024/1/1": 303
+    "2024/1/1": 324
   },
   "todaysWordCount": {
     "02.Programming/JavaScript/Good Jest Example.md": {
@@ -59,7 +59,11 @@
     },
     "z.Template/Evidence Base Stock Trade Decision Making.md": {
       "initial": 3,
-      "current": 4
+      "current": 5
+    },
+    "05. Finance/Decision Log/SDOW.md": {
+      "initial": 7,
+      "current": 27
     }
   }
 }

@@ -1,6 +1,8 @@
-### Time:
+### Time: {{date}}
 
 ### Evidence:
+- 
 ### Assumption:
-
+- 
 ### Action:
+- 
