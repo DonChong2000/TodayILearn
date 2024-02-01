@@ -10,5 +10,16 @@
 
 
 ## FIP - First Input Delay
-- 
-- Good <2.5s, mid < 4s, poor >4s
+- Time from user interact with the page till the browser process it
+- Good <100ms, mid < 300ms, poor > 300ms
+- Improve ways
+	- Reduce JS Execution Time
+		- webworker
+		- lazy loading
+
+
+## CLS - Cumulative layout shift
+- Element should not jumping around in the page
+- Good <0.1, mid < 250ms, poor > 250ms
+- Improve ways
+	- Image should always have width and height / CSS aspect-ration
