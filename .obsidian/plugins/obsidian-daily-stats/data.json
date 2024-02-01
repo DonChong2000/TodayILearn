@@ -37,16 +37,13 @@
     "2024/0/17": 5,
     "2024/0/21": 0,
     "2024/0/28": 237,
-    "2024/0/29": 159
+    "2024/0/29": 159,
+    "2024/1/1": 219
   },
   "todaysWordCount": {
-    "02.Programming/Other/Computer Fix 101/Useful Command.md": {
-      "initial": 1,
-      "current": 12
-    },
-    "02.Programming/Other/Computer Fix 101/npx http-server.md": {
-      "initial": 7,
-      "current": 155
+    "02.Programming/JavaScript/Good Jest Example.md": {
+      "initial": 0,
+      "current": 219
     }
   }
 }
