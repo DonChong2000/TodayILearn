@@ -12,11 +12,14 @@
 ### Time: 2024-02-01
 
 ### Evidence:
-- SEC 
+- SEC is not going to lower interest rate on March
+- Stock have worst day in 4 months
+- SDOW will depreciate in long term
 ### Assumption:
-- 
+- How will the market react?
+	- Stock stay the same, as the market has no significant change
 ### Action:
-- 
+-  
 ---
 
 
