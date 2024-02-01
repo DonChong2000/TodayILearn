@@ -30,7 +30,7 @@
 -  See if tmr market drop even more, if the market stay the same, sell SDOW.
 - Reason:
 	- Buying it was not in a clear mind manner
-	- The market is not dropping more.
+	- The market has no reason to drop more.
 ---
 
 

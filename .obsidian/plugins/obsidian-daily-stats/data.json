@@ -38,7 +38,7 @@
     "2024/0/21": 0,
     "2024/0/28": 237,
     "2024/0/29": 159,
-    "2024/1/1": 527
+    "2024/1/1": 529
   },
   "todaysWordCount": {
     "02.Programming/JavaScript/Good Jest Example.md": {
@@ -63,7 +63,11 @@
     },
     "05. Finance/Decision Log/SDOW.md": {
       "initial": 7,
-      "current": 230
+      "current": 232
+    },
+    "README.md": {
+      "initial": 349,
+      "current": 349
     }
   }
 }

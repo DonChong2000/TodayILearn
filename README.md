@@ -1,6 +1,3 @@
-
-
-
 # TodayILearn
 Welcome to TodayILearn, a repository where I document what I learn every day with [Obsidian](https://obsidian.md/). Here, you'll find a collection of short posts about various topics, ranging from programming to personal development.
 
