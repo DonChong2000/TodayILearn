@@ -33,6 +33,20 @@
 	- The market has no reason to drop more.
 ---
 
+### Time: 2024-02-02
+
+### Evidence:
+- SDOW drop to 17.3
+- 52w low at 17.35
+- Market keep rising due to good financial statements
+### Assumption:
+- the US market nearly as high as 21 QE, the retreated money from China are reinvented into US market
+- it is possible to keep growing if interest rate drop
+- it will take at most 18 months for high interest rate to have a negative impact, which is from 9-23 to 3-25
+### Action:
+- if there is a huge drop by any reason, I should sell it to leave the waiting game, to prevent depreciation
+- if there is a further drop for 10%, I should double down, as P(lower than highest) > P(higher than highest)
+---
 
 
 
