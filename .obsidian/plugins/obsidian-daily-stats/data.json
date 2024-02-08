@@ -38,36 +38,13 @@
     "2024/0/21": 0,
     "2024/0/28": 237,
     "2024/0/29": 159,
-    "2024/1/1": 529
+    "2024/1/1": 529,
+    "2024/1/7": 8
   },
   "todaysWordCount": {
-    "02.Programming/JavaScript/Good Jest Example.md": {
-      "initial": 0,
-      "current": 219
-    },
-    "Living Skills/Cooking/Pizza.md": {
-      "initial": 597,
-      "current": 678
-    },
-    "05. Finance/Decision Log/SDOW 1-31-24.md": {
-      "initial": 1,
-      "current": 0
-    },
-    "z.Template/Stock Trade Decision Making.md": {
-      "initial": 1,
-      "current": 3
-    },
-    "z.Template/Evidence Base Stock Trade Decision Making.md": {
-      "initial": 3,
-      "current": 5
-    },
-    "05. Finance/Decision Log/SDOW.md": {
-      "initial": 7,
-      "current": 232
-    },
-    "README.md": {
-      "initial": 349,
-      "current": 349
+    "Living Skills/Cooking/Chocolate Milk.md": {
+      "initial": 19,
+      "current": 27
     }
   }
 }
