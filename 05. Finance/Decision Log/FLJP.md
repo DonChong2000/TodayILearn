@@ -1,2 +1,4 @@
 - low expense rate
+- up trending
+- if us recessional, money will go japan, cuz China is not a good place to go
 - 
