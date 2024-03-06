@@ -1,0 +1,5 @@
+Bing: 
+Chronotype is the natural inclination of your body to sleep at a certain time, or what most people understand as being an early bird versus a night owl. [It is your body’s natural disposition to be awake or asleep at certain times](https://www.sleepfoundation.org/how-sleep-works/chronotypes)[1](https://www.sleepfoundation.org/how-sleep-works/chronotypes)[2](https://thesleepdoctor.com/how-sleep-works/chronotypes/). [Your chronotype is closely related to your body’s circadian rhythm, which controls your body’s sleep-wake cycle and melatonin production](https://thesleepdoctor.com/how-sleep-works/chronotypes/)[2](https://thesleepdoctor.com/how-sleep-works/chronotypes/). There are different types of chronotypes, including morning larks, night owls, and those in between[1](https://www.sleepfoundation.org/how-sleep-works/chronotypes).
+
+[Why You're Always Tired - 7 Myths Ruining Your Sleep - YouTube](https://www.youtube.com/watch?v=qlf9-573MhI&t=267s&ab_channel=AliAbdaal)
+When we age, we move to a more morning chronotype

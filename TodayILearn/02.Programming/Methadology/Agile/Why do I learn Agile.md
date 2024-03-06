@@ -1,0 +1,2 @@
+1. A lasting knowledge, which will not subsitude my newer technology. 
+2. It is a solution to a problem I faced. Continue changing requirement, which lead to me rewriting my program and test cases 5 times.
