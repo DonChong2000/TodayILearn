@@ -1,4 +1,0 @@
-- Drinks
-- Food
-- Snacks
-- 

@@ -1,1 +1,0 @@
-# How to know is a paper is a good paper?

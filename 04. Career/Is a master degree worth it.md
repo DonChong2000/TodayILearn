@@ -1,0 +1,4 @@
+- 2022, 37% US population had a undergraduate degree. Having a ug degree is no longer in the elite minority.
+- 2019 13.1% US adults has a master degree
+- average salary of a master degree holder is 84k/year, 20k more than US average (60k). But note if you are looking for attaining master degree, you might have a higher salary than average, the earning gap is narrower than you might expect.
+- average cost of a master degree in US is 60,000 USD
