@@ -41,4 +41,4 @@
 
 # About My Projects
 1. Why did you work on Astra-CV?
-		Astra-CV is a rather simple application that leverage latest Im
+		Astra-CV is a rather simple application that leverage latest improvement LLM model, to demonstrate I can build a chatbot on my employers website, and answer questions about their products. I believe there will be a demand for similar use of LLM, and I try to deliver values that the market needs.
