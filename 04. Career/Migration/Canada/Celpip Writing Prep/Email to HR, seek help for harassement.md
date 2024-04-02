@@ -17,7 +17,10 @@ Emma
 ---
 Dear HR,
 
-I am writing to seek help for being harassed at work today. Harry John, the technician touched my sensitive part intentionally, I felt offended therefore seeking help from you. Harry John and I has no any relationship other than co-workers, although he teaches me a lot in worki
+I am writing to seek help for being harassed at work today. Harry John, the technician touched my sensitive part intentionally, I felt offended therefore seeking help from you. Harry John and I has no any relationship other than co-workers, although he teaches me a lot in the project we are working on, we have no romantic relationship at all.
+
+During my morning shift, I was working on the blueprint, and having some trouble about it. Harry comes from behind and 
+
 
 Yours sincerely,
 Emma
