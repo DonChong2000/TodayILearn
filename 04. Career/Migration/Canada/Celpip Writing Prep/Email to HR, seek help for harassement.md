@@ -21,7 +21,7 @@ I am writing to seek help for being harassed at work today. Harry John, the tech
 
 During my morning shift at around 1:30pm, I was working on the workstation, and having some trouble with the blueprint. Harry comes from behind and embracing me, touches my chest using both of his hand. I was shocked and shout at him. 
 
-Luckily another co-worker at the scene, Mr. Bob witnessed the whole instance and willing to testify for me. Also I believe the CCTC should have the whole instance recorded. I request a resolution on this matter, any means as soon as possible.
+Luckily another co-worker at the scene, Mr. Bob witnessed the whole instance and willing to testify for me. Also I believe the CCTV should have the whole instance recorded. I request a resolution on this matter, any means as soon as possible.
 
 I would really appreciate if you can response promptly. Thank you very much for you attention on this matter.
 
