@@ -35,7 +35,7 @@ ref: [Why Your Sleep Schedule Sucks (And How To Fix It!)](https://youtu.be/1aogY
 		- Dreams?
 3. Time outdoor
 	- Nowadays people have No Horizons, No sunlight, same stimulus all day long
-	- ==[Circadian rhythms](Keywords/Circadian%20rhythms.md)==
+	- ==[Circadian rhythms](Circadian%20rhythms.md)==
 	- Go outside during the day and at dusk
 	- ==gain Vitamin D, will decrease your depression==
 4. Structured bed time routine

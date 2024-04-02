@@ -1,5 +1,6 @@
 # 1. 所有trading都必須設立止損點
 #todo : study on how to set 止損點
+Question: Is stop profit/loss a investment concept or trading concept.
 
 
 # 2. 所有Decision都要寫低為何要作出該decision，以減少Hindsight Bias
@@ -22,3 +23,5 @@ REF: [The "Just One More" Paradox - YouTube](https://www.youtube.com/watch?v=_Fu
 
 
 # 10. 對一切投資有一絲詐騙懷疑的話，就不要再深入瞭解。不要認為自己是早走的人。
+
+# 11. For Investment decision, limit buy/sell operation within 5

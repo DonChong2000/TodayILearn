@@ -1,0 +1,3 @@
+- Card Auto Sizing
+- Keyboard Shortcuts
+- Auto Positioning

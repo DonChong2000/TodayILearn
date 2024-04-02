@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"95a48ebb81725e56","type":"text","text":"# BTC","x":100,"y":-360,"width":250,"height":60},
+		{"id":"267693081041557f","type":"text","text":"# Transformer Base AI","x":100,"y":-260,"width":250,"height":91},
+		{"id":"fffa8e2bad564076","type":"text","text":"# Interest Rate Cut","x":100,"y":-100,"width":250,"height":100},
+		{"id":"cf24b4f4c9bae4c3","type":"text","text":"# 2024","x":-220,"y":-214,"width":130,"height":60},
+		{"id":"3583c19b3ddb912b","type":"text","text":"Yield curve inversion","x":460,"y":-80,"width":250,"height":60},
+		{"id":"62c219d5a884db51","type":"text","text":"- Software\n\t- OpenAI, MSFT, Google\n- Hardware\n\t- Compute: Nvdia, AMD, Intel\n\t- HBM: Samsung, Micron, SK Hynix","x":460,"y":-301,"width":250,"height":173},
+		{"id":"550a064054a0ec7a","type":"text","text":"How Rate Cut / Rate Hold effect the Market?","x":460,"y":0,"width":250,"height":72},
+		{"id":"274040e3c9fcb22e","type":"text","text":"# Japan Market","x":100,"y":160,"width":250,"height":60},
+		{"id":"cfdb66644909cd9a","type":"text","text":"Why Japan?[[FLJP]]\n- Low shiller PE, undervalued\n- CPI recovered to 3.2 healthy range\n- Japanese are not investing much, potential buyers\n- Warren buffett is buying it\nRisk:\n- Value Trap","x":460,"y":160,"width":250,"height":402},
+		{"id":"f0d108de26c0c5bb","x":835,"y":-100,"width":365,"height":82,"type":"text","text":"Why it often comes before to recession? \ncorrelation vs causation?"},
+		{"id":"034ab988c6d4ca35","x":460,"y":-480,"width":250,"height":120,"type":"text","text":"Is it going to grow?\nShould I invest its potential grow\nRisk?"},
+		{"id":"1802b1409e8b3c46","x":868,"y":-519,"width":412,"height":199,"type":"text","text":"Biggest Risk:\nunrecoverable cyberattack.\nWhen it is so widely used, can it hard-forked?\nThere is no government looking at it, so cyberattack's damage is not revertable"}
+	],
+	"edges":[
+		{"id":"1f8d07b7a206323d","fromNode":"cf24b4f4c9bae4c3","fromSide":"right","toNode":"95a48ebb81725e56","toSide":"left"},
+		{"id":"2bfd9a3388b72306","fromNode":"cf24b4f4c9bae4c3","fromSide":"right","toNode":"267693081041557f","toSide":"left"},
+		{"id":"c1d8caf0f9cfc57b","fromNode":"cf24b4f4c9bae4c3","fromSide":"right","toNode":"fffa8e2bad564076","toSide":"left"},
+		{"id":"cb66582d95b29053","fromNode":"cf24b4f4c9bae4c3","fromSide":"right","toNode":"274040e3c9fcb22e","toSide":"left"},
+		{"id":"e1460d718ab8cc88","fromNode":"fffa8e2bad564076","fromSide":"right","toNode":"3583c19b3ddb912b","toSide":"left"},
+		{"id":"3199344c188fb363","fromNode":"267693081041557f","fromSide":"right","toNode":"62c219d5a884db51","toSide":"left"},
+		{"id":"aefaed17130fe5a5","fromNode":"274040e3c9fcb22e","fromSide":"right","toNode":"cfdb66644909cd9a","toSide":"left"},
+		{"id":"1136f9386ba98e86","fromNode":"95a48ebb81725e56","fromSide":"right","toNode":"034ab988c6d4ca35","toSide":"left"},
+		{"id":"8f313f6dd916b3b0","fromNode":"fffa8e2bad564076","fromSide":"right","toNode":"550a064054a0ec7a","toSide":"left"},
+		{"id":"1387d44ad51f9cb6","fromNode":"3583c19b3ddb912b","fromSide":"right","toNode":"f0d108de26c0c5bb","toSide":"left"},
+		{"id":"f0d009aa61b13f04","fromNode":"034ab988c6d4ca35","fromSide":"right","toNode":"1802b1409e8b3c46","toSide":"left"}
+	]
+}

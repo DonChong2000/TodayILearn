@@ -13,13 +13,13 @@ ref: [Why You're Always Tired - 7 Myths Ruining Your Sleep](https://youtu.be/qlf
 
 tldr: It matter cause circadian rhythms, which is controlled by light.
 
-When we sleep is imoprtnat as is [Circadian rhythms](Keywords/Circadian%20rhythms.md).
+When we sleep is imoprtnat as is [Circadian rhythms](Circadian%20rhythms.md).
 Our eye has light detection mechanism, which tells our brain what time of the day it is, and helps regulate our interal clock.
 Distrupted circadian rhythms might lead to inscrease of stress hormones, risk of heart disease, rate of illness, and more prone to emotional and congnitive problems. 
 
 Prof: 97% of worker do not adapt to the demands of working at night
 
-BUT: everyone's circadian rhythms is different, e.g morning person and night owl, which are called [Chronotype](Keywords/Chronotype.md)
+BUT: everyone's circadian rhythms is different, e.g morning person and night owl, which are called [Chronotype](Chronotype.md)
 e.g: someone gets up early and find the morning be the most productive is likely a Morning Chronotype.
 
 We can figure out what our chronotype is by [this questionnarie]([AutoMEQ (chronotype-self-test.info)](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)). We can arrage our activities around to fit our chronotype
@@ -62,7 +62,7 @@ Prof: Currently no sleep app are endorsed by any of the sleep federations or FDA
 #todo 
 Research if sleep with android have research paper to support.
 
-### 6. [Melatonin](Keywords/Melatonin.md) helps us sleep better
+### 6. [Melatonin](Melatonin.md) helps us sleep better
 
 tldr: melatonin does reduct time to fall as sleep, but it is not significant.
 
