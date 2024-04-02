@@ -19,7 +19,11 @@ Dear HR,
 
 I am writing to seek help for being harassed at work today. Harry John, the technician touched my sensitive part intentionally, I felt offended therefore seeking help from you. Harry John and I has no any relationship other than co-workers, although he teaches me a lot in the project we are working on, we have no romantic relationship at all.
 
-During my morning shift, I was working on the blueprint, and having some trouble about it. Harry comes from behind and 
+During my morning shift around 1:30pm, I was working on the workstation, and having some trouble about the blueprint. Harry comes from behind and embraced me, touches my chest using both his hand. I was shocked and shout at him. 
+
+Luckily another co-worker at the scene, Mr. Bob witness the whole instance and willing to testify for me. Also I believe the CCTC should have the whole instance recorded.
+
+I would really appreciate if you can response promptly. Thank
 
 
 Yours sincerely,
