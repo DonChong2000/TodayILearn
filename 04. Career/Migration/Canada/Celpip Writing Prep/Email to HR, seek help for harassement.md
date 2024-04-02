@@ -13,3 +13,11 @@ I am looking for prompt ==respond== for this matter, I really appreciate if you 
 
 Yours sincerely,
 Emma
+
+---
+Dear HR,
+
+I am writing to seek help for being harassed at work today. Harry John, the technician touched my sensitive part intentionally, I felt offended therefore seeking help from you. Harry John and I has no any relationship other than co-workers, although he teaches me a lot in worki
+
+Yours sincerely,
+Emma
