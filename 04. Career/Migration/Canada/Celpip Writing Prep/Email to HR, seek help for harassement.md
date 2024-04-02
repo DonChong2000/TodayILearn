@@ -5,7 +5,9 @@
 
 Dear HR,
 
-I am writing to seek help from you for the matter of being harrassed at work.
+I am writing to seek help from you for the matter of being harassed at work. Last 
+
+I am looking for prompt respond for this matter, thanksyou 
 
 Yours sincerely,
-Don
+Emma
