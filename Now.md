@@ -1,6 +1,6 @@
 # Things to do Now
 
-- [ ] Print all photos
+- [x] Print all photos
 - [ ] cut finger nails
 - [ ] 5 tomato clocks o celpip
-- [ ] Plan what to do Nextg
+- [ ] Plan what to do Next
