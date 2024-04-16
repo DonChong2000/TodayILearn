@@ -9,4 +9,5 @@ Focus on
 - memorize structure
 part2：
 - sentance structures for comparison
-- 
+
+
