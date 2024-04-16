@@ -9,10 +9,13 @@ Example:
 ### DOs:
 - New paragraph to signal new main idea
 - Transition to show connection between ideas
-	- besides, furthermore
-	- meanwhile, ultimately
-	- hence, to begin with, last of all, in the end
-	- for instance, to be specific, such as, 
+	- **Addition:** besides, furthermore, in addition
+	- **Example:** for instance, to be specific, such as, 
+	- **Relation:** as a result, thus, since, hence, therefore
+	- **Comparisio:** like, similarly
+	- **Contrast:** but, in contrast, however, yet, on the other hand
+	- **Open/End:** to begin with, last of all, in the end
+
 
 Points to beware:
 - Tone, formal or informal?
