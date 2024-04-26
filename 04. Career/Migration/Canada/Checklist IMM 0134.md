@@ -26,7 +26,7 @@
 	- [ ] Birth certificates
 	- [ ]  national ID
 - [ ] Police Certificate and Clearances
-- [ ] Photo
-	- [ ] Name and date of birth on the back of the photo
-	- [ ] also date taken
-- [ ] Fees
+- [x] Photo
+	- [x] Name and date of birth on the back of the photo
+	- [x] also date taken
+- [x] Fees
