@@ -29,4 +29,4 @@
 	- [x] Name and date of birth on the back of the photo
 	- [x] also date taken
 - [x] Fees
-- [ ] - [ ] Police Certificate and Clearances
+- [ ] Police Certificate and Clearances
