@@ -1,3 +1,14 @@
+# 10 Doc:
+- [ ] Passport
+- [ ] present in Canada
+- [ ] Living outside Quebuc
+- [ ] CLB
+- [ ] WES
+- [ ] Proof of work
+- [ ] Status
+- [ ] Crime 
+- [ ] ID photo
+
 https://youtu.be/SuRHKgE-oPA?si=Gmfj2VYdzonlGsCK
 # Step1: Prep all Doc
 
