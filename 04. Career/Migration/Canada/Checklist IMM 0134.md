@@ -18,8 +18,8 @@
 - [ ] Proof of Language Proficiency
 	- [ ] CLB
 - [ ] Proof of Work Experience
-	- [ ] employer reference letter
-	- [ ] T4 + NOA
+	- [x] employer reference letter
+	- [x] T4 + NOA
 	- [ ] Work contracts
 	- [ ] pay stubs
 - [ ] Identity and Civil Status Documents
