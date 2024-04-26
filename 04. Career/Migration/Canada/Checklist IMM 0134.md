@@ -15,8 +15,8 @@
 	- [ ] Lease 
 	- [ ] Job offer
 	- [ ] Statutory declaration
-- [ ] Proof of Language Proficiency
-	- [ ] CLB
+- [x] Proof of Language Proficiency
+	- [x] CLB
 - [ ] Proof of Work Experience
 	- [x] employer reference letter
 	- [x] T4 + NOA
