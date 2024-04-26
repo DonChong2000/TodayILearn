@@ -8,4 +8,25 @@
 - [ ] Passport
 	- [ ] number, date of issue,
 	- [ ] All page showing the stamp made by Canada, and the first entry
-- [ ] Physical pre
+- [ ] Physical present in Canada
+	- [ ] Letter from landlord
+	- [ ] utility bills
+- [ ] Proof in intent to reside outside Quebec
+	- [ ] Lease 
+	- [ ] Job offer
+	- [ ] Statutory declaration
+- [ ] Proof of Language Proficiency
+	- [ ] CLB
+- [ ] Proof of Work Experience
+	- [ ] employer reference letter
+	- [ ] T4 + NOA
+	- [ ] Work contracts
+	- [ ] pay stubs
+- [ ] Identity and Civil Status Documents
+	- [ ] Birth certificates
+	- [ ]  national ID
+- [ ] Police Certificate and Clearances
+- [ ] Photo
+	- [ ] Name and date of birth on the back of the photo
+	- [ ] also date taken
+- [ ] Fees
