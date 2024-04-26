@@ -22,11 +22,11 @@
 	- [x] T4 + NOA
 	- [ ] Work contracts
 	- [ ] pay stubs
-- [ ] Identity and Civil Status Documents
-	- [ ] Birth certificates
-	- [ ]  national ID
-- [ ] Police Certificate and Clearances
+- [x] Identity and Civil Status Documents
+	- [x] Birth certificates
+	- [x]  national ID
 - [x] Photo
 	- [x] Name and date of birth on the back of the photo
 	- [x] also date taken
 - [x] Fees
+- [ ] - [ ] Police Certificate and Clearances
