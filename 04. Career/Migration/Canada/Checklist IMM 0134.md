@@ -9,7 +9,7 @@
 	- [ ] number, date of issue,
 	- [ ] All page showing the stamp made by Canada, and the first entry
 - [ ] Physical present in Canada
-	- [ ] Letter from landlord
+	- [x] Letter from landlord
 	- [ ] utility bills
 - [ ] Proof in intent to reside outside Quebec
 	- [ ] Lease 
@@ -20,7 +20,7 @@
 - [ ] Proof of Work Experience
 	- [x] employer reference letter
 	- [x] T4 + NOA
-	- [ ] Work contracts
+	- ~~[ ] Work contracts~~
 	- [ ] pay stubs
 - [x] Identity and Civil Status Documents
 	- [x] Birth certificates
