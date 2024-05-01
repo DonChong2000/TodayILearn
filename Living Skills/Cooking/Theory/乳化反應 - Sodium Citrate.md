@@ -1,5 +1,5 @@
   
-Trisodium citrate, primarily employed as a food additive known for its emulsifying properties.
+Trisodium citrate (E331), primarily employed as a food additive known for its emulsifying properties.
 
 - Sodium Citrate plays a pivotal role as a food additive, especially in processed cheese like American Cheese.
 - **It helps cheese melt into water or other fluid**
@@ -16,3 +16,10 @@ Trisodium citrate, primarily employed as a food additive known for its emulsifyi
    ![|300](../../../z.Images/Pasted%20image%2020240430183441.png)
    
    This version retains the essential information while improving clarity and readability.
+
+- Using the processed cheese, it is easy to make [Carbonara](../Carbonara.md) sauces smooth and well blend. (In traditional receipy, we use egg as emulsifier with is hard to control)
+![](../../../z.Images/Pasted%20image%2020240430184059.png)
+# Reference
+- https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-citrate, USUALLY BY ADDING SODIUM CARBONATE TO A SOLN OF CITRIC ACID UNTIL EFFERVESCENCE CEASES, EVAPORATING, AND GRANULATING THE PRODUCT.
+- [Making American cheese to debunk a conspiracy (youtube.com)](https://www.youtube.com/watch?v=0aGNAxN5Z-o)
+- 
