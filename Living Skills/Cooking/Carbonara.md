@@ -26,4 +26,4 @@ Modern Carbonara shopping list:
 7. taste it and season it with salt and pepper.
 
 Related Theory:
-[乳化反應 - 義大利麵](Theory/乳化反應%20-%20義大利麵.md)
+[乳化反應](Theory/乳化反應.md)
