@@ -6,6 +6,8 @@ Ref: [煮義大利麵的最大失敗原因！就是沒搞懂「乳化反應」�
 
 兩種原本互不相溶的液體（例如：油和水）形成均勻的混合物的過程
 
+NOTE: The two fluid still cant mix together, it just one one liquid (the dispersed phase) is dispersed in the other (the continuous phase)
+
 乳化劑，其由親水基和親油基組成，引起乳化作用
 Example:
 - 蛋黃
