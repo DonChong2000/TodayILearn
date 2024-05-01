@@ -1,14 +1,18 @@
-Trisodium citrate, chiefly used as a food additive (emulsifier)
+  
+Trisodium citrate, primarily employed as a food additive known for its emulsifying properties.
 
-- Sodium Citrate is a main food additive in processed cheese (American Cheese
-- **By adding it, it makes cheese melt in water**
-# Making it at home
+- Sodium Citrate plays a pivotal role as a food additive, especially in processed cheese like American Cheese.
+- **It helps cheese melt into water or other fluid**
+# Homemade Preparation
 
-- Mixing lemon / Lime with baking soda (citric acid and sodium bicarbonate)
-- Mix two until no bubble, and tastes less sour
+- Create a homemade version by combining lemon or lime juice with baking soda (citric acid and sodium bicarbonate).
+- Blend the two until no bubbles remain, resulting in a mixture with a less pronounced sour taste.
 
-# Using it
+# Application
 
-- Adding water and cheese in the mixture, cheese can melt into water
-
-![](../../../z.Images/DIYCheese.mp4|20)
+- Combine water and cheese with the homemade mixture; the cheese will dissolves into the water.
+- For a thicker consistency, add additional cheese and blend thoroughly with a blender (optional). Upon cooling, the mixture solidifies.
+   ![](../../../z.Images/DIYCheese.mp4)
+   ![|300](../../../z.Images/Pasted%20image%2020240430183441.png)
+   
+   This version retains the essential information while improving clarity and readability.
